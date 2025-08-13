@@ -20,7 +20,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-map-outline: **Interactive Maps**
+- :material-map-outline: **Interactive Maps**
 
     ---
 
@@ -28,7 +28,7 @@
 
     [:octicons-arrow-right-24: View Maps](geography/maps.md)
 
--   :material-chart-line: **Live Statistics**
+- :material-chart-line: **Live Statistics**
 
     ---
 
@@ -36,7 +36,7 @@
 
     [:octicons-arrow-right-24: View Data](demographics/population.md)
 
--   :material-clock-time-four: **War Timeline**
+- :material-clock-time-four: **War Timeline**
 
     ---
 
@@ -44,7 +44,7 @@
 
     [:octicons-arrow-right-24: Timeline](war/timeline.md)
 
--   :material-download: **Data Downloads**
+- :material-download: **Data Downloads**
 
     ---
 
@@ -130,7 +130,7 @@ Tigray stands as the **cradle of Ethiopian civilization**, home to:
 **Ternafit NGO** is a Swedish-Ethiopian organization dedicated to education, research, and humanitarian advocacy. This knowledge base represents years of collaboration with researchers, journalists, and Tigrayan communities worldwide.
 
 !!! quote "Our Mission"
-    
+
     "To preserve, document, and share the rich heritage and complex realities of Tigray with the world, ensuring that history is accurately recorded and future generations can learn from both triumphs and tragedies."
 
 [:material-information: Learn More](about.md){ .md-button .md-button--outline }
@@ -153,38 +153,38 @@ All statistics are cross-referenced and uncertainties clearly indicated.
 
 ---
 
-<div class="contribute-section" markdown>
+## :material-hand-heart: Contribute to This Knowledge Base
 
-## 🤝 Contribute to This Knowledge Base
+<div class="grid cards" markdown>
 
-<div class="contribute-grid">
-    <div class="contribute-card">
-        <div class="contribute-icon">:material-github:</div>
-        <h3>Report Issues</h3>
-        <p>Found something inaccurate or outdated? Help us improve by reporting issues or suggesting enhancements.</p>
-        <a href="https://github.com/yosephdev/tigray.ternafit.org/issues" class="contribute-btn">Submit Issue</a>
-    </div>
-    
-    <div class="contribute-card">
-        <div class="contribute-icon">:material-email:</div>
-        <h3>Research Collaboration</h3>
-        <p>Connect with our research team to share data, insights, or academic partnerships.</p>
-        <a href="mailto:research@ternafit.org" class="contribute-btn">Contact Team</a>
-    </div>
-    
-    <div class="contribute-card">
-        <div class="contribute-icon">:material-translate:</div>
-        <h3>Help with Translations</h3>
-        <p>Support multilingual access by helping translate content into Tigrigna and other languages.</p>
-        <a href="https://github.com/yosephdev/tigray.ternafit.org/discussions" class="contribute-btn">Join Translation</a>
-    </div>
+- :material-github: **Report Issues**
+
+    ---
+
+    Found something inaccurate or outdated? Help us improve by reporting issues or suggesting enhancements.
+
+    [:octicons-arrow-right-24: Submit Issue](https://github.com/yosephdev/tigray.ternafit.org/issues){ .md-button .md-button--primary }
+
+- :material-email: **Research Collaboration**
+
+    ---
+
+    Connect with our research team to share data, insights, or academic partnerships.
+
+    [:octicons-arrow-right-24: Contact Team](mailto:research@ternafit.org){ .md-button .md-button--primary }
+
+- :material-translate: **Help with Translations**
+
+    ---
+
+    Support multilingual access by helping translate content into Tigrigna and other languages.
+
+    [:octicons-arrow-right-24: Join Translation](https://github.com/yosephdev/tigray.ternafit.org/discussions){ .md-button .md-button--primary }
+
 </div>
 
-<div class="update-info">
-    <div class="update-item">
-        <strong>Last updated:</strong> {{ git_revision_date_localized }}
-    </div>
-    <div class="update-item">
-        <strong>Next update:</strong> Real-time data feeds updated daily
-    </div>
-</div>
+!!! info "Project Status"
+
+    **Last updated:** {{ git_revision_date_localized }}  
+    **Next update:** Real-time data feeds updated daily
+
