@@ -1,7 +1,8 @@
 site_name: "Tigray Knowledge Base – TernaFit"
 site_url: https://tigray.ternafit.org
 docs_dir: docs
-repo_url: https://github.com/yosephdev/tigray.ternafit.org
+# Temporarily disable repo_url to avoid git date serialization issues
+# repo_url: https://github.com/yosephdev/tigray.ternafit.org
 theme:
   name: material
   logo: assets/ternafit_logo.svg
@@ -28,3 +29,7 @@ extra:
 # Optional: disable features that inject dates
 plugins:
   - search
+
+# Disable git repository info to prevent date serialization issues  
+markdown_extensions:
+  - pymdownx.superfences
