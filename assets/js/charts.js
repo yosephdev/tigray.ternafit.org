@@ -29,9 +29,172 @@ const TigrayCharts = {
 
     // Initialize charts when page loads
     init: function() {
+        this.loadPlotlyLibrary();
+        this.renderJsonCharts();
         this.setupResponsiveCharts();
         this.addChartInteractivity();
         this.initializeDataTables();
+    },
+
+    // Load Plotly.js library dynamically
+    loadPlotlyLibrary: function() {
+        if (typeof Plotly === 'undefined') {
+            const script = document.createElement('script');
+            script.src = 'https://cdn.plot.ly/plotly-latest.min.js';
+            script.onload = () => {
+                console.log('Plotly.js loaded successfully');
+                this.renderJsonCharts();
+            };
+            document.head.appendChild(script);
+        }
+    },
+
+    // Find and render JSON chart configurations in markdown
+    renderJsonCharts: function() {
+        // Wait for Plotly to be available
+        if (typeof Plotly === 'undefined') {
+            setTimeout(() => this.renderJsonCharts(), 100);
+            return;
+        }
+
+        console.log('Scanning for chart JSON configurations...');
+        
+        // Find all code blocks that might contain chart configurations
+        const codeBlocks = document.querySelectorAll('div.highlight pre, pre code, .language-text pre');
+        console.log(`Found ${codeBlocks.length} potential code blocks`);
+        
+        codeBlocks.forEach((codeBlock, index) => {
+            const text = codeBlock.textContent.trim();
+            
+            // Check if it's a JSON chart configuration
+            if (this.isChartJson(text)) {
+                console.log(`Found chart JSON in block ${index}`);
+                try {
+                    const config = JSON.parse(text);
+                    this.createChartFromJson(config, codeBlock, index);
+                } catch (error) {
+                    console.warn('Failed to parse chart JSON:', error);
+                }
+            }
+        });
+        
+        console.log('Chart scanning complete');
+    },
+
+    // Check if text contains a chart JSON configuration
+    isChartJson: function(text) {
+        try {
+            const parsed = JSON.parse(text);
+            // Check if it has either Plotly format (data + layout) or Vega-Lite format
+            const isPlotly = parsed.data && (parsed.layout || Array.isArray(parsed.data));
+            const isVega = parsed.data && parsed.mark;
+            const hasChartData = parsed.data && (parsed.data.values || Array.isArray(parsed.data));
+            
+            return isPlotly || isVega || hasChartData;
+        } catch {
+            return false;
+        }
+    },
+
+    // Create a chart from JSON configuration
+    createChartFromJson: function(config, originalElement, index) {
+        console.log(`Creating chart ${index}`, config);
+        
+        // Create container for the chart
+        const chartContainer = document.createElement('div');
+        chartContainer.id = `chart-${index}`;
+        chartContainer.className = 'plotly-chart interactive-chart';
+        chartContainer.style.cssText = 'width: 100%; height: 400px; margin: 20px 0; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);';
+
+        // Apply default layout settings
+        const layout = {
+            ...this.defaultLayout,
+            ...config.layout
+        };
+
+        // Apply color scheme if not specified
+        if (config.data && Array.isArray(config.data)) {
+            config.data.forEach(trace => {
+                if (!trace.marker || !trace.marker.color) {
+                    if (!trace.marker) trace.marker = {};
+                    trace.marker.color = this.colors.primary;
+                }
+                if (trace.line && !trace.line.color) {
+                    trace.line.color = this.colors.secondary;
+                }
+            });
+        }
+
+        // Find the right parent to replace - could be pre, div.highlight, or div.language-text
+        let parentToReplace = originalElement.closest('div.highlight') || 
+                              originalElement.closest('div.language-text') || 
+                              originalElement.parentElement; // fallback to immediate parent
+        
+        if (!parentToReplace) {
+            parentToReplace = originalElement.parentElement;
+        }
+        
+        console.log('Replacing element:', parentToReplace);
+        
+        // Replace the code block with the chart
+        parentToReplace.replaceWith(chartContainer);
+
+        // Render the chart
+        Plotly.newPlot(chartContainer.id, config.data, layout, {
+            responsive: true,
+            displayModeBar: true,
+            modeBarButtonsToRemove: ['pan2d', 'lasso2d', 'select2d'],
+            displaylogo: false
+        }).then(() => {
+            console.log(`Chart ${index} rendered successfully`);
+        }).catch(error => {
+            console.error(`Failed to render chart ${index}:`, error);
+        });
+
+        // Add download functionality
+        this.addChartDownloadButton(chartContainer);
+
+        // Track chart rendering
+        if (typeof Analytics !== 'undefined') {
+            Analytics.trackChartInteraction('plotly', 'rendered');
+        }
+    },
+
+    // Add download button to chart
+    addChartDownloadButton: function(chartContainer) {
+        const downloadBtn = document.createElement('button');
+        downloadBtn.className = 'chart-download-btn';
+        downloadBtn.innerHTML = '📥 Download Chart';
+        downloadBtn.style.cssText = `
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: ${this.colors.primary};
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+            z-index: 1000;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            transition: background-color 0.3s ease;
+        `;
+        
+        downloadBtn.addEventListener('mouseover', () => {
+            downloadBtn.style.backgroundColor = this.colors.dark;
+        });
+        
+        downloadBtn.addEventListener('mouseout', () => {
+            downloadBtn.style.backgroundColor = this.colors.primary;
+        });
+        
+        chartContainer.style.position = 'relative';
+        chartContainer.appendChild(downloadBtn);
+        
+        downloadBtn.addEventListener('click', () => {
+            this.downloadChart(chartContainer);
+        });
     },
 
     // Make charts responsive
@@ -88,25 +251,36 @@ const TigrayCharts = {
 
     // Download chart as image
     downloadChart: function(chartElement) {
-        const title = chartElement.querySelector('.chart-title')?.textContent || 'chart';
-        const filename = title.toLowerCase().replace(/\s+/g, '_') + '.png';
+        const title = chartElement.querySelector('.js-plotly-plot .plotly')?.layout?.title?.text || 
+                     chartElement.id || 'chart';
+        const filename = title.toLowerCase().replace(/[^a-z0-9]/g, '_') + '.png';
         
-        if (chartElement.classList.contains('plotly-chart')) {
+        if (typeof Plotly !== 'undefined' && chartElement.classList.contains('plotly-chart')) {
             Plotly.downloadImage(chartElement, {
                 format: 'png',
                 width: 1200,
                 height: 800,
                 filename: filename
+            }).then(() => {
+                if (typeof Analytics !== 'undefined') {
+                    Analytics.trackDownload(filename, 'chart');
+                }
             });
         } else {
-            // For other chart types, use html2canvas if available
+            // Fallback for other chart types
             if (typeof html2canvas !== 'undefined') {
                 html2canvas(chartElement).then(canvas => {
                     const link = document.createElement('a');
                     link.download = filename;
                     link.href = canvas.toDataURL();
                     link.click();
+                    
+                    if (typeof Analytics !== 'undefined') {
+                        Analytics.trackDownload(filename, 'chart');
+                    }
                 });
+            } else {
+                console.warn('Chart download not available - html2canvas library not loaded');
             }
         }
     },

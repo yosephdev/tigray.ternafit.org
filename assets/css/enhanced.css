@@ -370,3 +370,123 @@
         transition: none;
     }
 }
+
+/* Interactive Charts */
+.chart-container {
+    margin: 2rem 0;
+    border: 1px solid var(--md-default-fg-color--lighter);
+    border-radius: 8px;
+    background: var(--md-default-bg-color);
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.chart-header {
+    padding: 1rem 1.5rem;
+    background: var(--md-primary-fg-color--light);
+    border-bottom: 1px solid var(--md-default-fg-color--lighter);
+}
+
+.chart-title {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--md-default-fg-color);
+}
+
+.chart-content {
+    position: relative;
+    min-height: 400px;
+}
+
+.chart-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+    color: var(--md-default-fg-color--light);
+    font-size: 1rem;
+}
+
+.chart-loading:before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    border: 2px solid var(--md-default-fg-color--lighter);
+    border-top: 2px solid var(--md-primary-fg-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-right: 0.5rem;
+}
+
+.chart-error {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+    color: var(--md-typeset-color);
+    background: #fff3cd;
+    border: 1px solid #ffeaa7;
+    border-radius: 4px;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.chart-actions {
+    padding: 0.75rem 1.5rem;
+    border-top: 1px solid var(--md-default-fg-color--lighter);
+    background: var(--md-code-bg-color);
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+}
+
+.chart-download-btn {
+    background: var(--md-primary-fg-color);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.875rem;
+    transition: background-color 0.2s ease;
+}
+
+.chart-download-btn:hover {
+    background: var(--md-primary-fg-color--dark);
+}
+
+.chart-download-btn:disabled {
+    background: var(--md-default-fg-color--lighter);
+    cursor: not-allowed;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Chart responsiveness */
+@media (max-width: 768px) {
+    .chart-container {
+        margin: 1rem 0;
+    }
+    
+    .chart-header {
+        padding: 0.75rem 1rem;
+    }
+    
+    .chart-title {
+        font-size: 1rem;
+    }
+    
+    .chart-actions {
+        padding: 0.5rem 1rem;
+    }
+    
+    .chart-download-btn {
+        font-size: 0.8rem;
+        padding: 0.4rem 0.8rem;
+    }
+}
