@@ -1,8 +1,8 @@
 site_name: "Tigray Knowledge Base – TernaFit"
 site_url: https://tigray.ternafit.org
 docs_dir: docs
-# Temporarily disable repo_url to avoid git date serialization issues
-# repo_url: https://github.com/yosephdev/tigray.ternafit.org
+repo_url: https://github.com/yosephdev/tigray.ternafit.org
+repo_name: yosephdev/tigray.ternafit.org
 theme:
   name: material
   logo: assets/ternafit_logo.svg
@@ -26,7 +26,7 @@ extra:
   # Force all dates to strings so Material can serialize them
   generated: "2025-08-13"
 
-# Optional: disable features that inject dates
+# Plugins - keep search but avoid git date plugins that cause serialization issues
 plugins:
   - search
 
