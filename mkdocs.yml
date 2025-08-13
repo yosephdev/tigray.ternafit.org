@@ -9,8 +9,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-  logo: assets/images/ternafit_logo.svg
-  favicon: assets/images/favicon.ico
+  logo: assets/images/logo-primary.svg
+  favicon: assets/images/favicon.svg
   language: en
   palette:
     - media: "(prefers-color-scheme: light)"
