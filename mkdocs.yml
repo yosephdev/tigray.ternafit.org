@@ -1,9 +1,16 @@
 site_name: "Tigray Knowledge Base – TernaFit"
+site_url: https://tigray.ternafit.org
 docs_dir: docs
+repo_url: https://github.com/yosephdev/tigray.ternafit.org
 theme:
   name: material
+  logo: assets/ternafit_logo.svg
   palette:
-    primary: deep orange
+    - scheme: default
+      primary: deep orange
+  features:
+    - navigation.tabs
+    - navigation.sections
 nav:
   - Home: index.md
   - Geography: 01-geography.md
@@ -14,3 +21,5 @@ nav:
   - Tigray War & Memorial: 06-war-memorial.md
   - Current Affairs: 07-current-affairs.md
   - Downloads: 08-downloads.md
+extra:
+  version: 2025-08-13
