@@ -1,35 +1,205 @@
-site_name: "Tigray Knowledge Base – TernaFit"
+site_name: "Tigray Knowledge Base – Ternafit"
 site_url: https://tigray.ternafit.org
+site_description: "The most comprehensive, authoritative, and multimedia-rich knowledge base on Tigray, Ethiopia"
+site_author: "Ternafit NGO"
 docs_dir: docs
 repo_url: https://github.com/yosephdev/tigray.ternafit.org
 repo_name: yosephdev/tigray.ternafit.org
+edit_uri: edit/main/docs/
+
 theme:
   name: material
-  logo: assets/ternafit_logo.svg
+  logo: assets/images/ternafit_logo.svg
+  favicon: assets/images/favicon.ico
+  language: en
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.action.edit
+    - content.action.view
+    - content.tooltips
+    - header.autohide
+  font:
+    text: Inter
+    code: JetBrains Mono
+
 nav:
-  - Home: index.md
-  - Geography: 01-geography.md
-  - Demographics: 02-demographics.md
-  - Economy: 03-economy.md
-  - Education & Health: 04-edu-health.md
-  - History & Culture: 05-history-culture.md
-  - Tigray War & Memorial: 06-war-memorial.md
-  - Current Affairs: 07-current-affairs.md
-  - Downloads: 08-downloads.md
+  - Home: 
+    - index.md
+    - About Ternafit: about.md
+  - Geography: 
+    - 01-geography.md
+    - Administrative Divisions: geography/admin-divisions.md
+    - Physical Geography: geography/physical.md
+    - Interactive Maps: geography/maps.md
+  - Demographics: 
+    - 02-demographics.md
+    - Population Statistics: demographics/population.md
+    - Ethnic Groups: demographics/ethnicity.md
+    - Languages & Religion: demographics/culture.md
+  - Economy: 
+    - 03-economy.md
+    - Agriculture: economy/agriculture.md
+    - Industry & Mining: economy/industry.md
+    - Trade & Commerce: economy/trade.md
+  - Education & Health: 
+    - 04-edu-health.md
+    - Educational Institutions: education/institutions.md
+    - Health System: health/system.md
+    - Statistics & Data: education/statistics.md
+  - History & Culture: 
+    - 05-history-culture.md
+    - Ancient History: history/ancient.md
+    - Modern History: history/modern.md
+    - Cultural Heritage: culture/heritage.md
+    - Notable Figures: history/figures.md
+  - War & Memorial: 
+    - 06-war-memorial.md
+    - War Timeline: war/timeline.md
+    - Humanitarian Impact: war/humanitarian.md
+    - Never Again Memorial: war/memorial.md
+    - Documentation: war/documentation.md
+  - Current Affairs: 
+    - 07-current-affairs.md
+    - Governance: current/governance.md
+    - Reconstruction: current/reconstruction.md
+    - News Feed: current/news.md
+  - Resources:
+    - 08-downloads.md
+    - Data Downloads: resources/data.md
+    - Maps & GIS: resources/maps.md
+    - Research Papers: resources/research.md
+    - Bibliography: resources/bibliography.md
+
 extra:
-  # Force all dates to strings so Material can serialize them
-  generated: "2025-08-13"
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yosephdev/tigray.ternafit.org
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ternafit
+    - icon: fontawesome/solid/globe
+      link: https://ternafit.org
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
 
-# Plugins - keep search but avoid git date plugins that cause serialization issues
+copyright: >
+  Copyright &copy; 2025 Ternafit NGO –
+  <a href="#__consent">Change cookie settings</a>
+
 plugins:
-  - search
+  - search:
+      lang: en
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - table-reader
+  - awesome-pages
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+      custom_format: "%d. %B %Y"
+      timezone: Europe/Stockholm
+      locale: en
+      fallback_to_build_date: false
+      exclude:
+        - index.md
+  - rss:
+      match_path: current/news.md
+      date_from_meta:
+        date: "date"
+      categories:
+        - categories
+        - tags
 
-# Disable git repository info to prevent date serialization issues  
 markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      title: On this page
+  - tables
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: yosephdev
+      repo: tigray.ternafit.org
+  - pymdownx.mark
+  - pymdownx.smartsymbols
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_javascript:
+  - https://unpkg.com/plotly.js@2.27.0/dist/plotly.min.js
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+  - assets/js/charts.js
+  - assets/js/enhanced.js
+
+extra_css:
+  - assets/css/custom.css
+  - assets/css/enhanced.css
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css

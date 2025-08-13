@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "name": "Tigray Administrative Zones",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Central Tigray Zone",
+        "Name_Tigrinya": "ማእከላይ ትግራይ",
+        "Population": 700000,
+        "Area": 4306,
+        "Capital": "Axum",
+        "Woredas": 6,
+        "Type": "Administrative Zone",
+        "Zone_Code": "TG01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [38.4000, 14.0000],
+          [39.2000, 14.0000],
+          [39.2000, 14.6000],
+          [38.8000, 14.8000],
+          [38.4000, 14.6000],
+          [38.4000, 14.0000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eastern Tigray Zone",
+        "Name_Tigrinya": "ምብራቕ ትግራይ",
+        "Population": 650000,
+        "Area": 15065,
+        "Capital": "Adigrat",
+        "Woredas": 8,
+        "Type": "Administrative Zone",
+        "Zone_Code": "TG02"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.2000, 13.8000],
+          [40.2000, 13.8000],
+          [40.2000, 14.8000],
+          [39.2000, 14.8000],
+          [39.2000, 13.8000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Southern Tigray Zone",
+        "Name_Tigrinya": "ደቡብ ትግራይ",
+        "Population": 900000,
+        "Area": 9000,
+        "Capital": "Korem",
+        "Woredas": 7,
+        "Type": "Administrative Zone",
+        "Zone_Code": "TG03"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [38.8000, 12.2000],
+          [40.0000, 12.2000],
+          [40.0000, 13.8000],
+          [39.2000, 13.8000],
+          [38.8000, 13.6000],
+          [38.8000, 12.2000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Western Tigray Zone",
+        "Name_Tigrinya": "ምዕራብ ትግራይ",
+        "Population": 350000,
+        "Area": 15000,
+        "Capital": "Humera",
+        "Woredas": 4,
+        "Type": "Administrative Zone",
+        "Zone_Code": "TG04"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.5000, 13.8000],
+          [38.4000, 13.8000],
+          [38.4000, 14.6000],
+          [36.8000, 14.8000],
+          [36.5000, 14.6000],
+          [36.5000, 13.8000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Northwestern Tigray Zone",
+        "Name_Tigrinya": "ሰሜን ምዕራብ ትግራይ",
+        "Population": 600000,
+        "Area": 12000,
+        "Capital": "Shire",
+        "Woredas": 9,
+        "Type": "Administrative Zone",
+        "Zone_Code": "TG05"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8000, 14.6000],
+          [38.4000, 14.6000],
+          [38.8000, 14.8000],
+          [38.8000, 15.2000],
+          [37.0000, 15.2000],
+          [36.8000, 14.8000],
+          [36.8000, 14.6000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Tigray Zone",
+        "Name_Tigrinya": "ሰሜን ትግራይ",
+        "Population": 400000,
+        "Area": 8000,
+        "Capital": "Zalambessa",
+        "Woredas": 5,
+        "Type": "Administrative Zone",
+        "Zone_Code": "TG06"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [38.8000, 14.8000],
+          [39.4000, 14.8000],
+          [39.4000, 15.2000],
+          [38.8000, 15.2000],
+          [38.8000, 14.8000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Southeastern Tigray Zone",
+        "Name_Tigrinya": "ደቡብ ምብራቕ ትግራይ",
+        "Population": 250000,
+        "Area": 6000,
+        "Capital": "Wukro",
+        "Woredas": 4,
+        "Type": "Administrative Zone",
+        "Zone_Code": "TG07"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.2000, 13.2000],
+          [40.2000, 13.2000],
+          [40.2000, 13.8000],
+          [39.2000, 13.8000],
+          [39.2000, 13.2000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mekelle Special Zone",
+        "Name_Tigrinya": "መቐለ ፍሉይ ዞባ",
+        "Population": 500000,
+        "Area": 486,
+        "Capital": "Mekelle",
+        "Woredas": 7,
+        "Type": "Special Zone",
+        "Zone_Code": "TG08"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.3000, 13.3000],
+          [39.7000, 13.3000],
+          [39.7000, 13.7000],
+          [39.3000, 13.7000],
+          [39.3000, 13.3000]
+        ]]
+      }
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Major Towns and Cities of Tigray</name>
+    <description>Major settlements, towns and cities in the Tigray Region of Ethiopia</description>
+    
+    <!-- Regional Capital Style -->
+    <Style id="regionalCapital">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+        </Icon>
+        <scale>1.2</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    
+    <!-- Historic City Style -->
+    <Style id="historicCity">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/purple-pushpin.png</href>
+        </Icon>
+        <scale>1.0</scale>
+      </IconStyle>
+    </Style>
+    
+    <!-- Major Town Style -->
+    <Style id="majorTown">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+        </Icon>
+        <scale>0.8</scale>
+      </IconStyle>
+    </Style>
+    
+    <!-- Town Style -->
+    <Style id="town">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/green-pushpin.png</href>
+        </Icon>
+        <scale>0.7</scale>
+      </IconStyle>
+    </Style>
+
+    <!-- Regional Capital -->
+    <Placemark>
+      <name>Mekelle</name>
+      <description><![CDATA[
+        <h3>Mekelle ( መቐለ)</h3>
+        <p><strong>Type:</strong> Regional Capital & Special Zone</p>
+        <p><strong>Population:</strong> ~500,000 (2019)</p>
+        <p><strong>Elevation:</strong> 2,254 meters</p>
+        <p><strong>Significance:</strong> Capital and largest city of Tigray Region, major economic and educational center</p>
+        <p><strong>Features:</strong> Mekelle University, Airport, Regional Government Headquarters</p>
+      ]]></description>
+      <styleUrl>#regionalCapital</styleUrl>
+      <Point>
+        <coordinates>39.4753,13.4967,2254</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Historic Cities -->
+    <Placemark>
+      <name>Axum</name>
+      <description><![CDATA[
+        <h3>Axum (አክሱም)</h3>
+        <p><strong>Type:</strong> Historic City & UNESCO World Heritage Site</p>
+        <p><strong>Population:</strong> ~60,000</p>
+        <p><strong>Elevation:</strong> 2,131 meters</p>
+        <p><strong>Significance:</strong> Ancient capital of Axumite Kingdom, religious center</p>
+        <p><strong>Features:</strong> Stelae Field, Church of St. Mary of Zion, Archaeological sites</p>
+        <p><strong>Zone:</strong> Central Tigray</p>
+      ]]></description>
+      <styleUrl>#historicCity</styleUrl>
+      <Point>
+        <coordinates>38.7236,14.1211,2131</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Adwa</name>
+      <description><![CDATA[
+        <h3>Adwa (ዓድዋ)</h3>
+        <p><strong>Type:</strong> Historic Town</p>
+        <p><strong>Population:</strong> ~65,000</p>
+        <p><strong>Elevation:</strong> 1,907 meters</p>
+        <p><strong>Significance:</strong> Site of the famous Battle of Adwa (1896)</p>
+        <p><strong>Features:</strong> Battle of Adwa Memorial, Historic churches</p>
+        <p><strong>Zone:</strong> Central Tigray</p>
+      ]]></description>
+      <styleUrl>#historicCity</styleUrl>
+      <Point>
+        <coordinates>38.9000,14.1700,1907</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Major Towns -->
+    <Placemark>
+      <name>Adigrat</name>
+      <description><![CDATA[
+        <h3>Adigrat (ዓዲግራት)</h3>
+        <p><strong>Type:</strong> Major Town</p>
+        <p><strong>Population:</strong> ~65,000</p>
+        <p><strong>Elevation:</strong> 2,457 meters</p>
+        <p><strong>Significance:</strong> Commercial center, gateway to Eastern Tigray</p>
+        <p><strong>Features:</strong> Adigrat University, Commercial hub</p>
+        <p><strong>Zone:</strong> Eastern Tigray</p>
+      ]]></description>
+      <styleUrl>#majorTown</styleUrl>
+      <Point>
+        <coordinates>39.4617,14.2751,2457</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Shire</name>
+      <description><![CDATA[
+        <h3>Shire (ሽረ)</h3>
+        <p><strong>Type:</strong> Major Town</p>
+        <p><strong>Population:</strong> ~50,000</p>
+        <p><strong>Elevation:</strong> 1,953 meters</p>
+        <p><strong>Significance:</strong> Commercial and transport hub for Western Tigray</p>
+        <p><strong>Features:</strong> Airport, Commercial center</p>
+        <p><strong>Zone:</strong> Northwestern Tigray</p>
+      ]]></description>
+      <styleUrl>#majorTown</styleUrl>
+      <Point>
+        <coordinates>37.9706,14.1078,1953</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Wukro</name>
+      <description><![CDATA[
+        <h3>Wukro (ውቕሮ)</h3>
+        <p><strong>Type:</strong> Major Town</p>
+        <p><strong>Population:</strong> ~40,000</p>
+        <p><strong>Elevation:</strong> 1,995 meters</p>
+        <p><strong>Significance:</strong> Gateway to Danakil Depression, rock churches</p>
+        <p><strong>Features:</strong> Wukro Chirkos (rock church), Salt mining access</p>
+        <p><strong>Zone:</strong> Eastern Tigray</p>
+      ]]></description>
+      <styleUrl>#majorTown</styleUrl>
+      <Point>
+        <coordinates>39.6000,13.7833,1995</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Towns -->
+    <Placemark>
+      <name>Humera</name>
+      <description><![CDATA[
+        <h3>Humera (ሁመራ)</h3>
+        <p><strong>Type:</strong> Town</p>
+        <p><strong>Population:</strong> ~30,000</p>
+        <p><strong>Elevation:</strong> 609 meters</p>
+        <p><strong>Significance:</strong> Agricultural center, sesame production</p>
+        <p><strong>Features:</strong> Sesame farms, Border proximity</p>
+        <p><strong>Zone:</strong> Western Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>36.6330,14.2970,609</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Alamata</name>
+      <description><![CDATA[
+        <h3>Alamata (ዓላማጣ)</h3>
+        <p><strong>Type:</strong> Town</p>
+        <p><strong>Population:</strong> ~25,000</p>
+        <p><strong>Elevation:</strong> 1,520 meters</p>
+        <p><strong>Significance:</strong> Southern gateway to Tigray</p>
+        <p><strong>Features:</strong> Transport hub, Commercial center</p>
+        <p><strong>Zone:</strong> Southern Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>39.5333,12.4167,1520</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Zalambessa</name>
+      <description><![CDATA[
+        <h3>Zalambessa (ዛላምበሳ)</h3>
+        <p><strong>Type:</strong> Border Town</p>
+        <p><strong>Population:</strong> ~15,000</p>
+        <p><strong>Elevation:</strong> 2,633 meters</p>
+        <p><strong>Significance:</strong> Border town with Eritrea</p>
+        <p><strong>Features:</strong> International border crossing</p>
+        <p><strong>Zone:</strong> Central Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>39.1333,14.4000,2633</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Hawzen</name>
+      <description><![CDATA[
+        <h3>Hawzen (ሓውዘን)</h3>
+        <p><strong>Type:</strong> Town</p>
+        <p><strong>Population:</strong> ~8,000</p>
+        <p><strong>Elevation:</strong> 2,105 meters</p>
+        <p><strong>Significance:</strong> Gateway to Gheralta rock churches</p>
+        <p><strong>Features:</strong> Rock-hewn churches, Tourism center</p>
+        <p><strong>Zone:</strong> Central Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>39.4333,14.1167,2105</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Senkata</name>
+      <description><![CDATA[
+        <h3>Senkata (ሰንካታ)</h3>
+        <p><strong>Type:</strong> Town</p>
+        <p><strong>Population:</strong> ~12,000</p>
+        <p><strong>Elevation:</strong> 2,890 meters</p>
+        <p><strong>Significance:</strong> High altitude settlement</p>
+        <p><strong>Features:</strong> Mountain town, Agricultural area</p>
+        <p><strong>Zone:</strong> Eastern Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>39.6500,14.3500,2890</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>May Mekdan</name>
+      <description><![CDATA[
+        <h3>May Mekdan (ማይ መቅዳን)</h3>
+        <p><strong>Type:</strong> Town</p>
+        <p><strong>Population:</strong> ~8,000</p>
+        <p><strong>Elevation:</strong> 2,100 meters</p>
+        <p><strong>Significance:</strong> Local administrative center</p>
+        <p><strong>Features:</strong> Local government offices</p>
+        <p><strong>Zone:</strong> Northwestern Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>37.6167,14.4833,2100</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Maychew</name>
+      <description><![CDATA[
+        <h3>Maychew (ማይጨው)</h3>
+        <p><strong>Type:</strong> Town</p>
+        <p><strong>Population:</strong> ~10,000</p>
+        <p><strong>Elevation:</strong> 2,479 meters</p>
+        <p><strong>Significance:</strong> Historical battlefield location</p>
+        <p><strong>Features:</strong> Battle of Maychew site (1936)</p>
+        <p><strong>Zone:</strong> Southern Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>39.5417,12.7833,2479</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Korem</name>
+      <description><![CDATA[
+        <h3>Korem (ኮረም)</h3>
+        <p><strong>Type:</strong> Town</p>
+        <p><strong>Population:</strong> ~12,000</p>
+        <p><strong>Elevation:</strong> 2,539 meters</p>
+        <p><strong>Significance:</strong> Transport junction</p>
+        <p><strong>Features:</strong> Road junction, Market town</p>
+        <p><strong>Zone:</strong> Southern Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>39.5222,12.5056,2539</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Abiy Adi</name>
+      <description><![CDATA[
+        <h3>Abiy Adi (ዓቢይ ዓዲ)</h3>
+        <p><strong>Type:</strong> Town</p>
+        <p><strong>Population:</strong> ~15,000</p>
+        <p><strong>Elevation:</strong> 2,460 meters</p>
+        <p><strong>Significance:</strong> Local commercial center</p>
+        <p><strong>Features:</strong> Market town, Agricultural center</p>
+        <p><strong>Zone:</strong> Central Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>38.9917,14.2167,2460</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Edaga Hamus</name>
+      <description><![CDATA[
+        <h3>Edaga Hamus (እዳጋ ሓሙስ)</h3>
+        <p><strong>Type:</strong> Town</p>
+        <p><strong>Population:</strong> ~8,000</p>
+        <p><strong>Elevation:</strong> 2,100 meters</p>
+        <p><strong>Significance:</strong> Thursday market town</p>
+        <p><strong>Features:</strong> Weekly market, Trade center</p>
+        <p><strong>Zone:</strong> Central Tigray</p>
+      ]]></description>
+      <styleUrl>#town</styleUrl>
+      <Point>
+        <coordinates>39.3000,14.0500,2100</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
