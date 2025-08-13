@@ -20,14 +20,14 @@ Tigray is divided into **7 zones** and **35 woredas** (districts), with major ad
 {
   "data": [
     {
-      "values": [1200000, 950000, 800000, 750000, 650000, 520000, 430000],
-      "labels": ["Central (Mehakelegnaw)", "Eastern (Misraqawi)", "Northwestern (Semien Mi'irabawi)", "Southern (Debubawi)", "Western (Mi'irabawi)", "Southeastern (Debub Misraqawi)", "Wag Hemra"],
+      "values": [1200000, 950000, 800000, 750000, 650000, 520000],
+      "labels": ["Central (Mehakelegnaw)", "Eastern (Misraqawi)", "Northwestern (Semien Mi'irabawi)", "Southern (Debubawi)", "Western (Mi'irabawi)", "Southeastern (Debub Misraqawi)"],
       "type": "pie",
       "hole": 0.3,
       "textinfo": "label+percent+value",
       "textposition": "outside",
       "marker": {
-        "colors": ["#FF6B35", "#F7931E", "#FFD23F", "#06FFA5", "#118AB2", "#073B4C", "#6A994E"]
+        "colors": ["#FF6B35", "#F7931E", "#FFD23F", "#06FFA5", "#118AB2", "#073B4C"]
       }
     }
   ],
@@ -51,7 +51,6 @@ Tigray is divided into **7 zones** and **35 woredas** (districts), with major ad
 | **Debubawi** | Alamata | 15,000 | 750,000 | 50.0 | Transport corridor, livestock |
 | **Mi'irabawi** | Humera | 12,800 | 650,000 | 50.8 | Sesame production, Sudanese border |
 | **Debub Misraqawi** | Abiy Adi | 8,600 | 520,000 | 60.5 | Rock churches, historical sites |
-| **Wag Hemra** | Soqota | 10,400 | 430,000 | 41.3 | Mountainous, traditional culture |
 
 ---
 
@@ -59,14 +58,14 @@ Tigray is divided into **7 zones** and **35 woredas** (districts), with major ad
 
 ### 2.1 Topography & Elevation
 
-Tigray's landscape varies dramatically from the **Danakil Depression** (116m below sea level) to the **Ethiopian Highlands** (4,550m at Ras Dashan).
+Tigray's landscape varies dramatically from the **Eastern Lowlands** (500m above sea level) to the **Ethiopian Highlands** (4,550m at Ras Dashan).
 
 ```plotly
 {
   "data": [
     {
-      "x": ["Danakil Depression", "Eastern Lowlands", "Central Plateau", "Western Highlands", "Northern Highlands", "Ras Dashan Peak"],
-      "y": [-116, 500, 2200, 2800, 3200, 4550],
+      "x": ["Eastern Lowlands", "Central Plateau", "Western Highlands", "Northern Highlands", "Ras Dashan Peak"],
+      "y": [500, 2200, 2800, 3200, 4550],
       "type": "bar",
       "marker": {
         "color": ["#8B0000", "#CD853F", "#228B22", "#32CD32", "#87CEEB", "#FFFFFF"],
@@ -113,8 +112,8 @@ Tigray's landscape varies dramatically from the **Danakil Depression** (116m bel
       {"city": "Humera", "population": 68000, "type": "Border Town", "zone": "Mi'irabawi"},
       {"city": "Adwa", "population": 55000, "type": "Historic Town", "zone": "Mehakelegnaw"},
       {"city": "Abiy Adi", "population": 45000, "type": "Zonal Capital", "zone": "Debub Misraqawi"},
-      {"city": "Maychew", "population": 42000, "type": "Woreda Capital", "zone": "Debubawi"},
-      {"city": "Soqota", "population": 38000, "type": "Zonal Capital", "zone": "Wag Hemra"}
+      {"city": "Maychew", "population": 42000, "type": "Woreda Capital", "zone": "Debubawi"}
+    ]
     ]
   },
   "mark": {"type": "circle", "size": 200},

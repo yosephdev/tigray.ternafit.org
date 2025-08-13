@@ -324,7 +324,6 @@ The war created one of the world's largest displacement crises, with nearly 40% 
 | **Debubawi** | 450,000 | 60% | Mekelle, Alamata |
 | **Mehakelegnaw** | 380,000 | 32% | Within zone, neighboring zones |
 | **Debub Misraqawi** | 310,000 | 60% | Mekelle, other zones |
-| **Wag Hemra** | 185,000 | 43% | Mekelle, Amhara region |
 
 ### 4.2 Health System Destruction
 

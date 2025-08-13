@@ -61,8 +61,7 @@
       {"zone": "Semien Mi'irabawi", "urban": 160000, "rural": 640000, "total": 800000},
       {"zone": "Debubawi", "urban": 150000, "rural": 600000, "total": 750000},
       {"zone": "Mi'irabawi", "urban": 130000, "rural": 520000, "total": 650000},
-      {"zone": "Debub Misraqawi", "urban": 104000, "rural": 416000, "total": 520000},
-      {"zone": "Wag Hemra", "urban": 86000, "rural": 344000, "total": 430000}
+      {"zone": "Debub Misraqawi", "urban": 104000, "rural": 416000, "total": 520000}
     ]
   },
   "transform": [
@@ -102,20 +101,19 @@
 | **Amhara** | 142,000 | 2.0% | Amharic | Southern & western zones |
 | **Irob** | 35,500 | 0.5% | Saho | Eastern zone (border areas) |
 | **Afar** | 21,300 | 0.3% | Afar | Eastern lowlands |
-| **Agaw** | 14,200 | 0.2% | Agaw | Wag Hemra zone |
 
 ```plotly
 {
   "data": [
     {
-      "values": [97.0, 2.0, 0.5, 0.3, 0.2],
-      "labels": ["Tigrayan", "Amhara", "Irob", "Afar", "Agaw"],
+      "values": [97.0, 2.0, 0.5, 0.3],
+      "labels": ["Tigrayan", "Amhara", "Irob", "Afar"],
       "type": "pie",
       "hole": 0.4,
       "textinfo": "label+percent",
       "textposition": "outside",
       "marker": {
-        "colors": ["#FF6B35", "#F7931E", "#FFD23F", "#118AB2", "#073B4C"]
+        "colors": ["#FF6B35", "#F7931E", "#FFD23F", "#118AB2"]
       }
     }
   ],
@@ -152,7 +150,6 @@
 
     === "Other Languages"
         - **Afar**: 22,000 speakers (eastern lowlands)
-        - **Agaw**: 15,000 speakers (Wag Hemra)
         - **Arabic**: Trade language in border areas
         - **English**: Educated urban population
 
@@ -167,7 +164,7 @@
   "data": [
     {
       "values": [6794400, 248300, 57000],
-      "labels": ["Ethiopian Orthodox Tewahedo", "Islam", "Other (Protestant, Catholic, Traditional)"],
+      "labels": ["Tigrayan Orthodox Tewahedo", "Islam", "Other (Protestant, Catholic, Traditional)"],
       "type": "pie",
       "hole": 0.3,
       "textinfo": "label+percent+value",
@@ -183,6 +180,17 @@
   }
 }
 ```
+
+### 3.1 Tigrayan Orthodox Tewahedo Church
+
+The **Tigrayan Orthodox Tewahedo Church** is one of the Oriental Orthodox Churches with its headquarters in Aksum, Tigray Region.
+
+**Key Details:**
+- **Independence**: From the Ethiopian Orthodox Tewahedo Church in 2022
+- **Recognition**: Not officially recognized in the broader Orthodox community
+- **Region**: Tigray and Tigrayan diaspora
+- **Theology**: Miaphysitism
+- **Source**: Wikipedia
 
 ### 3.2 Religious Centers
 

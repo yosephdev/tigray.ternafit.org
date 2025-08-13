@@ -167,7 +167,6 @@ Tigray possesses significant mineral wealth, though exploitation remains limited
 | Mineral | Location | Estimated Reserves | Status | Export Potential |
 |---------|----------|-------------------|---------|------------------|
 | **Gold** | Shire, Tahtay Adiyabo | 15.2 tonnes proven | Limited extraction | High |
-| **Potash** | Danakil Depression | 1.3 billion tonnes | Exploration phase | Very High |
 | **Salt** | Afar lowlands | Extensive deposits | Traditional mining | Medium |
 | **Iron Ore** | Togoga | 8.5 million tonnes | Unexploited | High |
 | **Tantalum** | Adwa area | 2,400 tonnes | Small-scale mining | High |
