@@ -22,4 +22,9 @@ nav:
   - Current Affairs: 07-current-affairs.md
   - Downloads: 08-downloads.md
 extra:
-  version: 2025-08-13
+  # Force all dates to strings so Material can serialize them
+  generated: "2025-08-13"
+
+# Optional: disable features that inject dates
+plugins:
+  - search
