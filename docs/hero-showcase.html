@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hero Image Showcase - Tigray Knowledge Base</title>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 2rem;
+            background: #f8f9fa;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .hero-preview {
+            border-radius: 12px;
+            overflow: hidden;
+            margin: 2rem 0;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        }
+        .hero-preview img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        .feature-card {
+            padding: 1.5rem;
+            border-radius: 8px;
+            border-left: 4px solid #ff6b35;
+        }
+        .feature-card.visual { background: #f0f9ff; border-color: #0ea5e9; }
+        .feature-card.responsive { background: #f0fdf4; border-color: #22c55e; }
+        .feature-card.interactive { background: #fefce8; border-color: #eab308; }
+        .feature-card.branded { background: #fdf2f8; border-color: #ec4899; }
+        
+        .technical-details {
+            background: #1f2937;
+            color: #f9fafb;
+            padding: 1.5rem;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            overflow-x: auto;
+            margin: 2rem 0;
+        }
+        .implementation {
+            background: #e3f2fd;
+            padding: 1.5rem;
+            border-radius: 8px;
+            border-left: 4px solid #2196f3;
+            margin: 1rem 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎨 New Hero Image for Tigray Knowledge Base</h1>
+        
+        <div class="implementation">
+            <h3>🚀 Hero Image Implementation</h3>
+            <p>I've created a custom SVG hero image that captures the essence of Tigray with beautiful gradients, architectural elements, and clean typography. The image is now integrated with MkDocs Material's GLightbox for an enhanced viewing experience.</p>
+        </div>
+
+        <div class="hero-preview">
+            <img src="assets/images/hero.svg" alt="Tigray Knowledge Base Hero Image">
+        </div>
+
+        <h2>✨ Key Features:</h2>
+        
+        <div class="feature-grid">
+            <div class="feature-card visual">
+                <h3>🎨 Visual Design</h3>
+                <ul>
+                    <li><strong>Gradient Background:</strong> Warm orange sunset (#ff7e5f to #feb47b)</li>
+                    <li><strong>Architectural Element:</strong> Rock-hewn church silhouette in white</li>
+                    <li><strong>Typography:</strong> Clean Inter font with proper hierarchy</li>
+                    <li><strong>Color Harmony:</strong> Matches Tigray KB brand colors</li>
+                </ul>
+            </div>
+            
+            <div class="feature-card responsive">
+                <h3>📱 Responsive Design</h3>
+                <ul>
+                    <li><strong>SVG Format:</strong> Scales perfectly on any screen size</li>
+                    <li><strong>Aspect Ratio:</strong> 3:1 ratio (1200×400px) ideal for headers</li>
+                    <li><strong>Lightweight:</strong> Vector graphics load fast</li>
+                    <li><strong>Retina Ready:</strong> Crisp on high-DPI displays</li>
+                </ul>
+            </div>
+            
+            <div class="feature-card interactive">
+                <h3>🔍 Interactive Features</h3>
+                <ul>
+                    <li><strong>GLightbox:</strong> Click to view full-size in lightbox</li>
+                    <li><strong>Zoom Support:</strong> Enhanced viewing experience</li>
+                    <li><strong>Keyboard Nav:</strong> ESC to close, arrow keys to navigate</li>
+                    <li><strong>Mobile Touch:</strong> Touch gestures supported</li>
+                </ul>
+            </div>
+            
+            <div class="feature-card branded">
+                <h3>🏛️ Cultural Elements</h3>
+                <ul>
+                    <li><strong>Rock-hewn Church:</strong> Represents Tigray's UNESCO heritage</li>
+                    <li><strong>Sunset Colors:</strong> Warm, welcoming Ethiopian palette</li>
+                    <li><strong>Clean Typography:</strong> Modern, professional appearance</li>
+                    <li><strong>Tagline:</strong> "Authoritative data • Maps • Memorial"</li>
+                </ul>
+            </div>
+        </div>
+
+        <h2>💻 Technical Implementation:</h2>
+        
+        <div class="technical-details">
+&lt;!-- Hero Image with GLightbox Integration --&gt;
+&lt;a class="glightbox" href="assets/images/hero.svg"
+   data-type="image" 
+   data-width="100%" 
+   data-height="auto" 
+   data-desc-position="bottom"&gt;
+  &lt;img alt="Tigray Banner" 
+       class="hero-image" 
+       src="assets/images/hero.svg"&gt;
+&lt;/a&gt;
+        </div>
+
+        <h2>🎯 Design Elements Breakdown:</h2>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 1rem 0;">
+            <div style="padding: 1rem; background: #fff8f0; border-radius: 6px; border-left: 3px solid #ff7e5f;">
+                <strong>🌅 Background Gradient</strong><br>
+                <small>Linear gradient from #ff7e5f (top) to #feb47b (bottom) creates warm, sunset atmosphere</small>
+            </div>
+            
+            <div style="padding: 1rem; background: #f8f9fa; border-radius: 6px; border-left: 3px solid #ffffff;">
+                <strong>🏛️ Architectural Silhouette</strong><br>
+                <small>White rock-hewn church outline (opacity 0.9) represents Tigray's UNESCO heritage sites</small>
+            </div>
+            
+            <div style="padding: 1rem; background: #f0f9ff; border-radius: 6px; border-left: 3px solid #ffffff;">
+                <strong>📝 Typography System</strong><br>
+                <small>Title: Inter 48px bold, Subtitle: Inter 18px regular, both in white for contrast</small>
+            </div>
+            
+            <div style="padding: 1rem; background: #f0fdf4; border-radius: 6px; border-left: 3px solid #22c55e;">
+                <strong>📐 Dimensions</strong><br>
+                <small>1200×400px viewBox (3:1 ratio) optimized for hero sections and banners</small>
+            </div>
+        </div>
+
+        <h2>🔗 Integration Benefits:</h2>
+        
+        <div style="background: #dcfce7; padding: 1.5rem; border-radius: 8px; margin-top: 2rem;">
+            <ul style="margin: 0;">
+                <li>✅ <strong>Brand Consistency:</strong> Matches logo and site color scheme</li>
+                <li>✅ <strong>Cultural Relevance:</strong> Represents Tigray's architectural heritage</li>
+                <li>✅ <strong>Professional Appeal:</strong> Clean, modern design suitable for academic/research use</li>
+                <li>✅ <strong>Technical Excellence:</strong> SVG format ensures perfect scaling and fast loading</li>
+                <li>✅ <strong>Enhanced UX:</strong> GLightbox integration provides interactive viewing</li>
+            </ul>
+        </div>
+        
+        <div style="background: #e3f2fd; padding: 1.5rem; border-radius: 8px; margin-top: 1rem;">
+            <h3>🎉 Result:</h3>
+            <p>The Tigray Knowledge Base now has a stunning, culturally-relevant hero image that perfectly represents the site's mission and content while providing an enhanced user experience through modern web technologies.</p>
+        </div>
+    </div>
+</body>
+</html>

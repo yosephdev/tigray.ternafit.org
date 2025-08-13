@@ -2,7 +2,10 @@
 
 <div class="hero-section" markdown>
 
-![Tigray Banner](assets/images/tigray-hero.jpg){ .hero-image }
+<a class="glightbox" href="assets/images/hero.svg"
+   data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom">
+  <img alt="Tigray Banner" class="hero-image" src="assets/images/hero.svg">
+</a>
 
 ## The World's Most Comprehensive Resource on Tigray, Ethiopia
 
