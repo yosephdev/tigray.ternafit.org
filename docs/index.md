@@ -153,19 +153,38 @@ All statistics are cross-referenced and uncertainties clearly indicated.
 
 ---
 
-<div class="footer-cta" markdown>
+<div class="contribute-section" markdown>
 
-## Contribute to This Knowledge Base
+## 🤝 Contribute to This Knowledge Base
 
-Help us maintain accuracy and completeness:
-
-- :material-github: [Report issues or suggest improvements](https://github.com/yosephdev/tigray.ternafit.org/issues)
-- :material-email: [Contact our research team](mailto:research@ternafit.org)
-- :material-translate: [Help with translations](https://github.com/yosephdev/tigray.ternafit.org/discussions)
-
+<div class="contribute-grid">
+    <div class="contribute-card">
+        <div class="contribute-icon">:material-github:</div>
+        <h3>Report Issues</h3>
+        <p>Found something inaccurate or outdated? Help us improve by reporting issues or suggesting enhancements.</p>
+        <a href="https://github.com/yosephdev/tigray.ternafit.org/issues" class="contribute-btn">Submit Issue</a>
+    </div>
+    
+    <div class="contribute-card">
+        <div class="contribute-icon">:material-email:</div>
+        <h3>Research Collaboration</h3>
+        <p>Connect with our research team to share data, insights, or academic partnerships.</p>
+        <a href="mailto:research@ternafit.org" class="contribute-btn">Contact Team</a>
+    </div>
+    
+    <div class="contribute-card">
+        <div class="contribute-icon">:material-translate:</div>
+        <h3>Help with Translations</h3>
+        <p>Support multilingual access by helping translate content into Tigrigna and other languages.</p>
+        <a href="https://github.com/yosephdev/tigray.ternafit.org/discussions" class="contribute-btn">Join Translation</a>
+    </div>
 </div>
 
----
-
-*Last updated: {{ git_revision_date_localized }}*  
-*Next update: Real-time data feeds updated daily*
+<div class="update-info">
+    <div class="update-item">
+        <strong>Last updated:</strong> {{ git_revision_date_localized }}
+    </div>
+    <div class="update-item">
+        <strong>Next update:</strong> Real-time data feeds updated daily
+    </div>
+</div>
