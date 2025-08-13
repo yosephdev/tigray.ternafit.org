@@ -141,9 +141,7 @@ plugins:
       custom_format: "%d. %B %Y"
       timezone: Europe/Stockholm
       locale: en
-      fallback_to_build_date: false
-      exclude:
-        - index.md
+      fallback_to_build_date: true
   - rss:
       match_path: current/news.md
       date_from_meta:

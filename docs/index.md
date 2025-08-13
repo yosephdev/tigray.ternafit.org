@@ -185,6 +185,7 @@ All statistics are cross-referenced and uncertainties clearly indicated.
 
 !!! info "Project Status"
 
-    **Last updated:** {{ git_revision_date_localized }}  
-    **Next update:** Real-time data feeds updated daily
+    **Last updated:** August 13, 2025  
+    **Next update:** Real-time data feeds updated daily  
+    **Version:** 2025.08 (Current)
 
