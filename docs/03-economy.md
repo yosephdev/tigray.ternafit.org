@@ -1,7 +1,7 @@
 # Economy & Resources
 
 !!! info "Economic Overview (2024)"
-    
+
     **Gross Regional Product**: $3.2 billion (down from $4.8B in 2019)  
     **Per Capita Income**: $451 (down from $615 in 2019)  
     **Unemployment Rate**: 23.4% (up from 8.1% in 2019)  
