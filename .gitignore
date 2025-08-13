@@ -1,0 +1,90 @@
+# MkDocs build output
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+
+# Virtual environments
+.venv
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Node modules (if using any JS tools)
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large data files
+*.nc
+*.tif
+*.geotiff
+*.shp
+*.zip
+assets/data/*.csv
+assets/data/*.xlsx
+assets/data/*.json
+assets/maps/*.zip
+
+# Secrets and config
+.env.local
+.env.production
+config.local.yml
+secrets.yml
+venv/lib
