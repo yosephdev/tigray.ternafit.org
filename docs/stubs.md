@@ -19,11 +19,12 @@ This page lists articles that need expansion or creation. **Stub articles** are 
 
 - [Emperor Yohannes IV](figures/yohannes-iv.md) ✅ *Complete*
 - [Ras Alula Aba Nega](figures/alula-aba-nega.md) ✅ *Complete*
+- [King Ezana](figures/king-ezana.md) ✅ *Complete*
+- [Queen Gudit](figures/queen-gudit.md) ✅ *Complete*
 
 **Needed: Full Articles**
 
-- **Abreha and Atsbeha** - Twin brothers, rulers of Axum, early Christian converts
-- **King Ezana** - Axumite king who adopted Christianity (4th century)
+- **Abreha and Atsbeha** - Twin brothers, rulers of Axum, early Christian converts *[HIGH PRIORITY - Next Target]*
 - **Queen Gudit (Yodit)** - Legendary queen who challenged Axumite power
 - **Empress Mentewab** - 18th-century empress, regent of Ethiopia
 - **Dejazmach Sabagadis** - 19th-century ruler of Tigray
