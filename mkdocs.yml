@@ -77,10 +77,18 @@ nav:
   - History & Culture: 
     - 05-history-culture.md
     - Historical Figures:
-      - Emperor Yohannes IV: figures/yohannes-iv.md
-      - Ras Alula Aba Nega: figures/alula-aba-nega.md
-      - King Ezana: figures/king-ezana.md
-      - Queen Gudit: figures/queen-gudit.md
+      - King Ezana of Axum: figures/king-ezana.md
+      - Emperor Yohannes IV: figures/emperor-yohannes-iv.md
+      - Ras Alula Aba Nega: figures/ras-alula-aba-nega.md
+      - Abreha and Atsbeha: figures/abreha-and-atsbeha.md
+      - Queen of Sheba (Makeda): figures/queen-of-sheba.md
+      - Dr. Tedros Adhanom Ghebreyesus: figures/dr-tedros-adhanom.md
+      - Meles Zenawi: figures/meles-zenawi.md
+      - Seyum Mesfin: figures/seyum-mesfin.md
+      - Gebrehiwot Baykedagn: figures/gebrehiwot-baykedagn.md
+      - Dejazmach Sabagadis: figures/dejazmach-sabagadis.md
+      - Ras Seyum Mengesha: figures/ras-seyum-mengesha.md
+      - Ras Woldemichael Gugsa: figures/ras-woldemichael-gugsa.md
     - Ancient History: history/ancient.md
     - Modern History: history/modern.md
     - Cultural Heritage: culture/heritage.md

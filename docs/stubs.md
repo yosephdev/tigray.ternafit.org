@@ -15,27 +15,28 @@ This page lists articles that need expansion or creation. **Stub articles** are 
 
 ### 🏛️ Historical Figures (High Priority)
 
-**Completed Articles:**
+## Progress Tracking
 
-- [Emperor Yohannes IV](figures/yohannes-iv.md) ✅ *Complete*
-- [Ras Alula Aba Nega](figures/alula-aba-nega.md) ✅ *Complete*
-- [King Ezana](figures/king-ezana.md) ✅ *Complete*
-- [Queen Gudit](figures/queen-gudit.md) ✅ *Complete*
+**Completed Articles: 12** (Tigrayan and related figures)
+
+- ✅ Emperor Yohannes IV (docs/figures/yohannes-iv.md)
+- ✅ Alula Aba Nega (docs/figures/alula-aba-nega.md)
+- ✅ King Ezana (docs/figures/king-ezana.md)
+- ✅ Abreha and Atsbeha (docs/figures/abreha-atsbeha.md)
+- ✅ Dr. Tedros Adhanom (docs/figures/tedros-adhanom.md)
+- ✅ Meles Zenawi (docs/figures/meles-zenawi.md)
+- ✅ Seyum Mesfin (docs/figures/seyum-mesfin.md)
+- ✅ Gebrehiwot Baykedagn (docs/figures/gebrehiwot-baykedagn.md)
+- ✅ Queen of Sheba (Makeda) (docs/figures/queen-of-sheba.md)
+- ✅ Dejazmach Sabagadis (docs/figures/dejazmach-sabagadis.md)
+- ✅ Ras Seyum Mengesha (docs/figures/ras-seyum-mengesha.md)
+- ✅ Ras Woldemichael Gugsa (docs/figures/ras-woldemichael-gugsa.md)
 
 **Needed: Full Articles**
-
-- **Abreha and Atsbeha** - Twin brothers, rulers of Axum, early Christian converts *[HIGH PRIORITY - Next Target]*
-- **Queen Gudit (Yodit)** - Legendary queen who challenged Axumite power
-- **Empress Mentewab** - 18th-century empress, regent of Ethiopia
-- **Dejazmach Sabagadis** - 19th-century ruler of Tigray
-- **Ras Woldemichael Gugsa** - Early 20th-century Tigrayan leader
-- **General Ras Seyoum Mangasha** - Son of Emperor Yohannes IV
 
 **Contemporary Figures Needed:**
 
 - **Archbishop Abune Mathias** - Current Patriarch of Ethiopian Orthodox Church
-- **Dr. Tedros Adhanom** - WHO Director-General
-- **Meles Zenawi** - Former Prime Minister of Ethiopia (1995-2012)
 
 ---
 
@@ -43,15 +44,12 @@ This page lists articles that need expansion or creation. **Stub articles** are 
 
 **Mountains & Highlands:**
 
-- **Ras Dashen** - Highest peak in Ethiopia (4,550m)
-- **Simien Mountains** - UNESCO World Heritage site
+- **Geralta Mountains** - UNESCO World Heritage site
 - **Adwa Mountains** - Site of famous 1896 battle
 
 **Rivers & Water Bodies:**
 
 - **Tekeze River** - Major river system
-- **Gash River** - Important for agriculture
-- **Danakil Depression** - Geological marvel
 
 **Cities & Towns:**
 
