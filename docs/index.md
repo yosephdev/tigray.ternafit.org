@@ -12,16 +12,32 @@
 **Ternafit** presents the definitive, multimedia-rich knowledge base covering every aspect of Tigray—from ancient civilizations to modern challenges. Built for students, journalists, researchers, policymakers, and anyone seeking authoritative information about this historic region.
 
 [Explore Geography :material-map:](01-geography.md){ .md-button .md-button--primary }
-[View Demographics :material-chart-line:](02-demographics.md){ .md-button }
-[War Memorial :material-heart:](06-war-memorial.md){ .md-button }
+[Historical Figures :material-account-group:](figures/yohannes-iv.md){ .md-button }
+[Help Contribute :material-pencil:](contribute.md){ .md-button }
 
 </div>
+
+---
+
+!!! info "Help Us Grow This Knowledge Base"
+
+    **This knowledge base is actively expanding!** We have a solid foundation with comprehensive historical figures like [Emperor Yohannes IV](figures/yohannes-iv.md) and [Ras Alula Aba Nega](figures/alula-aba-nega.md), but we need your help to build the world's most complete resource on Tigray.
+
+    **Ready to contribute?** Check our [Stub Articles](stubs.md) for high-priority content needs, or read our [Contribution Guidelines](contribute.md) to get started.
 
 ---
 
 ## :material-lightning-bolt: Quick Access
 
 <div class="grid cards" markdown>
+
+- :material-account-group: **Historical Figures**
+
+    ---
+
+    Comprehensive biographies of Tigray's most influential leaders, from ancient rulers to modern statesmen.
+
+    [:octicons-arrow-right-24: Browse Figures](figures/yohannes-iv.md)
 
 - :material-map-outline: **Interactive Maps**
 
