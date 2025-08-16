@@ -3,7 +3,7 @@
   command = "pip install -r requirements.txt && mkdocs build"
 
 [build.environment]
-  PYTHON_VERSION = "3.12"
+  PYTHON_VERSION = "3.12.0"
 
 [[headers]]
   for = "/*"
