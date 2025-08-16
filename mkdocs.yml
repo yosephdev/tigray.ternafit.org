@@ -54,26 +54,10 @@ nav:
     - About Ternafit: about.md
     - Contribute: contribute.md
     - Stub Articles: stubs.md
-  - Geography: 
-    - 01-geography.md
-    - Administrative Divisions: geography/admin-divisions.md
-    - Physical Geography: geography/physical.md
-    - Interactive Maps: geography/maps.md
-  - Demographics: 
-    - 02-demographics.md
-    - Population Statistics: demographics/population.md
-    - Ethnic Groups: demographics/ethnicity.md
-    - Languages & Religion: demographics/culture.md
-  - Economy: 
-    - 03-economy.md
-    - Agriculture: economy/agriculture.md
-    - Industry & Mining: economy/industry.md
-    - Trade & Commerce: economy/trade.md
-  - Education & Health: 
-    - 04-edu-health.md
-    - Educational Institutions: education/institutions.md
-    - Health System: health/system.md
-    - Statistics & Data: education/statistics.md
+  - Geography: 01-geography.md
+  - Demographics: 02-demographics.md
+  - Economy: 03-economy.md
+  - Education & Health: 04-edu-health.md
   - History & Culture: 
     - 05-history-culture.md
     - Historical Figures:
@@ -89,25 +73,9 @@ nav:
       - Dejazmach Sabagadis: figures/dejazmach-sabagadis.md
       - Ras Seyum Mengesha: figures/ras-seyum-mengesha.md
       - Ras Woldemichael Gugsa: figures/ras-woldemichael-gugsa.md
-    - Ancient History: history/ancient.md
-    - Modern History: history/modern.md
-    - Cultural Heritage: culture/heritage.md
-  - War & Memorial: 
-    - 06-war-memorial.md
-    - War Timeline: war/timeline.md
-    - Humanitarian Impact: war/humanitarian.md
-    - Never Again Memorial: war/memorial.md
-    - Documentation: war/documentation.md
-  - Current Affairs: 
-    - 07-current-affairs.md
-    - Governance: current/governance.md
-    - Reconstruction: current/reconstruction.md
-    - News Feed: current/news.md
-  - Resources:
-    - 08-downloads.md
-    - Data Downloads: resources/data.md
-    - Maps & GIS: resources/maps.md
-    - Research Papers: resources/research.md
+  - War & Memorial: 06-war-memorial.md
+  - Current Affairs: 07-current-affairs.md
+  - Resources: 08-downloads.md
     - Bibliography: resources/bibliography.md
 
 extra:
