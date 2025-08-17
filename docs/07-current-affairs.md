@@ -1,11 +1,12 @@
 # Current Affairs & Situation Report
 
-!!! info "Last Updated: August 13, 2025"
+!!! info "Last Updated: August 17, 2025"
     
     **Situation Status**: Post-conflict recovery phase  
     **Security Level**: Stable with limited access to some areas  
     **Humanitarian Needs**: 2.1 million people requiring assistance  
-    **International Presence**: Limited UN and NGO operations
+    **International Presence**: Limited UN and NGO operations  
+    **Political Status**: Leadership transition completed April 2025
 
 ---
 
@@ -13,26 +14,39 @@
 
 ### 1.1 Interim Regional Administration
 
-Following the Cessation of Hostilities Agreement (November 2, 2022), Tigray has been under an **Interim Regional Administration** appointed by the federal government.
+Following the Cessation of Hostilities Agreement (November 2, 2022), Tigray has been under an **Interim Regional Administration** appointed by the federal government. Significant leadership changes occurred in April 2025 due to internal political divisions within the TPLF.
 
-#### Key Leadership (2025)
+#### Key Leadership (August 2025)
 
 | Position | Official | Appointed | Background |
 |----------|----------|-----------|-------------|
-| **Interim President** | General Tadesse Worede | April 2023 | Former ENDF general |
-| **Deputy President** | Mulu Nega | April 2023 | Former diplomat, engineering background |
-| **Chief Administrator** | Abraham Belay | May 2023 | Former federal minister |
-| **Security Chief** | General Tadesse Worede | June 2023 | Former ENDF general |
+| **Interim President** | Lt. General Tadesse Worede | April 8, 2025 | Former Deputy President, Commander-in-Chief of Tigray Defense Forces |
+| **Deputy President** | Amanuel Assefa | April 2025 | Academic background, former development specialist |
+| **Security Bureau Head** | General Fiseha Kidanu | April 2025 | Reinstated as head of Bureau of Peace and Security |
+
+#### Leadership Changes and Political Context
+
+!!! info "Recent Developments"
+
+    **Leadership Transition**: Lt. General Tadesse Worede replaced Getachew Reda as Interim President on April 8, 2025, following internal TPLF divisions that intensified after the party's 14th Congress in August 2024.
+
+    **Former Officials' Current Roles**:
+    - **Getachew Reda**: Now serves as Advisor for East African Affairs to Prime Minister Abiy Ahmed
+    - **Mulu Nega**: State Minister of Science and Higher Education (federal government)
+    - **Abraham Belay**: Minister of Water, Irrigation and Electricity (federal government)
+
+    **Cabinet Changes**: The new administration downsized the cabinet from 27 to 21 members, though complete roster details remain limited in public reporting.
 
 #### Administrative Challenges
 
 !!! warning "Governance Issues"
 
-    - **Limited Authority**: Federal oversight on major decisions
+    - **Political Fragmentation**: Deep divisions within TPLF affecting governance
+    - **Limited Federal Authority**: Ongoing tensions with federal oversight
     - **Capacity Constraints**: Shortage of qualified civil servants
     - **Resource Limitations**: Dependent on federal budget allocations
     - **Legitimacy Questions**: Not elected by Tigrayan population
-    - **Coordination Issues**: Multiple overlapping authorities
+    - **Opposition Concerns**: Three opposition parties rejected the new interim cabinet citing "dominance by one group"
 
 ```vegalite
 {
@@ -76,6 +90,29 @@ Following the Cessation of Hostilities Agreement (November 2, 2022), Tigray has 
   "title": "Authority and Legitimacy in Tigray (2025)"
 }
 ```
+
+### 1.2 TPLF Political Dynamics
+
+The Tigray People's Liberation Front (TPLF) continues to experience significant internal divisions that directly impact regional governance.
+
+#### Current TPLF Leadership Split
+
+!!! warning "Party Fragmentation"
+
+    **Debretsion Faction**: Following the TPLF's 14th Congress in August 2024, Debretsion Gebremichael was re-elected as party chairman despite significant opposition.
+
+    **Membership Revocations**: The TPLF under Debretsion revoked the membership of 16 key leaders, including former Interim President Getachew Reda, deepening the political split.
+
+    **Governance Impact**: This internal division directly led to the federal government's decision to appoint Lt. General Tadesse Worede as the new Interim President in April 2025.
+
+#### Tigray Interim Council
+
+In February 2025, the **Tigray Interim Council** was established to provide guidance and oversight to the interim administration, though its effectiveness is limited by:
+
+- Internal TPLF disputes affecting council composition
+- Opposition parties questioning its legitimacy
+- Unclear relationship with federal oversight mechanisms
+- Limited representation from civil society groups
 
 ---
 
