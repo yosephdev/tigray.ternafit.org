@@ -64,6 +64,7 @@ Tigrinya and minority languages
 #### Pre-Aksumite Kingdoms
 
 **D'mt Kingdom (c. 980-400 BC)**
+
 - **Capital**: Yeha (modern-day Yeha)
 - **Significance**: First known organized state in the Horn of Africa
 - **Archaeological Evidence**: Temple of Yeha, inscriptions in Sabaean script
@@ -71,6 +72,7 @@ Tigrinya and minority languages
 - **Cultural Impact**: Foundation of Ethiopian state formation
 
 **Key Archaeological Sites**
+
 - **Yeha Temple**: 7th century BC, pre-Christian religious center
 - **Beta Giyorgis (Addi Akaweh)**: Ancient settlement with temple remains
 - **Hawelti**: Stone pillars and ancient settlement evidence
@@ -79,6 +81,7 @@ Tigrinya and minority languages
 #### Aksumite Empire (1st-8th Century AD)
 
 **Peak Period (100-600 AD)**
+
 - **Territory**: Extended from Red Sea to Blue Nile, Yemen to Sudan
 - **Capital**: Aksum (modern Axum)
 - **Religion**: Initially polytheistic, converted to Christianity (330 AD)
@@ -108,6 +111,7 @@ Tigrinya and minority languages
 ```
 
 **Major Aksumite Rulers**
+
 - **King Ezana** (320-360 AD): Converted to Christianity, expanded empire
 - **King Kaleb** (514-542 AD): Military campaigns in Yemen
 - **King Armah** (614-631 AD): Gave refuge to early Muslim refugees
@@ -117,12 +121,14 @@ Tigrinya and minority languages
 #### Zagwe and Solomonic Dynasties
 
 **Regional Integration (800-1270 AD)**
+
 - **Political Structure**: Tigray as northern province of Ethiopian empire
 - **Religious Development**: Expansion of Orthodox Christianity
 - **Architectural Heritage**: Church construction and monastery establishment
 - **Trade Continuity**: Maintained Red Sea commercial connections
 
 **Solomonic Period in Tigray (1270-1855)**
+
 - **Notable Rulers**: Emperor Yekuno Amlak (Tigrayan origin)
 - **Religious Centers**: Debre Damo, Abuna Aregawi monastery
 - **Cultural Development**: Geez literature and religious art
@@ -133,12 +139,14 @@ Tigrinya and minority languages
 #### Imperial Period (1855-1974)
 
 **Emperor Yohannes IV Era (1872-1889)**
+
 - **Origin**: Tigrayan noble (Kassa Mercha)
 - **Capital**: Mekelle
 - **Achievements**: Modernization efforts, defended against foreign invasion
 - **Legacy**: Strengthened Ethiopian unity while maintaining Tigrayan identity
 
 **Battle of Adwa (1896)**
+
 - **Date**: March 1, 1896
 - **Location**: Adwa, Central Tigray
 - **Significance**: Ethiopian victory over Italian invasion
@@ -167,12 +175,14 @@ Tigrinya and minority languages
 #### 20th Century Developments
 
 **Italian Occupation (1936-1941)**
+
 - **Impact on Tigray**: Heavy military presence, infrastructure development
 - **Resistance**: Continuous guerrilla warfare
 - **Cultural Suppression**: Italian attempts to undermine local traditions
 - **Liberation**: British-supported Ethiopian restoration
 
 **Haile Selassie Era (1941-1974)**
+
 - **Modernization**: Road construction, education expansion
 - **Centralization**: Reduced regional autonomy
 - **Cultural Impact**: Amharic language promotion over Tigrinya
@@ -183,6 +193,7 @@ Tigrinya and minority languages
 #### Derg Military Government (1974-1991)
 
 **TPLF Formation and Struggle (1975-1991)**
+
 - **Founded**: September 18, 1975
 - **Ideology**: Marxist-Leninist, later Ethiopian federalism
 - **Leadership**: Meles Zenawi, Sebhat Nega, others
@@ -190,6 +201,7 @@ Tigrinya and minority languages
 - **International Support**: Sudan, Soviet Union (limited)
 
 **Major Military Campaigns**
+
 - **1976-1980**: Establishing liberated zones
 - **1980-1985**: Expansion and consolidation
 - **1985-1988**: Major offensives and defensive operations
@@ -198,6 +210,7 @@ Tigrinya and minority languages
 #### Federal Period (1991-2018)
 
 **TPLF-Led Government**
+
 - **Federal Structure**: Ethnic federalism with regional autonomy
 - **Economic Policy**: Developmental state model
 - **Tigray Development**: Significant infrastructure investment
@@ -205,6 +218,7 @@ Tigrinya and minority languages
 - **Challenges**: Centralization concerns, ethnic tensions
 
 **Development Achievements (1991-2018)**
+
 - GDP growth: Average 10% annually
 - Infrastructure: Road network expansion, universities
 - Health: Improved healthcare access and outcomes
@@ -213,6 +227,7 @@ Tigrinya and minority languages
 #### Recent Conflict Period (2020-2022)
 
 **Tigray War Impact on Heritage**
+
 - **Archaeological Sites**: Damage to ancient monuments
 - **Churches**: Historical churches damaged or destroyed
 - **Manuscripts**: Looting of ancient religious texts
@@ -228,6 +243,7 @@ Tigrinya and minority languages
 #### Orthodox Christianity in Tigray
 
 **Historical Development**
+
 - **Introduction**: 4th century AD under King Ezana
 - **Monasticism**: Abuna Aregawi and Nine Saints (5th-6th century)
 - **Church Architecture**: Evolution from Aksumite to rock-hewn churches
@@ -246,14 +262,16 @@ Tigrinya and minority languages
 | **Mikael Melehayzenghi** | 7th century | Rock-hewn | Hermit monk tradition |
 
 **Other Significant Churches**
+
 - **Debre Damo**: 6th century monastery, accessible only by rope
 - **Wukro Chirkos**: Semi-monolithic church with unique architecture
-- **Abreha we Atsbeha**: Imperial church with historical significance
+- **[Abreha we Atsbeha](figures/abreha-atsbeha.md)**: Imperial church with historical significance, named after the twin Christian rulers
 - **Axum Tsion**: Claims to house Ark of the Covenant
 
 #### Islamic Heritage
 
 **Historical Presence**
+
 - **Early Islam**: 7th century refugees from Arabia
 - **Sufi Traditions**: Mystical Islamic practices
 - **Architecture**: Traditional mosque designs
@@ -264,6 +282,7 @@ Tigrinya and minority languages
 #### Tigrinya Language
 
 **Linguistic Classification**
+
 - **Family**: Afro-Asiatic, Semitic branch
 - **Speakers**: 7 million globally (4.5M in Tigray)
 - **Writing System**: Geez script (Fidel)
@@ -271,6 +290,7 @@ Tigrinya and minority languages
 - **Status**: Official language of Tigray region
 
 **Literary Traditions**
+
 - **Oral Poetry**: Qene tradition, riddles, proverbs
 - **Religious Literature**: Geez manuscripts, hagiographies
 - **Modern Literature**: Contemporary novels, poetry
@@ -279,6 +299,7 @@ Tigrinya and minority languages
 #### Traditional Oral Literature
 
 **Qene (Poetic Tradition)**
+
 - **Definition**: Sophisticated wordplay poetry
 - **Themes**: Religious, historical, satirical
 - **Performance**: Church and social gatherings
@@ -286,6 +307,7 @@ Tigrinya and minority languages
 - **Preservation**: Oral transmission and modern documentation
 
 **Folklore and Legends**
+
 - **Origin Stories**: Creation myths, founding legends
 - **Heroic Tales**: Historical figures and battles
 - **Moral Stories**: Teaching through narrative
@@ -296,6 +318,7 @@ Tigrinya and minority languages
 #### Visual Arts
 
 **Religious Art**
+
 - **Church Paintings**: Wall frescoes, manuscript illumination
 - **Icons**: Traditional religious iconography
 - **Crosses**: Elaborate processional and hand crosses
@@ -314,12 +337,14 @@ Tigrinya and minority languages
 #### Traditional Music and Dance
 
 **Musical Traditions**
+
 - **Zelesegna**: Traditional chanting style
 - **Guayla**: Popular dance rhythm
 - **Religious Chants**: Orthodox liturgical music
 - **Folk Songs**: Work songs, ceremonial music
 
 **Traditional Instruments**
+
 - **Krar**: Six-string lyre
 - **Masinko**: Single-string violin
 - **Kebero**: Large drum
@@ -355,6 +380,7 @@ Tigrinya and minority languages
 #### Traditional Clothing
 
 **Habesha Kemis (Women's Dress)**
+
 - **Design**: White cotton dress with colored borders
 - **Occasions**: Festivals, church services, special events
 - **Regional Variations**: Border patterns specific to areas
@@ -362,12 +388,14 @@ Tigrinya and minority languages
 - **Craftsmanship**: Hand-woven with intricate embroidery
 
 **Men's Traditional Wear**
+
 - **Habesha Suit**: White cotton shirt and pants
 - **Gabi**: Traditional shawl for men
 - **Netela**: Light white shawl
 - **Ceremonial Wear**: Special occasion garments
 
 **Traditional Accessories**
+
 - **Jewelry**: Silver and gold traditional pieces
 - **Hair Ornaments**: Traditional hair decorations
 - **Shoes**: Leather traditional footwear
@@ -378,6 +406,7 @@ Tigrinya and minority languages
 #### Traditional Cuisine
 
 **Staple Foods**
+
 - **Injera**: Fermented teff flatbread (foundation of meals)
 - **Teff**: Ancient grain indigenous to region
 - **Barley**: Highland cultivation and consumption
@@ -394,6 +423,7 @@ Tigrinya and minority languages
 | **Doro Wat** | Chicken, hard-boiled eggs | Spicy stew | Religious holidays |
 
 **Traditional Beverages**
+
 - **Suwa**: Traditional barley beer
 - **Tej**: Honey wine (mead)
 - **Coffee**: Ethiopian coffee ceremony
@@ -403,6 +433,7 @@ Tigrinya and minority languages
 #### Food Culture and Practices
 
 **Coffee Ceremony**
+
 - **Significance**: Central to social interaction
 - **Process**: Three rounds (abol, tona, baraka)
 - **Social Function**: Community bonding, discussion
@@ -410,6 +441,7 @@ Tigrinya and minority languages
 - **Gender Role**: Traditionally performed by women
 
 **Fasting Traditions**
+
 - **Orthodox Fasting**: 200+ days annually
 - **Vegan Periods**: Plant-based diet during fasts
 - **Community Practice**: Shared fasting observance
@@ -424,6 +456,7 @@ Tigrinya and minority languages
 #### Axum Archaeological Complex
 
 **Stelae Field**
+
 - **Number of Stelae**: 126 recorded monuments
 - **Tallest Stela**: 33 meters (largest single stone monument)
 - **Dating**: 1st-4th centuries AD
@@ -431,6 +464,7 @@ Tigrinya and minority languages
 - **UNESCO Status**: World Heritage Site since 1980
 
 **Archaeological Features**
+
 - **Royal Tombs**: Underground burial chambers
 - **Palace Ruins**: Remains of Aksumite palaces
 - **Inscription Stones**: Multilingual historical records
@@ -440,6 +474,7 @@ Tigrinya and minority languages
 #### Other Archaeological Sites
 
 **Yeha Temple Complex**
+
 - **Period**: 7th century BC
 - **Architecture**: Pre-Aksumite construction techniques
 - **Significance**: Earliest temple in Ethiopian highlands
@@ -447,6 +482,7 @@ Tigrinya and minority languages
 - **Research**: Ongoing archaeological excavations
 
 **Beta Giyorgis (Lalibela Connection)**
+
 - **Location**: Addi Akaweh area
 - **Features**: Rock-hewn church and settlement
 - **Dating**: Medieval period
@@ -458,6 +494,7 @@ Tigrinya and minority languages
 #### Traditional Settlement Patterns
 
 **Village Architecture**
+
 - **Housing**: Stone and mud construction
 - **Layout**: Compound-based family structures
 - **Terracing**: Agricultural landscape modification
@@ -465,6 +502,7 @@ Tigrinya and minority languages
 - **Defensive Features**: Hilltop settlement patterns
 
 **Sacred Landscapes**
+
 - **Church Forests**: Protected forest around churches
 - **Sacred Groves**: Traditional conservation areas
 - **Pilgrimage Routes**: Historic religious paths
@@ -479,6 +517,7 @@ Tigrinya and minority languages
 #### Religious Festivals
 
 **Timkat (Ethiopian Epiphany)**
+
 - **Date**: January 19-20
 - **Significance**: Celebrates Jesus's baptism
 - **Celebrations**: Processions, blessing of water
@@ -486,6 +525,7 @@ Tigrinya and minority languages
 - **Participation**: Community-wide involvement
 
 **Meskel (Finding of True Cross)**
+
 - **Date**: September 27
 - **Tradition**: Bonfire lighting ceremony
 - **Symbolism**: Finding of Christ's cross
@@ -493,6 +533,7 @@ Tigrinya and minority languages
 - **Cultural Elements**: Songs, dancing, feasting
 
 **Easter (Fasika)**
+
 - **Period**: After 55-day Lent
 - **Significance**: Most important Orthodox festival
 - **Preparations**: Extensive fasting and prayers
@@ -502,6 +543,7 @@ Tigrinya and minority languages
 #### Secular Celebrations
 
 **Ashenda (Assumption of Mary)**
+
 - **Participants**: Young women and girls
 - **Activities**: Traditional songs, dancing
 - **Dress**: Traditional white dresses
@@ -513,6 +555,7 @@ Tigrinya and minority languages
 #### Traditional Leadership
 
 **Community Elders (Shimagile)**
+
 - **Role**: Community decision-making
 - **Selection**: Respect and wisdom-based
 - **Responsibilities**: Conflict resolution, resource management
@@ -520,6 +563,7 @@ Tigrinya and minority languages
 - **Continuity**: Intergenerational knowledge transfer
 
 **Traditional Courts (Baito)**
+
 - **Function**: Local dispute resolution
 - **Process**: Community-based mediation
 - **Scope**: Family, land, resource conflicts
@@ -529,6 +573,7 @@ Tigrinya and minority languages
 #### Social Organizations
 
 **Equb (Rotating Credit Association)**
+
 - **Purpose**: Financial mutual support
 - **Mechanism**: Regular contribution rotation
 - **Benefits**: Access to lump sum funds
@@ -536,6 +581,7 @@ Tigrinya and minority languages
 - **Modern Adaptation**: Urban and rural practice
 
 **Eder (Burial Association)**
+
 - **Function**: Funeral support system
 - **Membership**: Neighborhood-based
 - **Services**: Financial and labor support
@@ -551,6 +597,7 @@ Tigrinya and minority languages
 #### Universities and Research Centers
 
 **Mekelle University Institute of Ethiopian Studies**
+
 - **Established**: 2005
 - **Focus**: Tigray history and culture research
 - **Collections**: Manuscripts, artifacts, oral histories
@@ -558,6 +605,7 @@ Tigrinya and minority languages
 - **Partnerships**: International research collaboration
 
 **Axum University Archaeology Department**
+
 - **Programs**: Archaeological research and training
 - **Excavations**: Ongoing archaeological projects
 - **Collections**: Archaeological artifact management
@@ -567,6 +615,7 @@ Tigrinya and minority languages
 #### Documentation Projects
 
 **Tigray Manuscript Digitization Project**
+
 - **Scope**: Religious and historical manuscripts
 - **Technology**: Digital preservation methods
 - **Access**: Online database development
@@ -574,6 +623,7 @@ Tigrinya and minority languages
 - **Impact**: Global access to Tigrayan heritage
 
 **Oral History Documentation**
+
 - **Subjects**: Elderly community members
 - **Topics**: Traditional practices, historical events
 - **Methods**: Audio and video recording
@@ -585,12 +635,14 @@ Tigrinya and minority languages
 #### Challenges to Heritage Preservation
 
 **Natural Threats**
+
 - **Climate Change**: Erosion and weathering impacts
 - **Earthquakes**: Structural damage to monuments
 - **Flooding**: Risk to archaeological sites
 - **Drought**: Impact on traditional practices
 
 **Human-Caused Threats**
+
 - **Conflict Impact**: 2020-2022 war damage
 - **Development Pressure**: Urban expansion effects
 - **Tourism Impact**: Visitor management needs
@@ -599,12 +651,14 @@ Tigrinya and minority languages
 #### Conservation Initiatives
 
 **UNESCO Programs**
+
 - **World Heritage Sites**: Axum conservation support
 - **Intangible Heritage**: Traditional practice protection
 - **Emergency Response**: Post-conflict heritage recovery
 - **Capacity Building**: Local conservator training
 
 **Government Efforts**
+
 - **Heritage Laws**: Legal protection frameworks
 - **Tourism Development**: Sustainable heritage tourism
 - **Education Programs**: School heritage curriculum
@@ -650,12 +704,14 @@ Tigrinya and minority languages
 #### Cultural Site Visitation
 
 **Pre-War Tourism (2019)**
+
 - **International Visitors**: 45,000 annually
 - **Domestic Tourists**: 120,000 annually
 - **Economic Impact**: $25M tourism revenue
 - **Employment**: 8,000 direct tourism jobs
 
 **Current Status (2024)**
+
 - **Recovery Rate**: 40% of pre-war levels
 - **Site Accessibility**: 70% of sites operational
 - **Tourism Infrastructure**: Rebuilding phase
@@ -670,6 +726,7 @@ Tigrinya and minority languages
 #### Major Museums
 
 **National Museum of Tigray (Mekelle)**
+
 - **Collections**: Archaeological, ethnographic, historical
 - **Exhibits**: Ancient artifacts, traditional crafts
 - **Education**: School programs, cultural workshops
@@ -677,6 +734,7 @@ Tigrinya and minority languages
 - **Status**: Reopened 2024, rebuilding collections
 
 **Axum Archaeological Museum**
+
 - **Focus**: Aksumite civilization artifacts
 - **Highlights**: Stelae artifacts, ancient coins
 - **Research**: Archaeological documentation
@@ -686,6 +744,7 @@ Tigrinya and minority languages
 #### Cultural Centers
 
 **Tigray Cultural Center (Mekelle)**
+
 - **Programs**: Traditional arts training
 - **Performances**: Music, dance, theater
 - **Workshops**: Handicraft skill development
@@ -697,7 +756,7 @@ Tigrinya and minority languages
 #### Online Platforms
 
 !!! info "Digital Cultural Resources"
-    
+
     **Virtual Museum Tours**
     - [Axum Archaeological Virtual Tour](../assets/virtual/axum_tour.html)
     - [Rock Churches 360° Experience](../assets/virtual/churches_360.html)
@@ -727,12 +786,14 @@ Tigrinya and minority languages
 #### Media and Documentation
 
 **Documentary Films**
+
 - "The Kingdom of Axum" (45 min) - Historical documentary
 - "Rock Churches of Tigray" (30 min) - UNESCO heritage film
 - "Traditional Life in Tigray" (60 min) - Ethnographic documentation
 - "Post-Conflict Heritage Recovery" (40 min) - Recent developments
 
 **Photography Archives**
+
 - Historical photographs (1900-2000)
 - Cultural practice documentation
 - Archaeological site records
@@ -769,12 +830,14 @@ Tigrinya and minority languages
 #### Research Priorities
 
 **Archaeological Research**
+
 - Systematic excavation of unexplored sites
 - Advanced dating and analysis techniques
 - Regional archaeological survey completion
 - International research partnerships
 
 **Cultural Studies**
+
 - Comprehensive ethnographic documentation
 - Language preservation and development
 - Traditional knowledge recording
@@ -785,7 +848,7 @@ Tigrinya and minority languages
 ### 📸 Cultural Gallery
 
 !!! gallery "Traditional Culture Gallery"
-    
+
     **Traditional Dress and Textiles**
     - [Habesha Kemis Gallery](/assets/images/culture/traditional_dress/)
     - [Weaving Traditions](/assets/images/culture/textiles/)

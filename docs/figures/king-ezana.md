@@ -48,8 +48,9 @@ King Ezana is venerated as a saint by the Orthodox Tewahedo Churches, with his f
 
 ## Further Reading
 
+- [Abreha and Atsbeha](abreha-atsbeha.md) - Earlier Christian rulers of Axum
 - [Axumite Kingdom](../history/axumite-kingdom.md) - The broader historical context of Ezana's empire
-- [Emperor Yohannes IV](yohannes-iv.md) - Later Ethiopian emperor who defended Christian tradition
+- [Emperor Yohannes IV](emperor-yohannes-iv.md) - Later Ethiopian emperor who defended Christian tradition
 - [Church of Our Lady Mary of Zion](../religious/mary-of-zion.md) - Sacred church linked to Axumite Christianity
 - [Ethiopian Orthodox Church](../culture/religion.md) - Religious tradition established during Ezana's reign
 
