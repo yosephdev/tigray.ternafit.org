@@ -22,7 +22,6 @@ This page lists articles that need expansion or creation. **Stub articles** are 
 - ✅ Emperor Yohannes IV (docs/figures/yohannes-iv.md)
 - ✅ Alula Aba Nega (docs/figures/alula-aba-nega.md)
 - ✅ King Ezana (docs/figures/king-ezana.md)
-- ✅ Abreha and Atsbeha (docs/figures/abreha-atsbeha.md)
 - ✅ Dr. Tedros Adhanom (docs/figures/tedros-adhanom.md)
 - ✅ Meles Zenawi (docs/figures/meles-zenawi.md)
 - ✅ Seyum Mesfin (docs/figures/seyum-mesfin.md)

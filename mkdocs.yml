@@ -54,8 +54,12 @@ nav:
     - About Ternafit: about.md
     - Contribute: contribute.md
     - Stub Articles: stubs.md
-  - Geography: 01-geography.md
-  - Demographics: 02-demographics.md
+  - Geography: 
+    - 01-geography.md
+    - Interactive Maps: geography/maps.md
+  - Demographics: 
+    - 02-demographics.md
+    - Population Statistics: demographics/population.md
   - Economy: 03-economy.md
   - Education & Health: 04-edu-health.md
   - History & Culture: 
@@ -73,9 +77,16 @@ nav:
       - Dejazmach Sabagadis: figures/dejazmach-sabagadis.md
       - Ras Seyum Mengesha: figures/ras-seyum-mengesha.md
       - Ras Woldemichael Gugsa: figures/ras-woldemichael-gugsa.md
-  - War & Memorial: 06-war-memorial.md
-  - Current Affairs: 07-current-affairs.md
-  - Resources: 08-downloads.md
+  - War & Memorial: 
+    - 06-war-memorial.md
+    - War Timeline: war/timeline.md
+    - Memorial: war/memorial.md
+  - Current Affairs: 
+    - 07-current-affairs.md
+    - News Updates: current/news.md
+  - Resources: 
+    - 08-downloads.md
+    - Bibliography: resources/bibliography.md
     - Bibliography: resources/bibliography.md
 
 extra:
