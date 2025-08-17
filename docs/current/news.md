@@ -23,21 +23,25 @@ Stay updated with current developments in Tigray.
 **Coming Soon:**
 
 ### Reconstruction & Development
+
 - Infrastructure rebuilding
 - Service restoration  
 - Economic initiatives
 
 ### Governance & Politics
+
 - Administrative updates
 - Policy developments
 - Electoral processes
 
 ### International Relations
+
 - Diplomatic developments
 - Aid coordination
 - Partnership announcements
 
 ### Social & Cultural
+
 - Community events
 - Cultural celebrations
 - Educational initiatives

@@ -11,24 +11,28 @@ Comprehensive bibliography of academic sources on Tigray studies.
 **Coming Soon:**
 
 ### Historical Studies
+
 - Ancient Axumite period research
 - Medieval Ethiopian history
 - Modern Ethiopian studies
 - Colonial period documentation
 
 ### Anthropological Research  
+
 - Ethnographic studies
 - Cultural documentation
 - Linguistic research
 - Traditional practices
 
 ### Economic Studies
+
 - Development economics
 - Agricultural research
 - Trade history
 - Resource studies
 
 ### Political Science
+
 - Governance studies
 - Conflict analysis
 - Peace studies

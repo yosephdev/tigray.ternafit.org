@@ -7,6 +7,7 @@
 Interactive maps showing Tigray's administrative divisions, zones, and woredas.
 
 **Coming Soon:**
+
 - Zone boundary maps
 - Woreda administrative maps  
 - Population density overlays
@@ -15,6 +16,7 @@ Interactive maps showing Tigray's administrative divisions, zones, and woredas.
 ## Geographic Features
 
 **Coming Soon:**
+
 - Topographic maps
 - River systems
 - Mountain ranges
@@ -23,6 +25,7 @@ Interactive maps showing Tigray's administrative divisions, zones, and woredas.
 ## Historical Maps
 
 **Coming Soon:**
+
 - Ancient Axumite territory
 - Medieval boundaries
 - Colonial period changes
