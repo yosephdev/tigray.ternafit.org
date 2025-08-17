@@ -2,11 +2,12 @@
 
 !!! info "Last Updated: August 17, 2025"
     
-    **Situation Status**: Post-conflict recovery phase  
-    **Security Level**: Stable with limited access to some areas  
+    **Situation Status**: Post-conflict transition with significant political upheaval  
+    **Security Level**: Stable but fragile, with territorial control limitations  
     **Humanitarian Needs**: 2.1 million people requiring assistance  
     **International Presence**: Limited UN and NGO operations  
-    **Political Status**: Leadership transition completed April 2025
+    **Political Status**: New hardline administration since April 2025  
+    **Territorial Control**: ~40% of pre-war Tigray under Amhara/Eritrean control
 
 ---
 
@@ -113,6 +114,114 @@ In February 2025, the **Tigray Interim Council** was established to provide guid
 - Opposition parties questioning its legitimacy
 - Unclear relationship with federal oversight mechanisms
 - Limited representation from civil society groups
+
+### 1.3 In-Depth Analysis: The Political Crisis of 2024-2025
+
+!!! abstract "Analytical Report: Tigray's Precarious Transition"
+
+    The following analysis provides comprehensive insight into the dramatic political transformation that occurred in Tigray during 2024-2025, fundamentally altering the region's governance structure and relationship with the federal government.
+
+#### The Pretoria Fault Line: Ideological Divisions
+
+The **November 2022 Pretoria Peace Agreement** created a fundamental schism within the TPLF leadership:
+
+**The Pragmatist Faction** (Led by Getachew Reda):
+- Prioritized constructive engagement with federal government
+- Focused on humanitarian aid, reconstruction, and stability
+- Viewed the peace agreement as necessary foundation for recovery
+- Supported cooperative implementation of peace provisions
+
+**The Hardliner/Old Guard Faction** (Led by Debretsion Gebremichael):
+- Viewed the peace agreement as "capitulation" to Addis Ababa
+- Maintained deep mistrust of federal government intentions
+- Opposed implementation of controversial provisions (DDR, territorial disputes)
+- Advocated confrontational stance to reclaim occupied territories
+
+#### Timeline of Political Rupture (August 2024 - April 2025)
+
+**August-September 2024: The Formal Split**
+- TPLF's 14th Congress re-elected Debretsion as chairman
+- Getachew Reda and allies boycotted, disputing legitimacy
+- Congress replaced Getachew with Amanuel Assefa as deputy chairman
+- Formal expulsion of Getachew and 15 allies from TPLF
+
+**October 2024: Declaration of "Public Coup"**
+- Debretsion-led TPLF announced "removal" of Getachew from presidency
+- Accused his administration of exceeding transitional mandate
+- Created political pressure despite lack of legal authority
+
+**March 2025: Forceful Seizure of Power**
+- Armed forces loyal to Debretsion faction seized government infrastructure
+- Took control of administrative offices, radio stations, municipal buildings
+- Getachew Reda fled Mekelle for Addis Ababa
+- Created fait accompli forcing federal government decision
+
+**April 8, 2025: Federal Ratification**
+- PM Abiy Ahmed appointed Lt. General Tadesse Worede as new president
+- Decision prioritized de-escalation over principle
+- Getachew Reda appointed as federal "Advisor for East African Affairs"
+
+#### Current Administration Challenges
+
+**Crisis of Legitimacy**:
+- Three major opposition parties rejected new cabinet as unrepresentative
+- Administration accused of "coming to power by force"
+- Violates Pretoria Agreement's requirement for inclusive governance
+- Lacks popular mandate from Tigrayan electorate
+
+**Mandate Contradictions**:
+- Formally obligated to implement Pretoria Agreement provisions
+- Political base opposes key aspects of the same agreement
+- Creates structural paralysis on controversial issues
+- Particularly affects DDR process and territorial dispute resolution
+
+**Territorial Control Limitations**:
+- Approximately 40% of pre-war Tigray remains under Amhara/Eritrean control
+- Includes Western Tigray (Welkait), Southern zones, parts of North-Eastern zones
+- Prevents IDP returns and service restoration
+- Undermines administration's credibility and effectiveness
+
+#### Strategic Implications
+
+**Federal Government Calculations**:
+- Chose short-term stability over long-term principle
+- Avoided immediate military confrontation
+- Risk of legitimizing hardline faction less committed to peace
+- Co-opted former president to prevent spoiler activities
+
+**Regional Security Risks**:
+- Potential TPLF-Eritrea rapprochement threatens regional stability
+- Western Tigray remains primary flashpoint for renewed conflict
+- DDR process stalled due to security concerns
+- Risk of proxy conflicts involving external actors
+
+**Peace Process Durability**:
+- Core Pretoria Agreement provisions remain unimplemented
+- Hardline leadership less predictable and cooperative
+- Increased likelihood of "frozen conflict" scenario
+- Long-term viability of peace framework in question
+
+#### Key Monitoring Indicators (2025-2026)
+
+**Political Stability Measures**:
+- Opposition party freedom of operation
+- Progress toward regional elections
+- National dialogue participation levels
+- TPLF-federal government rhetoric and engagement
+
+**Security Situation Tracking**:
+- DDR implementation pace and transparency
+- Military posture changes along territorial boundaries
+- Internal security incidents and political violence
+- Intelligence on TPLF-Eritrea coordination
+
+**Humanitarian and Economic Recovery**:
+- IDP return rates, especially to contested territories
+- Humanitarian access restrictions
+- Civil servant salary payment resolution
+- Natural resource management transparency
+
+This analysis reveals that Tigray's current political situation represents not merely a leadership change, but a fundamental transformation in the region's relationship with the peace process and federal government. The implications extend far beyond Tigray's borders, affecting the stability of the entire Horn of Africa region.
 
 ---
 
