@@ -222,6 +222,12 @@ function updateTimestamps() {
 }
 
 function checkForDataUpdates() {
+    // Disabled API status check for static site
+    // In a production environment with a backend, this would check for data updates
+    console.log('Data update check disabled for static site deployment');
+    return;
+    
+    /*
     fetch('/api/v1/status')
         .then(response => response.json())
         .then(data => {
@@ -231,6 +237,7 @@ function checkForDataUpdates() {
             }
         })
         .catch(error => console.warn('Could not check for updates:', error));
+    */
 }
 
 function showUpdateNotification() {

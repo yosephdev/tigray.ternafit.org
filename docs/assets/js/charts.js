@@ -100,9 +100,12 @@ const TigrayCharts = {
     createChartFromJson: function(config, originalElement, index) {
         console.log(`Creating chart ${index}`, config);
         
+        // Create a unique ID to avoid conflicts
+        const chartId = `chart-${Date.now()}-${index}`;
+        
         // Create container for the chart
         const chartContainer = document.createElement('div');
-        chartContainer.id = `chart-${index}`;
+        chartContainer.id = chartId;
         chartContainer.className = 'plotly-chart interactive-chart';
         chartContainer.style.cssText = 'width: 100%; height: 400px; margin: 20px 0; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);';
 
@@ -137,26 +140,34 @@ const TigrayCharts = {
         console.log('Replacing element:', parentToReplace);
         
         // Replace the code block with the chart
-        parentToReplace.replaceWith(chartContainer);
+        if (parentToReplace) {
+            parentToReplace.replaceWith(chartContainer);
 
-        // Render the chart
-        Plotly.newPlot(chartContainer.id, config.data, layout, {
-            responsive: true,
-            displayModeBar: true,
-            modeBarButtonsToRemove: ['pan2d', 'lasso2d', 'select2d'],
-            displaylogo: false
-        }).then(() => {
-            console.log(`Chart ${index} rendered successfully`);
-        }).catch(error => {
-            console.error(`Failed to render chart ${index}:`, error);
-        });
-
-        // Add download functionality
-        this.addChartDownloadButton(chartContainer);
-
-        // Track chart rendering
+            // Render the chart
+            Plotly.newPlot(chartId, config.data, layout, {
+                responsive: true,
+                displayModeBar: true,
+                modeBarButtonsToRemove: ['pan2d', 'lasso2d', 'select2d'],
+                displaylogo: false
+            }).then(() => {
+                console.log(`Chart ${index} rendered successfully`);
+                // Add download functionality after successful render
+                this.addChartDownloadButton(chartContainer);
+            }).catch(error => {
+                console.error(`Error rendering chart ${index}:`, error);
+                // If chart fails, show error message
+                chartContainer.innerHTML = `<div style="padding: 20px; text-align: center; color: #dc3545;">
+                    <p><strong>Chart Error</strong></p>
+                    <p>Unable to render visualization. Please check the data format.</p>
+                </div>`;
+            });
+        } else {
+            console.warn(`Could not find parent element to replace for chart ${index}`);
+        }
+        
+        // Track chart rendering attempt
         if (typeof Analytics !== 'undefined') {
-            Analytics.trackChartInteraction('plotly', 'rendered');
+            Analytics.trackChartInteraction('plotly', 'render_attempt');
         }
     },
 
