@@ -1,5 +1,8 @@
 # Alula Aba Nega (1827-1897)
 
+!!! abstract "Article Tags"
+    **Tags**: historical-figures, 19th-century, military-leaders, independence, northern-zone, mendefera, emperor-yohannes-iv, battle-of-adwa, resistance, colonialism
+
 Ras Alula Aba Nega (Tigrinya: አሉላ አባ ነጋ) was one of the most renowned Ethiopian military commanders and a key figure in defending Ethiopian independence during the late 19th century. Born in Mendefera, in what is now Eritrea but was then part of Tigray, he served as a trusted general under Emperor Yohannes IV.
 
 ## Early Life
@@ -79,8 +82,34 @@ Today, Alula Aba Nega is celebrated as a hero of Ethiopian independence:
 ## Further Reading
 
 - [Emperor Yohannes IV](yohannes-iv.md) - His emperor and commander
-- [Battle of Adwa](../history/adwa.md) - Later Ethiopian victory building on his legacy
-- [Tigray Military History](../history/military.md) - Broader context of Tigrayan military tradition
+- [History & Culture](../05-history-culture.md) - Broader context of Tigrayan military tradition
+- [War & Memorial](../06-war-memorial.md) - Military conflicts and resistance legacy
+
+## Related Topics
+
+### Military Context
+
+- **[Battle Strategies](../05-history-culture.md)** - Traditional Tigrayan military tactics
+- **[Defense Networks](../01-geography.md)** - Northern border defense systems
+- **[Regional Alliances](../05-history-culture.md)** - Inter-regional military cooperation
+
+### Geographic Connections
+
+- **[Northern Zone](../01-geography.md)** - Territory under Alula's command
+- **[Mendefera Region](../01-geography.md)** - His birthplace and homeland
+- **[Border Areas](../01-geography.md)** - Strategic frontier regions
+
+### Contemporary Figures
+
+- **[Emperor Yohannes IV](yohannes-iv.md)** - His sovereign and close ally
+- **[King Ezana](king-ezana.md)** - Earlier military leader from the region
+- **[Abreha and Atsbeha](abreha-atsbeha.md)** - Historical military saints
+
+### Modern Legacy
+
+- **[Current Affairs](../07-current-affairs.md)** - Modern independence movements
+- **[Cultural Memory](../05-history-culture.md)** - How his legacy is preserved
+- **[Educational Impact](../04-edu-health.md)** - Teaching history in schools
 
 ---
 

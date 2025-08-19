@@ -1,7 +1,10 @@
 # Geography & Administrative Structure
 
+!!! abstract "Article Tags"
+    **Tags**: geography, administrative-zones, physical-geography, climate, cities, borders, central-zone, eastern-zone, western-zone, topography
+
 !!! info "Quick Facts"
-    
+
     **Area**: 80,000 km² (31,000 sq mi) - *roughly the size of Austria*  
     **Capital**: Mekelle (pop. 545,000)  
     **Coordinates**: 14°N, 38.5°E  
@@ -329,4 +332,32 @@ Tigray's landscape varies dramatically from the **Eastern Lowlands** (500m above
 
 ---
 
-*Sources: Ethiopian Central Statistical Agency (2024), Ethiopian Mapping Agency (2023), Tigray Regional Government (2025), OCHA (2025)*
+## Related Topics
+
+### Historical Context
+
+- **[Emperor Yohannes IV](figures/yohannes-iv.md)** - Born in Tembien, Central Zone
+- **[King Ezana of Axum](figures/king-ezana.md)** - Ancient ruler from Axum, Central Zone  
+- **[Ras Alula Aba Nega](figures/alula-aba-nega.md)** - Military leader from Mendefera region
+
+### Demographics & Society
+
+- **[Population Statistics](02-demographics.md)** - Detailed demographic data by zone
+- **[Urban Development](02-demographics.md)** - City growth and urbanization patterns
+- **[Ethnic Composition](02-demographics.md)** - Cultural diversity across regions
+
+### Economic Geography
+
+- **[Agricultural Zones](03-economy.md)** - Economic activities by geographic region
+- **[Trade Routes](03-economy.md)** - Historical and modern commercial networks
+- **[Natural Resources](03-economy.md)** - Mining and resource distribution
+
+### Cultural Heritage
+
+- **[Historical Sites](05-history-culture.md)** - Ancient monuments and archaeological sites
+- **[Rock Churches](05-history-culture.md)** - UNESCO World Heritage sites by location
+- **[Traditional Architecture](05-history-culture.md)** - Regional building styles
+
+---
+
+**Sources:** Ethiopian Central Statistical Agency (2024), Ethiopian Mapping Agency (2023), Tigray Regional Government (2025), OCHA (2025)

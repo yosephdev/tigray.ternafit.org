@@ -1,5 +1,8 @@
 # Welcome to the Tigray Knowledge Base
 
+!!! abstract "Site Tags"
+    **Main Topics**: geography, demographics, economy, education, health, history, culture, war-memorial, current-affairs, historical-figures, resources
+
 <div class="hero-section" markdown>
 
 <a class="glightbox" href="assets/images/hero.svg"

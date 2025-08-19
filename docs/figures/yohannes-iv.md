@@ -1,5 +1,8 @@
 # Emperor Yohannes IV (1837-1889)
 
+!!! abstract "Article Tags"
+    **Tags**: historical-figures, 19th-century, military-leaders, axum, ethiopian-empire, christianity, independence, central-zone
+
 Emperor Yohannes IV (Tigrinya: ዮሃንስ ራብዓይ, birth name: Lij Kassa Mercha) was Emperor of Ethiopia from 1871 to 1889 and one of the most significant rulers in Ethiopian history. Born in Tembien, Tigray, he was a skilled military leader who defended Ethiopia against both Egyptian and Italian colonial expansion.
 
 ## Early Life and Rise to Power
@@ -61,9 +64,21 @@ Today, Emperor Yohannes IV is remembered as one of Ethiopia's greatest leaders. 
 
 ## Further Reading
 
-- [Tigray Region](01-geography.md) - Geographic context of Emperor Yohannes IV's homeland
-- [Battle of Adwa](history/adwa.md) - Later Ethiopian victory that built on Yohannes IV's legacy
-- [Ethiopian Orthodox Church](culture/religion.md) - Religious context of his reign
+- [Tigray Geography](../01-geography.md) - Geographic context of Emperor Yohannes IV's homeland
+- [History & Culture](../05-history-culture.md) - Historical and religious context of his reign
+- [War & Memorial](../06-war-memorial.md) - Military conflicts and legacy
+
+## Related Historical Figures
+
+- [King Ezana of Axum](king-ezana.md) - Earlier Tigrayan emperor who established Christianity
+- [Ras Alula Aba Nega](alula-aba-nega.md) - Military commander under Yohannes IV
+- [Abreha and Atsbeha](abreha-atsbeha.md) - Ancient Axumite rulers and saints
+
+## Geographic Connections
+
+- **Tembien Woreda** - See [Central Zone](../01-geography.md#administrative-divisions) for details on his birthplace
+- **Axum** - [Historical significance](../05-history-culture.md) of his coronation site
+- **Mekelle** - Modern regional capital, see [Demographics](../02-demographics.md)
 
 ---
 

@@ -1,6 +1,11 @@
 # Demographics & Population
 
-!!! info "Population Overview (2024)"
+# Demographics & Population
+
+!!! abstract "Article Tags"
+    **Tags**: demographics, population, ethnic-groups, urbanization, displacement, war-impact, statistics, central-zone, eastern-zone, western-zone, rural-urban
+
+!!! info "Population Quick Facts"
     
     **Total Population**: 7.1 million (down from 7.8M in 2020)  
     **Population Density**: 89 people/km²  
@@ -452,4 +457,32 @@ Various sources provide different estimates of war casualties:
 
 ---
 
-*Sources: Ethiopian Central Statistical Agency (2024), OCHA Humanitarian Needs Overview (2025), WHO Health Cluster (2024), IOM Displacement Tracking Matrix (2024), UNICEF State of Children Report (2024)*
+## Related Topics
+
+### Geographic Context
+
+- **[Administrative Zones](01-geography.md)** - Administrative divisions and zone profiles
+- **[Major Cities](01-geography.md)** - Urban centers and population distribution
+- **[Border Regions](01-geography.md)** - Cross-border population movements
+
+### Economic Implications
+
+- **[Labor Force](03-economy.md)** - Employment and economic participation by demographics
+- **[Agricultural Population](03-economy.md)** - Rural economic activities and livelihoods
+- **[Urban Development](03-economy.md)** - City growth and economic opportunities
+
+### Social Services
+
+- **[Education System](04-edu-health.md)** - School enrollment and literacy by demographic groups
+- **[Healthcare Access](04-edu-health.md)** - Health services and demographic health outcomes
+- **[Infrastructure](04-edu-health.md)** - Service delivery to different population groups
+
+### Historical Context
+
+- **[Population Changes](05-history-culture.md)** - Historical demographic shifts and migrations
+- **[War Impact](06-war-memorial.md)** - Conflict-related demographic changes and displacement
+- **[Cultural Identity](05-history-culture.md)** - Ethnic and cultural heritage
+
+---
+
+**Sources:** Ethiopian Central Statistical Agency (2024), OCHA Humanitarian Needs Overview (2025), WHO Health Cluster (2024), IOM Displacement Tracking Matrix (2024), UNICEF State of Children Report (2024)

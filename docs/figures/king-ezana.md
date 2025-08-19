@@ -1,5 +1,8 @@
 # King Ezana of Axum
 
+!!! abstract "Article Tags"
+    **Tags**: historical-figures, ancient-period, axumite-kingdom, christianity, religious-heritage, axum, central-zone, 4th-century, military-leaders, archaeology
+
 **King Ezana of Axum** (Ge'ez: ዔዛና, ʿĒzānā) was a ruler of the Kingdom of Axum, an ancient empire located in the highlands of modern-day Ethiopia and Eritrea. His reign in the 4th century CE (circa 320s–360s) is considered a pivotal moment in the region's history, most notably for his conversion to Christianity, which he established as the state religion. This act fundamentally shaped the religious and cultural trajectory of Ethiopia and Eritrea for millennia.
 
 His reign was also marked by significant military expansion, which solidified Axum's control over a vast territory stretching from the Nile Valley to the Arabian Peninsula.
@@ -49,10 +52,40 @@ King Ezana is venerated as a saint by the Orthodox Tewahedo Churches, with his f
 ## Further Reading
 
 - [Abreha and Atsbeha](abreha-atsbeha.md) - Earlier Christian rulers of Axum
-- [Axumite Kingdom](../history/axumite-kingdom.md) - The broader historical context of Ezana's empire
-- [Emperor Yohannes IV](emperor-yohannes-iv.md) - Later Ethiopian emperor who defended Christian tradition
-- [Church of Our Lady Mary of Zion](../religious/mary-of-zion.md) - Sacred church linked to Axumite Christianity
-- [Ethiopian Orthodox Church](../culture/religion.md) - Religious tradition established during Ezana's reign
+- [History & Culture](../05-history-culture.md) - The broader historical context of Ezana's empire
+- [Emperor Yohannes IV](yohannes-iv.md) - Later Ethiopian emperor who defended Christian tradition
+
+## Related Topics
+
+### Archaeological Heritage
+
+- **[Axum Archaeological Sites](../05-history-culture.md)** - Physical remains of Ezana's kingdom
+- **[Ancient Inscriptions](../05-history-culture.md)** - Ezana's stone monuments and texts
+- **[Coin Collections](../05-history-culture.md)** - Numismatic evidence of his reign
+
+### Religious Heritage
+
+- **[Orthodox Christianity](../05-history-culture.md)** - Religious tradition established during Ezana's reign
+- **[Church Architecture](../05-history-culture.md)** - Early Christian building traditions
+- **[Religious Festivals](../05-history-culture.md)** - Christian celebrations with ancient roots
+
+### Geographic Context
+
+- **[Central Zone](../01-geography.md)** - Location of ancient Axum
+- **[Historical Borders](../01-geography.md)** - Extent of the Axumite Kingdom
+- **[Trade Routes](../03-economy.md)** - Ancient commercial networks
+
+### Cultural Impact
+
+- **[Language Development](../05-history-culture.md)** - Ge'ez script and literature
+- **[Art and Architecture](../05-history-culture.md)** - Axumite artistic traditions
+- **[Modern Identity](../05-history-culture.md)** - How Ezana's legacy shapes contemporary culture
+
+### Contemporary Connections
+
+- **[Educational Curriculum](../04-edu-health.md)** - Teaching ancient history
+- **[Tourism Sites](../03-economy.md)** - Economic impact of historical heritage
+- **[Cultural Preservation](../07-current-affairs.md)** - Modern efforts to protect Axumite sites
 
 ---
 
