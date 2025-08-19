@@ -1,3 +1,23 @@
+---
+title: "Data Downloads & Resources"
+tags:
+  - resources
+  - data
+  - downloads
+  - datasets
+  - maps
+  - reports
+  - research
+  - statistics
+  - documentation
+  - api
+  - open-data
+  - geospatial
+  - humanitarian-data
+  - research-resources
+  - databases
+---
+
 # Data Downloads & Resources
 
 Welcome to the **Tigray Knowledge Base Data Center** - your comprehensive source for datasets, reports, maps, and multimedia resources about Tigray, Ethiopia.

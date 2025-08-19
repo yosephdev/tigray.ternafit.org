@@ -1,3 +1,20 @@
+---
+title: "Economy & Resources"
+tags:
+  - economy
+  - economic-development
+  - agriculture
+  - industry
+  - trade
+  - reconstruction
+  - gdp
+  - employment
+  - poverty
+  - resources
+  - post-conflict-recovery
+  - development
+---
+
 # Economy & Resources
 
 !!! info "Economic Overview (2024)"

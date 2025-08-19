@@ -12,6 +12,17 @@ This page shows all content organized by topic tags, helping you discover relate
 
 ## Popular Tag Categories
 
+### Main Content Areas
+
+- `economy` - Economic systems, development, and resources
+- `education` - Educational institutions, literacy, schools, universities
+- `health` - Healthcare systems, medical facilities, public health
+- `history` - Historical periods, events, and developments
+- `culture` - Cultural traditions, heritage, arts, and festivals
+- `war` - Conflict documentation, war crimes, memorial content
+- `current-affairs` - Contemporary politics, government, recent developments
+- `resources` - Data downloads, research materials, documentation
+
 ### Historical Periods
 
 - `ancient-period` - Axumite Kingdom, early civilizations (King Ezana, Abreha & Atsbeha)
@@ -32,6 +43,9 @@ This page shows all content organized by topic tags, helping you discover relate
 - `religious-heritage` - Orthodox Christianity, churches, traditions (King Ezana)
 - `cultural-traditions` - Festivals, customs, arts (cultural identity)
 - `economic-development` - Agriculture, trade, industry (modern economy)
+- `reconstruction` - Post-conflict recovery and rebuilding efforts
+- `humanitarian` - Aid, assistance, crisis response
+- `post-conflict` - Recovery, reconciliation, peace-building
 
 ### Administrative & Political
 
@@ -39,6 +53,8 @@ This page shows all content organized by topic tags, helping you discover relate
 - `independence` - Resistance movements and sovereignty
 - `colonialism` - Anti-colonial struggles and resistance
 - `borders` - International and regional boundaries
+- `governance` - Government structures and administration
+- `politics` - Political developments and processes
 
 ### Social & Cultural
 
@@ -46,6 +62,8 @@ This page shows all content organized by topic tags, helping you discover relate
 - `ethnic-groups` - Cultural diversity and identity
 - `urbanization` - City development and rural-urban dynamics
 - `displacement` - Population movements and migration
+- `heritage` - Cultural and historical preservation
+- `documentation` - Research, records, and archives
 
 ---
 

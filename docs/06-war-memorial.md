@@ -1,3 +1,24 @@
+---
+title: "Tigray War (2020–2022) & Never Again Memorial"
+tags:
+  - war
+  - memorial
+  - conflict
+  - tigray-war
+  - never-again
+  - atrocities
+  - war-crimes
+  - genocide
+  - peace
+  - reconciliation
+  - human-rights
+  - humanitarian-crisis
+  - documentation
+  - remembrance
+  - justice
+  - accountability
+---
+
 # Tigray War (2020–2022) & Never Again Memorial
 
 !!! danger "Content Warning"

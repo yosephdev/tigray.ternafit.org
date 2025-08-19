@@ -1,3 +1,23 @@
+---
+title: "Current Affairs & Situation Report"
+tags:
+  - current-affairs
+  - politics
+  - government
+  - interim-administration
+  - post-conflict
+  - reconstruction
+  - humanitarian
+  - security
+  - news
+  - updates
+  - contemporary
+  - political-developments
+  - situation-report
+  - governance
+  - recovery
+---
+
 # Current Affairs & Situation Report
 
 !!! info "Last Updated: August 19, 2025"

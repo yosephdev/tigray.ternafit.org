@@ -1,3 +1,22 @@
+---
+title: "Education & Health Systems in Tigray"
+tags:
+  - education
+  - health
+  - healthcare
+  - schools
+  - universities
+  - hospitals
+  - medical-care
+  - literacy
+  - public-health
+  - reconstruction
+  - children
+  - maternal-health
+  - education-recovery
+  - health-system
+---
+
 # Education & Health Systems in Tigray
 
 !!! info "Last Updated: August 2025"

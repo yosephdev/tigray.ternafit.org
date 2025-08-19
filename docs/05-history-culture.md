@@ -1,3 +1,25 @@
+---
+title: "History & Cultural Heritage of Tigray"
+tags:
+  - history
+  - culture
+  - heritage
+  - ancient-period
+  - axumite-kingdom
+  - medieval-period
+  - modern-period
+  - archaeological-sites
+  - religious-heritage
+  - orthodox-christianity
+  - traditional-culture
+  - cultural-traditions
+  - historical-sites
+  - manuscripts
+  - festivals
+  - arts
+  - architecture
+---
+
 # History & Cultural Heritage of Tigray
 
 !!! info "Last Updated: August 2025"
