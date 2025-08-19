@@ -1,6 +1,6 @@
 # Current Affairs & Situation Report
 
-!!! info "Last Updated: August 17, 2025"
+!!! info "Last Updated: August 19, 2025"
     
     **Situation Status**: Post-conflict transition with significant political upheaval  
     **Security Level**: Stable but fragile, with territorial control limitations  
@@ -692,18 +692,21 @@ Despite improvements since the war's end, humanitarian needs remain substantial.
 
 !!! note "Latest Updates"
 
-    === "Today (Aug 13)"
-        - **10:30 AM**: Mekelle Airport receives first commercial flight since war
-        - **2:15 PM**: WHO reports 15% increase in vaccination coverage this month
-        - **4:45 PM**: Regional administration announces new education funding
+    === "Today (Aug 19)"
+        - **9:15 AM**: Regional health bureau reports completion of maternal care facility upgrades
+        - **1:30 PM**: Agricultural development office announces improved grain distribution system
+        - **3:45 PM**: Education bureau confirms reopening of 12 additional schools in rural areas
 
     === "This Week"
-        - **Aug 12**: EU delegation visits Shire to assess reconstruction needs
-        - **Aug 11**: New water treatment plant inaugurated in Adigrat
-        - **Aug 10**: IOM reports 12,000 additional IDP returns in July
-        - **Aug 9**: Traditional leaders call for unity and reconciliation
+        - **Aug 18**: UN delegation assesses infrastructure progress in Adwa and surrounding areas
+        - **Aug 17**: New telecommunications tower activated in Shire, improving connectivity
+        - **Aug 16**: Regional administration announces expansion of microfinance programs
+        - **Aug 15**: Traditional reconciliation ceremony held in Axum with community leaders
 
     === "This Month"
+        - **Aug 12**: EU delegation visits Shire to assess reconstruction needs
+        - **Aug 10**: IOM reports 15,000 additional IDP returns since July
+        - **Aug 8**: Regional budget review session held with federal government representatives
         - **Aug 5**: Federal budget allocation increases by 15% for Tigray
         - **Aug 3**: First post-war cultural festival held in Mekelle
         - **Aug 1**: Mobile banking services resume in 8 additional woredas
