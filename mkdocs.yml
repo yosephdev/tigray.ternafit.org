@@ -137,13 +137,14 @@ plugins:
       timezone: Europe/Stockholm
       locale: en
       fallback_to_build_date: true
-  # - rss:
-  #     match_path: current/news.md
-  #     date_from_meta:
-  #       date: "date"
-  #     categories:
-  #       - categories
-  #       - tags
+  - rss:
+      match_path: "docs/07-current-affairs.md"
+      date_from_meta:
+        as_creation: "date"
+      categories:
+        - categories
+        - tags
+      comments_path: "#__comments"
 
 markdown_extensions:
   - abbr

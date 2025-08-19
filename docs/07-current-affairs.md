@@ -688,9 +688,12 @@ Despite improvements since the war's end, humanitarian needs remain substantial.
 
 ---
 
-## 13. Real-Time News Feed
+## 13. Recent News & Updates
 
-!!! note "Latest Updates"
+!!! note "Latest Updates - RSS Integration Available"
+    
+    This section can be updated via RSS feeds or manually curated content.  
+    RSS feeds: [`economy.xml`](https://api.tigray.ternafit.org/feeds/economy.xml) | [`news.xml`](https://api.tigray.ternafit.org/feeds/news.xml)
 
     === "Today (Aug 19)"
         - **9:15 AM**: Regional health bureau reports completion of maternal care facility upgrades
