@@ -213,13 +213,35 @@ Tigray's landscape varies dramatically from the **Eastern Lowlands** (500m above
 
 ### 4.1 Administrative Boundaries
 
-<iframe src="../assets/maps/tigray_admin_interactive.html" width="100%" height="600px" frameborder="0"></iframe>
+!!! info "Interactive Map - Administrative Zones"
+    
+    **Tigray Administrative Structure**
+    
+    - **Central Zone (Mehakelegnaw)**: Capital - Mekelle
+    - **Eastern Zone (Misraqawi)**: Capital - Adigrat  
+    - **Northwestern Zone (Semien Mi'irabawi)**: Capital - Shire
+    - **Southern Zone (Debubawi)**: Capital - Alamata
+    - **Western Zone (Mi'irabawi)**: Capital - Humera
+    - **Southeastern Zone (Debub Misraqawi)**: Capital - Abiy Adi
 
-[View Fullscreen Map](assets/maps/tigray_admin_interactive.html){ .md-button .md-button--primary }
+[:material-map: Download Zone Boundaries (GeoJSON)](../assets/maps/tigray_zones.geojson){ .md-button .md-button--primary }
 
 ### 4.2 Population Density
 
-<iframe src="../assets/maps/population_density.html" width="100%" height="500px" frameborder="0"></iframe>
+!!! example "Population Distribution Overview"
+
+    **Urban Centers (2024 Estimates)**
+    
+    | Zone | Major Cities | Population Density |
+    |------|--------------|-------------------|
+    | **Central** | Mekelle, Axum, Adwa | High (>200/km²) |
+    | **Eastern** | Adigrat, Saesi Tsaedaemba | Medium (50-150/km²) |
+    | **Northwestern** | Shire, May Tsebri | Medium (40-120/km²) |
+    | **Southern** | Alamata, Maychew | Low-Medium (30-80/km²) |
+    | **Western** | Humera, Dansha | Low (15-50/km²) |
+    | **Southeastern** | Abiy Adi, Chelekot | Low-Medium (25-70/km²) |
+    
+    **Note**: Population figures are 2024 estimates accounting for displacement and returns.
 
 ### 4.3 Transportation Network
 
