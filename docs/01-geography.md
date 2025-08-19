@@ -117,7 +117,6 @@ Tigray's landscape varies dramatically from the **Eastern Lowlands** (500m above
       {"city": "Abiy Adi", "population": 45000, "type": "Zonal Capital", "zone": "Debub Misraqawi"},
       {"city": "Maychew", "population": 42000, "type": "Woreda Capital", "zone": "Debubawi"}
     ]
-    ]
   },
   "mark": {"type": "circle", "size": 200},
   "encoding": {
