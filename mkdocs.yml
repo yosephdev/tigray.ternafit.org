@@ -2,6 +2,7 @@ site_name: "Tigray Knowledge Base – Ternafit"
 site_url: https://tigray.ternafit.org
 site_description: "The most comprehensive, authoritative, and multimedia-rich knowledge base on Tigray, Ethiopia"
 site_author: "Ternafit NGO"
+# Force rebuild for Twitter handle deployment
 docs_dir: docs
 # repo_url: https://github.com/yosephdev/tigray.ternafit.org
 # repo_name: yosephdev/tigray.ternafit.org
