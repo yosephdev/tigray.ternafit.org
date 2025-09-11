@@ -22,6 +22,7 @@
 The **Tigray Knowledge Base** is a comprehensive, multimedia-rich documentation platform covering every aspect of Tigray, Ethiopia. Built by [Ternafit NGO](https://ternafit.org), this platform serves as the definitive source for researchers, journalists, students, policymakers, and anyone seeking authoritative information about this historic region.
 
 ### 🎯 Mission
+
 To preserve, document, and share the rich heritage, complex history, and current realities of Tigray through an accessible, evidence-based knowledge platform.
 
 ### 🌟 Key Features
@@ -65,34 +66,40 @@ mkdocs-rss-plugin>=1.12.0
 ## 🛠️ Local Development
 
 ### Prerequisites
+
 - Python 3.8+
 - Git
 
 ### Setup Instructions
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yosephdev/tigray.ternafit.org.git
    cd tigray.ternafit.org
    ```
 
 2. **Create virtual environment**
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
 3. **Install dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 4. **Run development server**
+
    ```bash
    mkdocs serve
    ```
 
 5. **Open in browser**
+
    ```
    http://localhost:8000
    ```
@@ -189,6 +196,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [Ternafit](https://ternafit.org) is a non-governmental organization dedicated to preserving Tigrayan heritage, promoting education, and supporting humanitarian causes. Our mission is to bridge communities through knowledge, cultural preservation, and social development.
 
 ### 🎯 Our Work
+
 - **Heritage Preservation**: Documenting and protecting cultural heritage
 - **Education**: Supporting educational initiatives and research
 - **Humanitarian Aid**: Providing assistance during crises
@@ -238,5 +246,3 @@ Special thanks to:
 [⭐ Star this repo](https://github.com/yosephdev/tigray.ternafit.org) • [🍴 Fork it](https://github.com/yosephdev/tigray.ternafit.org/fork) • [📢 Share](https://twitter.com/intent/tweet?text=Check%20out%20the%20Tigray%20Knowledge%20Base&url=https://tigray.ternafit.org)
 
 </div>
-
-

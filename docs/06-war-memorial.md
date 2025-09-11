@@ -19,35 +19,119 @@ tags:
   - accountability
 ---
 
-# Tigray War (2020–2022) & Never Again Memorial
+# The Tigray War (2020-2022): Complete Documentation
+
+!!! abstract "Strategic Documentation"
+    **Comprehensive Archive**: This section provides the most complete documentation of the Tigray War (2020-2022), one of the deadliest conflicts of the 21st century. Based on international investigations, verified sources, and expert analysis.
 
 !!! danger "Content Warning"
+    This section contains detailed documentation of war crimes, human rights violations, and humanitarian crises. Content includes discussion of sexual violence, mass killings, and other serious violations. Reader discretion is advised.
 
-    This section contains detailed documentation of war crimes, mass atrocities, and human suffering. The content includes verified accounts of violence, including sexual violence, mass killings, and other traumatic events. Reader discretion is advised.
+The Tigray War represents one of the most devastating conflicts of the modern era, characterized by widespread atrocities, systematic human rights violations, and a complete humanitarian collapse. This comprehensive documentation serves as both historical record and call for accountability.
+
+## Complete War Documentation
+
+### Phase 1: Understanding the Conflict
+
+[**The Path to War: Political Tensions (2018-2020)**](war/path-to-war.md)
+
+Examine the political tensions, ideological divisions, and strategic miscalculations that led to the outbreak of war in November 2020.
+
+**Key Topics**: TPLF-Federal tensions, ethnic federalism debates, Eritrea factor, electoral crisis
 
 ---
 
-## Never Again: Our Commitment
+[**Conflict Overview & Key Actors**](war/conflict-overview.md)
 
-<div class="memorial-section" markdown>
+Comprehensive analysis of the war's phases, key belligerents, international involvement, and the path to the Pretoria Agreement.
 
-**"Never Again"** is not just a phrase—it is our solemn promise to ensure the world remembers the Tigray War's devastating impact on humanity. This memorial serves as both a historical record and an educational tool to prevent future atrocities.
-
-*"Those who cannot remember the past are condemned to repeat it."* - George Santayana
-
-</div>
+**Key Topics**: Military phases, coalition forces, international responses, peace negotiations
 
 ---
 
-## 1. War Overview & Timeline
+### Phase 2: Human Cost Documentation
 
-### 1.1 Conflict Summary
+[**Human Rights Atrocities**](war/human-rights-atrocities.md)
 
-!!! info "Basic Facts"
+Detailed documentation of war crimes, mass killings, sexual violence, and systematic targeting of civilians by all parties to the conflict.
 
-    **Duration**: November 4, 2020 - November 2, 2022 (730 days)  
-    **Parties**: Ethiopian Government & Eritrean forces vs. Tigray Defense Forces (TDF)  
-    **Geographic Scope**: Entire Tigray region + parts of Amhara & Afar regions  
+**Key Topics**: Mass killings, sexual violence as weapon of war, ethnic cleansing, cultural destruction
+
+---
+
+[**Humanitarian Crisis**](war/humanitarian-crisis.md)
+
+Complete analysis of the humanitarian catastrophe including famine, healthcare collapse, mass displacement, and education system destruction.
+
+**Key Topics**: Man-made famine, health system collapse, displacement crisis, aid blockade
+
+---
+
+### Phase 3: Impact and Recovery
+
+[**Economic Devastation**](war/economic-devastation.md)
+
+Assessment of the war's economic impact, including the transformation from a productive region to mass poverty and the challenges of reconstruction.
+
+**Key Topics**: Economic collapse, infrastructure destruction, reconstruction costs, recovery planning
+
+---
+
+[**The Fragile Peace & Aftermath**](war/fragile-peace.md)
+
+Analysis of post-conflict politics, implementation challenges of the Pretoria Agreement, and prospects for sustainable peace.
+
+**Key Topics**: Pretoria Agreement, territorial disputes, transitional justice, political divisions
+
+---
+
+## Memorial and Remembrance
+
+[**War Memorial**](war/memorial.md)
+
+Memorial section honoring victims and preserving memory of those lost during the conflict.
+
+---
+
+[**War Timeline**](war/timeline.md)
+
+Comprehensive chronological timeline of major events throughout the conflict period.
+
+---
+
+## Key Statistics and Impact
+
+### Human Cost
+- **Estimated Deaths**: 162,000 - 600,000+ (including violence, famine, lack of healthcare)
+- **Displaced Population**: 2.5+ million internally displaced, 60,000+ refugees
+- **Sexual Violence**: Approximately 1 in 10 women subjected to sexual violence
+- **Children Affected**: 2.4 million children denied education for up to 3 years
+
+### Infrastructure Destruction
+- **Health Facilities**: 88% of health centers damaged or non-functional
+- **Schools**: 88% of educational infrastructure damaged
+- **Economic Impact**: Poverty rate increased from 27% to 92%
+- **Reconstruction Cost**: Estimated $20+ billion for Tigray alone
+
+### International Legal Response
+- **War Crimes Documentation**: Multiple international investigations
+- **Sanctions**: Individual and entity-level sanctions imposed
+- **Accountability Efforts**: Ongoing international justice mechanisms
+- **Evidence Preservation**: Comprehensive evidence collection efforts
+
+## Critical Reports and Sources
+
+### International Investigations
+- **UN Commission of Human Rights Experts**: Comprehensive investigation findings
+- **Physicians for Human Rights**: Medical-legal documentation of sexual violence
+- **Amnesty International**: Mass killing investigations and documentation
+- **Human Rights Watch**: Comprehensive human rights violations documentation
+
+### Policy Analysis
+- **International Crisis Group**: Political analysis and conflict dynamics
+- **Council on Foreign Relations**: Strategic assessment and policy recommendations
+- **European Parliament**: Legislative body analysis and recommendations
+- **African Union**: Mediation efforts and peace implementation monitoring  
     **International Response**: Limited humanitarian access, diplomatic efforts  
     **Outcome**: Cessation of Hostilities Agreement (November 2, 2022)
 

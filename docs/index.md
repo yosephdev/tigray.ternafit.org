@@ -1,7 +1,7 @@
 # Welcome to the Tigray Knowledge Base
 
-!!! abstract "Site Tags"
-    **Main Topics**: geography, demographics, economy, education, health, history, culture, war-memorial, current-affairs, historical-figures, resources
+!!! abstract "Strategic Vision"
+    **The Definitive Resource**: This platform represents the transformation of tigray.ternafit.org into the world's most comprehensive, authoritative, and meticulously structured knowledge base on the Tigray region. Built for scholars, journalists, policymakers, and the global Tigrayan diaspora.
 
 <div class="hero-section" markdown>
 
@@ -10,45 +10,176 @@
   <img alt="Tigray Banner" class="hero-image" src="assets/images/hero.svg">
 </a>
 
-## The World's Most Comprehensive Resource on Tigray, Ethiopia
+## A Living Archive of Memory, Heritage, and Resilience
 
-**Ternafit** presents the definitive, multimedia-rich knowledge base covering every aspect of Tigray—from ancient civilizations to modern challenges. Built for students, journalists, researchers, policymakers, and anyone seeking authoritative information about this historic region.
+**Ternafit** presents a deeply layered, encyclopedic information architecture organized around the core pillars of Tigrayan identity: its ancient land, its profound history, the recent crucible of conflict, its rich cultural fabric, and its path toward the future.
 
-[Explore Geography :material-map:](01-geography.md){ .md-button .md-button--primary }
-[Historical Figures :material-account-group:](figures/yohannes-iv.md){ .md-button }
-[Help Contribute :material-pencil:](contribute.md){ .md-button }
+[Explore The Land :material-earth:](land/geography-topography.md){ .md-button .md-button--primary }
+[Ancient History :material-castle:](history/ancient-tigray.md){ .md-button }
+[War Documentation :material-shield-alert:](war/path-to-war.md){ .md-button }
 
 </div>
 
 ---
 
-!!! info "Help Us Grow This Knowledge Base"
+!!! danger "Urgent Documentation"
+    **The 2020-2022 Tigray War** was one of the deadliest conflicts of the 21st century. This knowledge base provides comprehensive documentation of the war's origins, conduct, and aftermath, based on international investigations and verified sources.
 
-    **This knowledge base is actively expanding!** We have a solid foundation with comprehensive historical figures like [Emperor Yohannes IV](figures/yohannes-iv.md) and [Ras Alula Aba Nega](figures/alula-aba-nega.md), but we need your help to build the world's most complete resource on Tigray.
-
-    **Ready to contribute?** Check our [Stub Articles](stubs.md) for high-priority content needs, or read our [Contribution Guidelines](contribute.md) to get started.
+    [Begin with: The Path to War →](war/path-to-war.md)
 
 ---
 
-## :material-lightning-bolt: Quick Access
+## :material-book-open-variant: Core Knowledge Pillars
 
 <div class="grid cards" markdown>
 
-- :material-account-group: **Historical Figures**
+- :material-earth: **THE LAND**
 
     ---
 
-    Comprehensive biographies of Tigray's most influential leaders, from ancient rulers to modern statesmen.
+    Geography, geology, and environment of Tigray—from the rugged highlands to ancient geological formations and conservation efforts.
 
-    [:octicons-arrow-right-24: Browse Figures](figures/yohannes-iv.md)
+    [Explore Geography →](land/geography-topography.md)
 
-- :material-map-outline: **Interactive Maps**
+- :material-timeline-clock: **HISTORY**
 
     ---
 
-    Explore detailed administrative boundaries, population density, and geographic features with our GIS-powered maps.
+    From the ancient kingdoms of D'mt and Aksum through medieval transformations to the modern era—3,000 years of documented history.
 
-    [:octicons-arrow-right-24: View Maps](geography/maps.md)
+    [Ancient Civilizations →](history/ancient-tigray.md)
+
+- :material-shield-alert: **THE TIGRAY WAR (2020-2022)**
+
+    ---
+
+    Comprehensive documentation of the war's causes, conduct, human rights atrocities, humanitarian crisis, and fragile peace.
+
+    [War Overview →](war/path-to-war.md)
+
+- :material-account-group: **CULTURE & PEOPLE**
+
+    ---
+
+    The rich tapestry of Tigrayan culture: language, faith, architecture, music, and the global diaspora preserving heritage.
+
+    [Cultural Heritage →](culture/tigrayan-people.md)
+
+</div>
+
+---
+
+## :material-database: Featured Resources
+
+<div class="grid cards" markdown>
+
+- :material-library: **Curated Digital Library**
+
+    ---
+
+    Essential books, reports, and academic sources forming the scholarly foundation for understanding Tigray.
+
+    [Browse Library →](resources/digital-library.md)
+
+- :material-chart-line: **Maps & Data**
+
+    ---
+
+    Interactive maps, demographic data, and GIS-powered visualizations of Tigray's geography and development.
+
+    [Explore Data →](resources/maps-data.md)
+
+- :material-newspaper: **News Archive**
+
+    ---
+
+    Comprehensive collection of news reports, analysis, and documentation from international sources.
+
+    [News Archive →](resources/news-archive.md)
+
+- :material-school: **Academic Research**
+
+    ---
+
+    Peer-reviewed articles, scholarly analyses, and research papers from leading institutions worldwide.
+
+    [Academic Sources →](resources/academic-articles.md)
+
+</div>
+
+---
+
+## :material-lightning-bolt: Quick Access to Critical Information
+
+### War Documentation Priority Areas
+
+The recent conflict necessitates urgent documentation and preservation of evidence:
+
+| **Topic** | **Status** | **Access** |
+|-----------|------------|------------|
+| **Human Rights Atrocities** | Comprehensive | [View Documentation](war/human-rights-atrocities.md) |
+| **Humanitarian Crisis** | Detailed Analysis | [Crisis Overview](war/humanitarian-crisis.md) |
+| **Economic Devastation** | Complete Assessment | [Economic Impact](war/economic-devastation.md) |
+| **Post-Conflict Politics** | Ongoing Analysis | [Fragile Peace](war/fragile-peace.md) |
+
+### Historical Foundations
+
+Understanding contemporary Tigray requires deep historical context:
+
+| **Period** | **Significance** | **Explore** |
+|------------|------------------|-------------|
+| **Ancient Aksum (100-940 CE)** | Cradle of Ethiopian civilization | [Ancient History](history/ancient-tigray.md) |
+| **Medieval Era (940-1800)** | Shifting power dynamics | [Medieval Period](history/medieval-era.md) |
+| **Modern Era (1800-1991)** | Colonial resistance, revolutions | [Modern History](history/modern-era.md) |
+
+---
+
+!!! info "About This Knowledge Base"
+
+    **Mission**: To create the definitive online resource for Tigray, serving students, academic researchers, policymakers, journalists, and the global Tigrayan diaspora.
+
+    **Methodology**: Evidence-based content using verified international sources, academic research, and documented testimonies.
+
+    **Vision**: A living archive for memory, education, historical preservation, and intellectual reconstruction.
+
+## :material-hand-heart: How to Contribute
+
+This knowledge base grows through community collaboration:
+
+- **Research Contribution**: Help expand content with verified sources
+- **Translation**: Assist with Tigrinya language content
+- **Documentation**: Preserve testimonies and historical records  
+- **Technical Support**: Improve website functionality and accessibility
+
+[Contribute to the Project →](contribute.md){ .md-button }
+
+---
+
+## :material-clock-outline: Latest Updates
+
+### Recent Additions
+
+- **War Documentation**: Complete analysis of 2020-2022 conflict phases
+- **Digital Library**: Curated collection of essential academic sources
+- **Cultural Heritage**: Documentation of destruction and preservation efforts
+- **Post-Conflict Analysis**: Ongoing monitoring of peace implementation
+
+### Upcoming Content
+
+- **Environmental Conservation**: Pre-war and post-war landscape changes
+- **Diaspora Networks**: Global Tigrayan communities and advocacy
+- **Economic Recovery**: Reconstruction efforts and development challenges
+- **Educational Impact**: War's effect on education and youth
+
+---
+
+!!! warning "Content Advisory"
+
+    This knowledge base contains documentation of war crimes, human rights violations, and humanitarian crises. Content is based on verified international sources but may be disturbing. Reader discretion is advised for sensitive topics.
+
+**Content Tags**: geography, demographics, economy, education, health, history, culture, war-memorial, current-affairs, historical-figures, resources, conflict-documentation, human-rights, cultural-preservation
+
+<div class="grid cards" markdown>
 
 - :material-chart-line: **Live Statistics**
 
@@ -56,7 +187,7 @@
 
     Access real-time demographic data, economic indicators, and social metrics with downloadable datasets.
 
-    [:octicons-arrow-right-24: View Data](demographics/population.md)
+    [View Data →](demographics/population.md)
 
 - :material-clock-time-four: **War Timeline**
 
@@ -64,7 +195,7 @@
 
     Comprehensive documentation of the 2020-2022 Tigray War with verified sources and multimedia evidence.
 
-    [:octicons-arrow-right-24: Timeline](war/timeline.md)
+    [Timeline →](war/timeline.md)
 
 - :material-download: **Data Downloads**
 
@@ -72,7 +203,7 @@
 
     Download CSV files, GIS shapefiles, research papers, and high-resolution charts for academic use.
 
-    [:octicons-arrow-right-24: Downloads](08-downloads.md)
+    [Downloads →](08-downloads.md)
 
 </div>
 
@@ -175,39 +306,8 @@ All statistics are cross-referenced and uncertainties clearly indicated.
 
 ---
 
-## :material-hand-heart: Contribute to This Knowledge Base
-
-<div class="grid cards" markdown>
-
-- :material-github: **Report Issues**
-
-    ---
-
-    Found something inaccurate or outdated? Help us improve by reporting issues or suggesting enhancements.
-
-    [:octicons-arrow-right-24: Submit Issue](https://github.com/yosephdev/tigray.ternafit.org/issues){ .md-button .md-button--primary }
-
-- :material-email: **Research Collaboration**
-
-    ---
-
-    Connect with our research team to share data, insights, or academic partnerships.
-
-    [:octicons-arrow-right-24: Contact Team](mailto:research@ternafit.org){ .md-button .md-button--primary }
-
-- :material-translate: **Help with Translations**
-
-    ---
-
-    Support multilingual access by helping translate content into Tigrigna and other languages.
-
-    [:octicons-arrow-right-24: Join Translation](https://github.com/yosephdev/tigray.ternafit.org/discussions){ .md-button .md-button--primary }
-
-</div>
-
 !!! info "Project Status"
 
-    **Last updated:** August 13, 2025  
+    **Last updated:** September 11, 2025  
     **Next update:** Real-time data feeds updated daily  
-    **Version:** 2025.08 (Current)
-
+    **Version:** 2025.09 (Current)

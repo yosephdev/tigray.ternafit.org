@@ -3,9 +3,9 @@ site_url: https://tigray.ternafit.org
 site_description: "The most comprehensive, authoritative, and multimedia-rich knowledge base on Tigray, Ethiopia"
 site_author: "Ternafit NGO"
 docs_dir: docs
-repo_url: https://github.com/yosephdev/tigray.ternafit.org
-repo_name: yosephdev/tigray.ternafit.org
-edit_uri: edit/main/docs/
+# repo_url: https://github.com/yosephdev/tigray.ternafit.org
+# repo_name: yosephdev/tigray.ternafit.org
+# edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -53,23 +53,27 @@ nav:
     - index.md
     - About Ternafit: about.md
     - Contribute: contribute.md
-    - Stub Articles: stubs.md
+  
+  # MAIN SECTIONS (Original + Gemini Strategic Framework)
   - Geography: 
-    - 01-geography.md
+    - Overview: 01-geography.md
     - Interactive Maps: geography/maps.md
+    - Geography & Topography: land/geography-topography.md
   - Demographics: 
-    - 02-demographics.md
-    - Population Statistics: demographics/population.md
+    - Overview: 02-demographics.md
+    - Population Data: demographics/population.md
   - Economy: 03-economy.md
   - Education & Health: 04-edu-health.md
   - History & Culture: 
-    - 05-history-culture.md
+    - Overview: 05-history-culture.md
+    - Ancient Tigray: history/ancient-tigray.md
     - Historical Figures:
       - King Ezana of Axum: figures/king-ezana.md
       - Emperor Yohannes IV: figures/yohannes-iv.md
       - Ras Alula Aba Nega: figures/alula-aba-nega.md
       - Abreha and Atsbeha: figures/abreha-atsbeha.md
       - Queen of Sheba (Makeda): figures/queen-of-sheba.md
+      - Queen Gudit: figures/queen-gudit.md
       - Dr. Tedros Adhanom Ghebreyesus: figures/tedros-adhanom.md
       - Meles Zenawi: figures/meles-zenawi.md
       - Seyum Mesfin: figures/seyum-mesfin.md
@@ -77,25 +81,44 @@ nav:
       - Dejazmach Sabagadis: figures/dejazmach-sabagadis.md
       - Ras Seyum Mengesha: figures/ras-seyum-mengesha.md
       - Ras Woldemichael Gugsa: figures/ras-woldemichael-gugsa.md
-  - War & Memorial: 
-    - 06-war-memorial.md
-    - War Timeline: war/timeline.md
-    - Memorial: war/memorial.md
+    - Culture & People: culture/tigrayan-people.md
+  - War Memorial: 
+    - Overview: 06-war-memorial.md
+    - The Tigray War (2020-2022):
+      - The Path to War: war/path-to-war.md
+      - Conflict Overview: war/conflict-overview.md
+      - Human Rights Atrocities: war/human-rights-atrocities.md
+      - Humanitarian Crisis: war/humanitarian-crisis.md
+      - Economic Devastation: war/economic-devastation.md
+      - The Fragile Peace: war/fragile-peace.md
+      - War Timeline: war/timeline.md
+      - Memorial: war/memorial.md
   - Current Affairs: 
-    - 07-current-affairs.md
-    - News Updates: current/news.md
-  - Resources: 
-    - 08-downloads.md
+    - Overview: 07-current-affairs.md
+    - Latest News: current/news.md
+  - Downloads: 
+    - Standard: 08-downloads.md
+    - Enhanced: 08-downloads-enhanced.md
+  
+  # RESOURCES (Gemini Digital Library Recommendation)
+  - Resources:
+    - Digital Library: resources/digital-library.md
     - Bibliography: resources/bibliography.md
-    - Content Tags: tags.md
+    - Tags: tags.md
+  
+  # DEVELOPMENT
+  - Development:
+    - Stub Articles: stubs.md
 
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/yosephdev/tigray.ternafit.org
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/ternafit
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/ternafit
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/ternafit
+      link: https://x.com/infoternafit
     - icon: fontawesome/solid/globe
       link: https://ternafit.org
   analytics:
