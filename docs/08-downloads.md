@@ -476,7 +476,7 @@ Welcome to the **Tigray Knowledge Base Data Center** - your comprehensive source
 | Resource | Description | Access |
 |----------|-------------|--------|
 | **User Manual** | Comprehensive guide to all datasets | [:material-download: PDF](docs/user_manual.pdf) |
-| **Video Tutorials** | Step-by-step usage instructions | [:material-youtube: YouTube](https://youtube.com/@TigrayKB) |
+| **Video Tutorials** | Step-by-step usage instructions | [:material-youtube: YouTube](https://youtube.com/@ternfit) |
 | **Community Forum** | User discussions and support | [:material-forum: Forum](https://forum.tigray.ternafit.org) |
 | **Developer Documentation** | API docs and code examples | [:material-code-tags: Docs](https://developer.tigray.ternafit.org) |
 

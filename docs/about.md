@@ -170,7 +170,7 @@ Sweden
 
 ### Social Media Presence
 - **Facebook**: [facebook.com/ternafit](https://www.facebook.com/ternafit)
-- **Twitter**: [@InfoTernafit](https://twitter.com/InfoTernafit)  
+- **Twitter**: [@infoternafit](https://x.com/infoternafit)  
 - **Instagram**: [@ternafit](http://instagram.com/ternafit)
 
 ---
@@ -246,7 +246,7 @@ For more information about our work, partnership opportunities, or to get involv
 
 📧 **General Inquiries**: [info@ternafit.org](mailto:info@ternafit.org)  
 🌐 **Website**: [ternafit.org](https://ternafit.org)  
-📱 **Follow Us**: [@InfoTernafit](https://twitter.com/InfoTernafit)  
+📱 **Follow Us**: [@ternfit](https://x.com/ternfit)  
 
 ---
 

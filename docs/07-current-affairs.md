@@ -806,7 +806,7 @@ Despite improvements since the war's end, humanitarian needs remain substantial.
 
 ---
 
-*Information updated daily. For breaking news and urgent updates, follow [@TigrayKnowledgeBase](https://twitter.com/TigrayKB) on Twitter.*
+*Information updated daily. For breaking news and urgent updates, follow [@infoternafit](https://x.com/infoternafit) on Twitter.*
 
 **Emergency Contacts**:
 - OCHA Ethiopia: +251-11-544-3169
