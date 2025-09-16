@@ -386,9 +386,11 @@ Welcome to the **Tigray Knowledge Base Data Center** - your comprehensive source
 | Feed | Protocol | Update Frequency | Content | Access |
 |------|----------|------------------|---------|--------|
 | **Weather Data** | WebSocket | Every 15 minutes | Temperature, rainfall, wind | `wss://api.tigray.ternafit.org/weather` |
-| **Economic Indicators** | RSS | Daily | Exchange rates, prices | `https://api.tigray.ternafit.org/feeds/economy.xml` |
-| **News Updates** | RSS | Hourly | Regional news and alerts | `https://api.tigray.ternafit.org/feeds/news.xml` |
 | **Humanitarian Alerts** | WebSocket | Real-time | Emergency updates | `wss://api.tigray.ternafit.org/alerts` |
+
+!!! info "Additional Data Feeds"
+
+    RSS feeds for economic indicators and news updates are temporarily unavailable while we upgrade our data delivery systems. Please check back for updates.
 
 ---
 
