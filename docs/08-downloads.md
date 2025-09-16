@@ -527,24 +527,22 @@ Welcome to the **Tigray Knowledge Base Data Center** - your comprehensive source
 
 For custom datasets or special requests:
 
-- **Email**: [data@tigray.ternafit.org](mailto:data@tigray.ternafit.org)
-- **Phone**: +251-914-123-456
-- **Office Hours**: Monday-Friday, 8:00-17:00 EAT
+- **Contact**: Yoseph Berhane from Ternafit
+- **Email**: [info@ternafit.org](mailto:info@ternafit.org) or [knowledge@ternafit.org](mailto:knowledge@ternafit.org)
 
 ### Partnership Opportunities
 
 Interested in data collaboration or contributing datasets:
 
-- **Partnership Coordinator**: Dr. Hailay Gebretensay
-- **Email**: [partnerships@tigray.ternafit.org](mailto:partnerships@tigray.ternafit.org)
+- **Partnership Coordinator**: Kbrom Woldegebreal from ADS
+- **Email**: [kbrom@anenitigray.org](mailto:kbrom@anenitigray.org)
 
 ### Technical Issues
 
 For download problems or technical support:
 
-- **Support Portal**: [support.tigray.ternafit.org](https://support.tigray.ternafit.org)
-- **Live Chat**: Available during business hours
-- **Emergency Contact**: +251-914-789-012
+- **General Support**: [info@ternafit.org](mailto:info@ternafit.org)
+- **Knowledge Base**: [knowledge@ternafit.org](mailto:knowledge@ternafit.org)
 
 ---
 
