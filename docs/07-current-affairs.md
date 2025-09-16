@@ -21,7 +21,7 @@ tags:
 # Current Affairs & Situation Report
 
 !!! info "Last Updated: August 19, 2025"
-    
+
     **Situation Status**: Post-conflict transition with significant political upheaval  
     **Security Level**: Stable but fragile, with territorial control limitations  
     **Humanitarian Needs**: 2.1 million people requiring assistance  
@@ -146,12 +146,14 @@ In February 2025, the **Tigray Interim Council** was established to provide guid
 The **November 2022 Pretoria Peace Agreement** created a fundamental schism within the TPLF leadership:
 
 **The Pragmatist Faction** (Led by Getachew Reda):
+
 - Prioritized constructive engagement with federal government
 - Focused on humanitarian aid, reconstruction, and stability
 - Viewed the peace agreement as necessary foundation for recovery
 - Supported cooperative implementation of peace provisions
 
 **The Hardliner/Old Guard Faction** (Led by Debretsion Gebremichael):
+
 - Viewed the peace agreement as "capitulation" to Addis Ababa
 - Maintained deep mistrust of federal government intentions
 - Opposed implementation of controversial provisions (DDR, territorial disputes)
@@ -160,23 +162,27 @@ The **November 2022 Pretoria Peace Agreement** created a fundamental schism with
 #### Timeline of Political Rupture (August 2024 - April 2025)
 
 **August-September 2024: The Formal Split**
+
 - TPLF's 14th Congress re-elected Debretsion as chairman
 - Getachew Reda and allies boycotted, disputing legitimacy
 - Congress replaced Getachew with Amanuel Assefa as deputy chairman
 - Formal expulsion of Getachew and 15 allies from TPLF
 
 **October 2024: Declaration of "Public Coup"**
+
 - Debretsion-led TPLF announced "removal" of Getachew from presidency
 - Accused his administration of exceeding transitional mandate
 - Created political pressure despite lack of legal authority
 
 **March 2025: Forceful Seizure of Power**
+
 - Armed forces loyal to Debretsion faction seized government infrastructure
 - Took control of administrative offices, radio stations, municipal buildings
 - Getachew Reda fled Mekelle for Addis Ababa
 - Created fait accompli forcing federal government decision
 
 **April 8, 2025: Federal Ratification**
+
 - PM Abiy Ahmed appointed Lt. General Tadesse Worede as new president
 - Decision prioritized de-escalation over principle
 - Getachew Reda appointed as federal "Advisor for East African Affairs"
@@ -184,18 +190,21 @@ The **November 2022 Pretoria Peace Agreement** created a fundamental schism with
 #### Current Administration Challenges
 
 **Crisis of Legitimacy**:
+
 - Three major opposition parties rejected new cabinet as unrepresentative
 - Administration accused of "coming to power by force"
 - Violates Pretoria Agreement's requirement for inclusive governance
 - Lacks popular mandate from Tigrayan electorate
 
 **Mandate Contradictions**:
+
 - Formally obligated to implement Pretoria Agreement provisions
 - Political base opposes key aspects of the same agreement
 - Creates structural paralysis on controversial issues
 - Particularly affects DDR process and territorial dispute resolution
 
 **Territorial Control Limitations**:
+
 - Approximately 40% of pre-war Tigray remains under Amhara/Eritrean control
 - Includes Western Tigray (Welkait), Southern zones, parts of North-Eastern zones
 - Prevents IDP returns and service restoration
@@ -204,18 +213,21 @@ The **November 2022 Pretoria Peace Agreement** created a fundamental schism with
 #### Strategic Implications
 
 **Federal Government Calculations**:
+
 - Chose short-term stability over long-term principle
 - Avoided immediate military confrontation
 - Risk of legitimizing hardline faction less committed to peace
 - Co-opted former president to prevent spoiler activities
 
 **Regional Security Risks**:
+
 - Potential TPLF-Eritrea rapprochement threatens regional stability
 - Western Tigray remains primary flashpoint for renewed conflict
 - DDR process stalled due to security concerns
 - Risk of proxy conflicts involving external actors
 
 **Peace Process Durability**:
+
 - Core Pretoria Agreement provisions remain unimplemented
 - Hardline leadership less predictable and cooperative
 - Increased likelihood of "frozen conflict" scenario
@@ -224,18 +236,21 @@ The **November 2022 Pretoria Peace Agreement** created a fundamental schism with
 #### Key Monitoring Indicators (2025-2026)
 
 **Political Stability Measures**:
+
 - Opposition party freedom of operation
 - Progress toward regional elections
 - National dialogue participation levels
 - TPLF-federal government rhetoric and engagement
 
 **Security Situation Tracking**:
+
 - DDR implementation pace and transparency
 - Military posture changes along territorial boundaries
 - Internal security incidents and political violence
 - Intelligence on TPLF-Eritrea coordination
 
 **Humanitarian and Economic Recovery**:
+
 - IDP return rates, especially to contested territories
 - Humanitarian access restrictions
 - Civil servant salary payment resolution
@@ -710,11 +725,6 @@ Despite improvements since the war's end, humanitarian needs remain substantial.
 
 ## 13. Recent News & Updates
 
-!!! note "Latest Updates - RSS Integration Available"
-    
-    This section can be updated via RSS feeds or manually curated content.  
-    RSS feeds: [`economy.xml`](https://api.tigray.ternafit.org/feeds/economy.xml) | [`news.xml`](https://api.tigray.ternafit.org/feeds/news.xml)
-
     === "Today (Aug 19)"
         - **9:15 AM**: Regional health bureau reports completion of maternal care facility upgrades
         - **1:30 PM**: Agricultural development office announces improved grain distribution system
@@ -765,18 +775,21 @@ Despite improvements since the war's end, humanitarian needs remain substantial.
 ### 14.2 Medium-term Outlook (2026-2027)
 
 **Optimistic Scenario**:
+
 - Successful regional elections by mid-2026
 - Resolution of territorial disputes through dialogue
 - GDP recovery to 85% of pre-war levels
 - Substantial reduction in humanitarian needs
 
 **Realistic Scenario**:
+
 - Continued interim administration through 2026
 - Partial resolution of some political issues
 - Gradual economic recovery with ongoing challenges
 - Persistent humanitarian needs in some areas
 
 **Pessimistic Scenario**:
+
 - Political deadlock and increased tensions
 - Renewed localized conflicts
 - Slow economic recovery and continued dependency
@@ -809,6 +822,7 @@ Despite improvements since the war's end, humanitarian needs remain substantial.
 *Information updated daily. For breaking news and urgent updates, follow [@infoternafit](https://x.com/infoternafit) on Twitter.*
 
 **Emergency Contacts**:
+
 - OCHA Ethiopia: +251-11-544-3169
 - WHO Health Cluster: +251-11-551-7011
 - UNICEF Ethiopia: +251-11-518-4037
