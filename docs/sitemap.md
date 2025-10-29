@@ -250,7 +250,7 @@ Complete navigation guide to all sections of the Tigray Knowledge Base.
     - **Downloadable Datasets**: 15+ CSV files
     - **Geographic Maps**: 10+ interactive maps
     - **Languages**: English, Tigrinya (partial)
-    - **Last Updated**: September 11, 2025
+    - **Last Updated**: October 29, 2025
 
 ---
 
@@ -330,7 +330,7 @@ Help us improve the site:
 
 ---
 
-**Last Updated**: September 11, 2025  
+**Last Updated**: October 29, 2025  
 **Total Links**: 80+  
 **Navigation Depth**: 3 levels
 

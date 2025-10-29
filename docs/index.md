@@ -433,6 +433,6 @@ All statistics are cross-referenced and uncertainties clearly indicated.
 
 !!! info "Project Status"
 
-    **Last updated:** September 11, 2025  
+    **Last updated:** October 29, 2025  
     **Next update:** Real-time data feeds updated daily  
-    **Version:** 2025.09 (Current)
+    **Version:** 2025.10 (Current)
