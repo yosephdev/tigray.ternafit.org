@@ -23,7 +23,7 @@ tags:
 Welcome to the **Tigray Knowledge Base Data Center** - your comprehensive source for datasets, reports, maps, and multimedia resources about Tigray, Ethiopia.
 
 !!! info "Data Policy"
-    
+
     All datasets are provided for **research, education, and humanitarian purposes**. Commercial use requires explicit permission. Please cite the Tigray Knowledge Base when using our data.
 
 ---
@@ -194,7 +194,7 @@ Welcome to the **Tigray Knowledge Base Data Center** - your comprehensive source
 ### 6.1 Conflict Analysis Data
 
 !!! warning "Sensitive Data"
-    
+
     This section contains data related to the 2020-2022 conflict. Content may be disturbing and is provided for research and documentation purposes only.
 
 === "Casualty Documentation"
@@ -361,7 +361,7 @@ Welcome to the **Tigray Knowledge Base Data Center** - your comprehensive source
 ### 11.1 RESTful APIs
 
 !!! note "Developer Access"
-    
+
     Free API access for non-commercial use. Rate limits apply. Register for API key at [developer.tigray.ternafit.org](https://developer.tigray.ternafit.org).
 
 === "Available Endpoints"
@@ -434,7 +434,7 @@ Welcome to the **Tigray Knowledge Base Data Center** - your comprehensive source
     **Example**:
     ```
     Ternafit NGO. (2025). Tigray Population by Woreda 2024. 
-    Tigray Knowledge Base. Retrieved August 13, 2025, 
+    Tigray Knowledge Base. Retrieved October 29, 2025, 
     from https://tigray.ternafit.org/downloads/
     ```
 
@@ -548,6 +548,6 @@ For download problems or technical support:
 
 *Data downloads are provided free of charge for non-commercial use. Commercial licensing available upon request. Please ensure you have adequate storage space and bandwidth before initiating large downloads.*
 
-**Total Repository Size**: ~3.2 TB (as of August 2025)  
-**Last Updated**: August 13, 2025, 16:45 EAT  
-**Next Data Release**: September 1, 2025
+**Total Repository Size**: ~3.2 TB (as of October 2025)  
+**Last Updated**: October 29, 2025, 16:45 EAT  
+**Next Data Release**: November 15, 2025
