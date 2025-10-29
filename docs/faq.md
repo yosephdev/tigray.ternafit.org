@@ -354,7 +354,7 @@ Get answers to common questions about the Tigray Knowledge Base, its content, an
   
     ---
     
-    +46 (70 356 6108
+    +46 (7)0 356 6108
     
     Mon-Fri, 9:00-17:00 CET
 

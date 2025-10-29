@@ -218,8 +218,8 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 **Contact our Data Protection Officer**:
 
 **Email**: dpo@ternafit.org  
-**Address**: Ternafit NGO, Storgatan 123, 114 55 Stockholm, Sweden  
-**Phone**: +46 (70 356 6108
+**Address**: Ternafit NGO, Jungfrugatan 1F, 641 31 Katrineholm, Sweden  
+**Phone**: +46 (7)0 356 6108
 
 ---
 
@@ -251,7 +251,7 @@ For privacy-related questions or concerns:
   
     ---
     
-    +46 (70 356 6108
+    +46 (7)0 356 6108
     
     Mon-Fri, 9:00-17:00 CET
 
@@ -261,8 +261,8 @@ For privacy-related questions or concerns:
     
     Ternafit NGO  
     Attn: Privacy Officer  
-    Storgatan 123  
-    114 55 Stockholm, Sweden
+    Jungfrugatan 1F  
+    641 31 Katrineholm, Sweden
 
 - **💬 GitHub**
   

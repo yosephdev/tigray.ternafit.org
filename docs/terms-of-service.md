@@ -9,7 +9,7 @@
 
 By accessing or using the Tigray Knowledge Base website at https://tigray.ternafit.org (the "Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Service.
 
-**Legal Entity**: This Service is operated by Ternafit NGO, a registered non-governmental organization in Sweden (Organization Number: XXXXXXXX).
+**Legal Entity**: This Service is operated by Ternafit NGO, a registered non-governmental organization in Sweden (Organization Number: 802548-9231).
 
 ---
 
@@ -329,7 +329,7 @@ Contact us to resolve disputes informally: legal@ternafit.org
 If unresolved, parties agree to mediate in good faith
 
 #### Step 3: Arbitration/Court
-- **EU/Swedish Residents**: Stockholm District Court, Sweden
+- **EU/Swedish Residents**: Katrineholm District Court, Sweden
 - **Other Jurisdictions**: Subject to mandatory local laws
 
 ---
@@ -379,7 +379,7 @@ Questions about these Terms?
   
     ---
     
-    +46 (70 356 6108
+    +46 (7)0 356 6108
     
     Mon-Fri, 9:00-17:00 CET
 
@@ -389,8 +389,8 @@ Questions about these Terms?
     
     Ternafit NGO  
     Legal Department  
-    Storgatan 123  
-    114 55 Stockholm, Sweden
+    Jungfrugatan 1F  
+    641 31 Katrineholm, Sweden
 
 - **💬 GitHub**
   
