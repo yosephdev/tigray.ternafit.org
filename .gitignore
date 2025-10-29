@@ -60,6 +60,9 @@ temp/
 # Node modules (if using any JS tools)
 node_modules/
 
+# Reference folders
+webapp/
+
 # Coverage reports
 htmlcov/
 .coverage
