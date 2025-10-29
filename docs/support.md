@@ -8,31 +8,24 @@
 ## 🎯 How Your Donation Helps
 
 <div class="impact-stats" markdown>
-
 <div class="impact-stats-grid">
-
 <div class="impact-stat">
 <span class="impact-stat-number">$25</span>
 <span class="impact-stat-label">Funds documentation of 5 villages</span>
 </div>
-
 <div class="impact-stat">
 <span class="impact-stat-number">$50</span>
 <span class="impact-stat-label">Supports data verification for 1 month</span>
 </div>
-
 <div class="impact-stat">
 <span class="impact-stat-number">$100</span>
 <span class="impact-stat-label">Enables translation of key documents</span>
 </div>
-
 <div class="impact-stat">
 <span class="impact-stat-number">$500</span>
 <span class="impact-stat-label">Funds research collaboration project</span>
 </div>
-
 </div>
-
 </div>
 
 ---
@@ -139,9 +132,9 @@ Organizations can support our mission while gaining recognition for their commit
 
     **Current**: $2,400 (20% funded)
 
-    <div class="progress-bar" style="background: #e0e0e0; height: 30px; border-radius: 15px; overflow: hidden; margin-top: 1rem;">
-    <div class="progress-fill" data-width="20%" style="background: linear-gradient(90deg, #4caf50, #8bc34a); height: 100%; width: 20%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; transition: width 2s ease;">20%</div>
-    </div>
+<div class="progress-bar" style="background: #e0e0e0; height: 30px; border-radius: 15px; overflow: hidden; margin-top: 1rem;">
+<div class="progress-fill" data-width="20%" style="background: linear-gradient(90deg, #4caf50, #8bc34a); height: 100%; width: 20%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; transition: width 2s ease;">20%</div>
+</div>
 
 </div>
 
