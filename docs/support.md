@@ -54,7 +54,7 @@ Join our growing community of monthly supporters who sustain our mission year-ro
 <div class="grid cards" markdown>
 
 - **📊 $10/month - Bronze Supporter**
-  
+    
     ---
     
     - Recognition on supporter page
@@ -64,7 +64,7 @@ Join our growing community of monthly supporters who sustain our mission year-ro
     [Become Bronze Supporter →](https://ternafit.org/donate?monthly=10){ .md-button }
 
 - **🥈 $25/month - Silver Supporter**
-  
+    
     ---
     
     - All Bronze benefits
@@ -75,7 +75,7 @@ Join our growing community of monthly supporters who sustain our mission year-ro
     [Become Silver Supporter →](https://ternafit.org/donate?monthly=25){ .md-button }
 
 - **🥇 $50/month - Gold Supporter**
-  
+    
     ---
     
     - All Silver benefits
@@ -86,7 +86,7 @@ Join our growing community of monthly supporters who sustain our mission year-ro
     [Become Gold Supporter →](https://ternafit.org/donate?monthly=50){ .md-button }
 
 - **💎 $100+/month - Platinum Supporter**
-  
+    
     ---
     
     - All Gold benefits
@@ -122,7 +122,7 @@ Organizations can support our mission while gaining recognition for their commit
 <div class="grid cards" markdown>
 
 - **💰 2024 Budget Breakdown**
-  
+    
     ---
     
     - **Research & Documentation**: 45%
@@ -132,7 +132,7 @@ Organizations can support our mission while gaining recognition for their commit
     - **Administrative**: 5%
 
 - **📊 Funding Progress (2025)**
-  
+    
     ---
     
     **Annual Operating Goal**: $12,000
@@ -180,33 +180,33 @@ You can help without donating money:
 - **📝 Contribute Content**
   
     ---
-    
+
     Share research, verify data, or translate content into other languages.
-    
+
     [Learn How →](contribute.md)
 
 - **📢 Spread the Word**
   
     ---
-    
+
     Share our resources on social media and with your networks.
-    
+
     [Share Tools →](#social-share)
 
 - **⭐ Cite Our Work**
   
     ---
-    
+
     Reference the knowledge base in academic papers and journalism.
-    
+
     [Citation Guide →](resources/citations.md)
 
 - **🤝 Partner With Us**
   
     ---
-    
+
     Collaborate on research projects or educational initiatives.
-    
+
     [Partnership Opportunities →](partnerships.md)
 
 </div>
@@ -216,7 +216,7 @@ You can help without donating money:
 ## 🔒 Secure Donations
 
 !!! info "Your Security is Our Priority"
-    
+
     All donations are processed through secure, encrypted payment gateways. We accept:
     
     - 💳 Credit/Debit Cards (Visa, Mastercard, Amex)
@@ -230,7 +230,7 @@ You can help without donating money:
 
 ## 📞 Questions About Donating?
 
-**Email**: support@ternafit.org  
+**Email**: <support@ternafit.org>  
 **Phone**: +46 (0)8 123 4567 (Sweden office)  
 **Hours**: Monday-Friday, 9:00-17:00 CET
 
