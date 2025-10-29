@@ -7,7 +7,7 @@
 **The World's Most Comprehensive Resource on Tigray, Ethiopia**
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftigray.ternafit.org)](https://tigray.ternafit.org)
-[![Build Status](https://img.shields.io/netlify/deployments/tigray-ternafit?style=flat&logo=netlify)](https://app.netlify.com/sites/tigray-ternafit/deploys)
+[![Build Status](https://api.netlify.com/api/v1/badges/e31e97e2-5a6a-45f7-892a-ad59b8bd4f80/deploy-status)](https://app.netlify.com/projects/ternafit/deploys)
 [![License](https://img.shields.io/github/license/yosephdev/tigray.ternafit.org?style=flat&color=blue)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/yosephdev/tigray.ternafit.org?style=flat&color=green)](https://github.com/yosephdev/tigray.ternafit.org/commits/main)
 

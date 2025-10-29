@@ -54,46 +54,46 @@ Join our growing community of monthly supporters who sustain our mission year-ro
 <div class="grid cards" markdown>
 
 - **📊 $10/month - Bronze Supporter**
-    
+
     ---
-    
-    - Recognition on supporter page
-    - Monthly newsletter with exclusive updates
-    - Early access to new content
-    
+
+  - Recognition on supporter page
+  - Monthly newsletter with exclusive updates
+  - Early access to new content
+
     [Become Bronze Supporter →](https://ternafit.org/donate?monthly=10){ .md-button }
 
 - **🥈 $25/month - Silver Supporter**
-    
+
     ---
-    
-    - All Bronze benefits
-    - Quarterly detailed impact reports
-    - Your name in site credits
-    - Priority email support
-    
+
+  - All Bronze benefits
+  - Quarterly detailed impact reports
+  - Your name in site credits
+  - Priority email support
+
     [Become Silver Supporter →](https://ternafit.org/donate?monthly=25){ .md-button }
 
 - **🥇 $50/month - Gold Supporter**
-    
+
     ---
-    
-    - All Silver benefits
-    - Annual video call with team
-    - Exclusive research previews
-    - Logo on supporter page (organizations)
-    
+
+  - All Silver benefits
+  - Annual video call with team
+  - Exclusive research previews
+  - Logo on supporter page (organizations)
+
     [Become Gold Supporter →](https://ternafit.org/donate?monthly=50){ .md-button }
 
 - **💎 $100+/month - Platinum Supporter**
-    
+
     ---
-    
-    - All Gold benefits
-    - Advisory board consideration
-    - Custom research requests
-    - Speaking opportunities at events
-    
+
+  - All Gold benefits
+  - Advisory board consideration
+  - Custom research requests
+  - Speaking opportunities at events
+
     [Become Platinum Supporter →](https://ternafit.org/donate?monthly=100){ .md-button }
 
 </div>
@@ -104,7 +104,7 @@ Join our growing community of monthly supporters who sustain our mission year-ro
 
 Organizations can support our mission while gaining recognition for their commitment to education and human rights.
 
-### Benefits Include:
+### Benefits Include
 
 - **Prominent logo placement** on homepage and about page
 - **Press release** announcing partnership
@@ -122,23 +122,23 @@ Organizations can support our mission while gaining recognition for their commit
 <div class="grid cards" markdown>
 
 - **💰 2024 Budget Breakdown**
-    
+
     ---
-    
-    - **Research & Documentation**: 45%
-    - **Technology & Hosting**: 25%
-    - **Translation & Localization**: 15%
-    - **Community Outreach**: 10%
-    - **Administrative**: 5%
+
+  - **Research & Documentation**: 45%
+  - **Technology & Hosting**: 25%
+  - **Translation & Localization**: 15%
+  - **Community Outreach**: 10%
+  - **Administrative**: 5%
 
 - **📊 Funding Progress (2025)**
-    
+
     ---
-    
+
     **Annual Operating Goal**: $12,000
-    
+
     **Current**: $2,400 (20% funded)
-    
+
     <div class="progress-bar" style="background: #e0e0e0; height: 30px; border-radius: 15px; overflow: hidden; margin-top: 1rem;">
     <div class="progress-fill" data-width="20%" style="background: linear-gradient(90deg, #4caf50, #8bc34a); height: 100%; width: 20%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; transition: width 2s ease;">20%</div>
     </div>

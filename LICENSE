@@ -1,4 +1,4 @@
-MIT License
+# MIT License
 
 Copyright (c) 2025 Ternafit NGO
 
@@ -25,32 +25,39 @@ SOFTWARE.
 ## Content Licensing
 
 ### Text Content
-The textual content of the Tigray Knowledge Base is licensed under the 
+
+The textual content of the Tigray Knowledge Base is licensed under the
 **Creative Commons Attribution-ShareAlike 4.0 International License** (CC BY-SA 4.0).
 
 You are free to:
+
 - **Share** — copy and redistribute the material in any medium or format
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
 
 Under the following terms:
+
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
 
-Full license text: https://creativecommons.org/licenses/by-sa/4.0/
+Full license text: <https://creativecommons.org/licenses/by-sa/4.0/>
 
 ### Data and Datasets
-Data files (CSV, JSON, GeoJSON) in the `assets/data/` directory are dedicated to the 
+
+Data files (CSV, JSON, GeoJSON) in the `assets/data/` directory are dedicated to the
 **Public Domain** under **CC0 1.0 Universal** (CC0 1.0) where legally possible.
 
-No Copyright: https://creativecommons.org/publicdomain/zero/1.0/
+No Copyright: <https://creativecommons.org/publicdomain/zero/1.0/>
 
 ### Images and Media
+
 Images, graphics, and media files have various licenses:
+
 - Original Ternafit graphics and logos: Copyright © 2025 Ternafit NGO, All Rights Reserved
 - Third-party images: See individual image credits and source attributions
 - Historical photographs: Public domain or fair use (educational purposes)
 
 ### Source Code
+
 All source code (Python, JavaScript, CSS, HTML) is licensed under the MIT License as stated above.
 
 ---
@@ -60,17 +67,20 @@ All source code (Python, JavaScript, CSS, HTML) is licensed under the MIT Licens
 When using content from the Tigray Knowledge Base, please provide attribution as follows:
 
 **For Academic/Research Use:**
+
 ```
 Source: Tigray Knowledge Base, Ternafit NGO (2025). 
 Available at: https://tigray.ternafit.org
 ```
 
 **For Media/Journalism:**
+
 ```
 Information from the Tigray Knowledge Base by Ternafit NGO (https://tigray.ternafit.org)
 ```
 
 **For Data/Datasets:**
+
 ```
 Data source: Tigray Knowledge Base - [Dataset Name]
 URL: https://tigray.ternafit.org
@@ -81,9 +91,9 @@ License: CC0 1.0 (Public Domain)
 
 ## Disclaimer
 
-The information provided in the Tigray Knowledge Base is for educational and research purposes. 
-While we strive for accuracy and regularly update our content, we make no warranties about the 
-completeness, reliability, or accuracy of this information. Any action you take upon the 
+The information provided in the Tigray Knowledge Base is for educational and research purposes.
+While we strive for accuracy and regularly update our content, we make no warranties about the
+completeness, reliability, or accuracy of this information. Any action you take upon the
 information from this knowledge base is strictly at your own risk.
 
-For questions about licensing, please contact: info@ternafit.org
+For questions about licensing, please contact: <info@ternafit.org>
