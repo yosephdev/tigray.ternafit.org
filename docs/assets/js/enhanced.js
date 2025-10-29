@@ -7,6 +7,10 @@ document.addEventListener('DOMContentLoaded', function() {
     initializeTooltips();
     initializeProgressBars();
     initializeLiveUpdates();
+    initializeFAB();
+    initializeBreadcrumbs();
+    initializeSocialShare();
+    initializeNewsletter();
 });
 
 // Chart initialization and management
@@ -412,6 +416,325 @@ function initializeAccessibility() {
 
 // Initialize accessibility features
 document.addEventListener('DOMContentLoaded', initializeAccessibility);
+
+// ========================================
+// UI RECOMMENDATIONS IMPLEMENTATION
+// ========================================
+
+// Floating Action Button (FAB) functionality
+function initializeFAB() {
+    // Create FAB if it doesn't exist
+    if (!document.querySelector('.fab-container')) {
+        const fabHTML = `
+            <div class="fab-container">
+                <button class="fab-button" id="fab-button" aria-label="Quick Actions Menu">
+                    ✚
+                </button>
+                <div class="fab-menu" id="fab-menu">
+                    <a href="/support/" class="fab-menu-item">
+                        <span class="fab-menu-item-icon">💝</span>
+                        <span>Support Us</span>
+                    </a>
+                    <a href="/contribute/" class="fab-menu-item">
+                        <span class="fab-menu-item-icon">✍️</span>
+                        <span>Contribute</span>
+                    </a>
+                    <a href="/sitemap/" class="fab-menu-item">
+                        <span class="fab-menu-item-icon">🗺️</span>
+                        <span>Site Map</span>
+                    </a>
+                    <a href="#newsletter-signup" class="fab-menu-item">
+                        <span class="fab-menu-item-icon">📧</span>
+                        <span>Newsletter</span>
+                    </a>
+                    <a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="fab-menu-item">
+                        <span class="fab-menu-item-icon">⬆️</span>
+                        <span>Back to Top</span>
+                    </a>
+                </div>
+            </div>
+        `;
+        
+        document.body.insertAdjacentHTML('beforeend', fabHTML);
+    }
+    
+    // Toggle FAB menu
+    const fabButton = document.getElementById('fab-button');
+    const fabMenu = document.getElementById('fab-menu');
+    
+    if (fabButton && fabMenu) {
+        fabButton.addEventListener('click', () => {
+            fabMenu.classList.toggle('active');
+            fabButton.textContent = fabMenu.classList.contains('active') ? '✕' : '✚';
+        });
+        
+        // Close FAB menu when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.fab-container')) {
+                fabMenu.classList.remove('active');
+                fabButton.textContent = '✚';
+            }
+        });
+        
+        // Close FAB menu when clicking a menu item
+        fabMenu.querySelectorAll('.fab-menu-item').forEach(item => {
+            item.addEventListener('click', () => {
+                fabMenu.classList.remove('active');
+                fabButton.textContent = '✚';
+            });
+        });
+    }
+    
+    // Show/hide FAB based on scroll position
+    let lastScrollY = window.scrollY;
+    window.addEventListener('scroll', () => {
+        const fabContainer = document.querySelector('.fab-container');
+        if (fabContainer) {
+            if (window.scrollY < 100) {
+                fabContainer.style.opacity = '0.5';
+            } else {
+                fabContainer.style.opacity = '1';
+            }
+        }
+    });
+}
+
+// Breadcrumb navigation
+function initializeBreadcrumbs() {
+    const article = document.querySelector('article');
+    if (!article) return;
+    
+    // Get current page path
+    const path = window.location.pathname;
+    const pathParts = path.split('/').filter(part => part !== '');
+    
+    if (pathParts.length === 0 || pathParts[pathParts.length - 1] === 'index.html') {
+        return; // Don't show breadcrumbs on homepage
+    }
+    
+    // Build breadcrumb trail
+    let breadcrumbHTML = '<nav class="breadcrumb" aria-label="Breadcrumb navigation">';
+    breadcrumbHTML += '<a href="/">🏠 Home</a>';
+    
+    let currentPath = '';
+    pathParts.forEach((part, index) => {
+        if (part && part !== 'index.html') {
+            currentPath += '/' + part;
+            const isLast = index === pathParts.length - 1;
+            const displayName = formatBreadcrumbName(part);
+            
+            breadcrumbHTML += '<span class="breadcrumb-separator">›</span>';
+            
+            if (isLast) {
+                breadcrumbHTML += `<span>${displayName}</span>`;
+            } else {
+                breadcrumbHTML += `<a href="${currentPath}/">${displayName}</a>`;
+            }
+        }
+    });
+    
+    breadcrumbHTML += '</nav>';
+    
+    // Insert breadcrumb before article content
+    article.insertAdjacentHTML('afterbegin', breadcrumbHTML);
+}
+
+function formatBreadcrumbName(part) {
+    // Remove file extensions and numbers
+    let name = part.replace(/\.html|\.md/g, '').replace(/^\d+-/g, '');
+    
+    // Convert hyphens to spaces and capitalize
+    name = name.split('-').map(word => 
+        word.charAt(0).toUpperCase() + word.slice(1)
+    ).join(' ');
+    
+    return name;
+}
+
+// Social share functionality
+function initializeSocialShare() {
+    const contentPages = document.querySelector('article');
+    if (!contentPages) return;
+    
+    // Don't add social share on homepage
+    if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+        return;
+    }
+    
+    const pageTitle = document.querySelector('h1')?.textContent || 'Tigray Knowledge Base';
+    const pageUrl = encodeURIComponent(window.location.href);
+    const pageDescription = encodeURIComponent(document.querySelector('meta[name="description"]')?.content || 'The most comprehensive knowledge base on Tigray, Ethiopia');
+    
+    const socialShareHTML = `
+        <div class="social-share">
+            <span class="social-share-label">Share this page:</span>
+            <div class="social-share-buttons">
+                <a href="https://twitter.com/intent/tweet?url=${pageUrl}&text=${encodeURIComponent(pageTitle)}" 
+                   class="social-share-button" target="_blank" rel="noopener" aria-label="Share on Twitter" title="Share on Twitter">
+                    𝕏
+                </a>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=${pageUrl}" 
+                   class="social-share-button" target="_blank" rel="noopener" aria-label="Share on Facebook" title="Share on Facebook">
+                    f
+                </a>
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url=${pageUrl}" 
+                   class="social-share-button" target="_blank" rel="noopener" aria-label="Share on LinkedIn" title="Share on LinkedIn">
+                    in
+                </a>
+                <a href="mailto:?subject=${encodeURIComponent(pageTitle)}&body=${pageDescription}%0A%0A${pageUrl}" 
+                   class="social-share-button" aria-label="Share via Email" title="Share via Email">
+                    ✉
+                </a>
+                <a href="#" onclick="copyToClipboard('${window.location.href}'); return false;" 
+                   class="social-share-button" aria-label="Copy link" title="Copy link">
+                    🔗
+                </a>
+            </div>
+        </div>
+    `;
+    
+    // Add social share before footer or at end of article
+    const footer = contentPages.querySelector('footer') || contentPages;
+    footer.insertAdjacentHTML('beforebegin', socialShareHTML);
+}
+
+function copyToClipboard(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => {
+            showNotification('Link copied to clipboard!', 'success');
+        }).catch(() => {
+            fallbackCopyToClipboard(text);
+        });
+    } else {
+        fallbackCopyToClipboard(text);
+    }
+}
+
+function fallbackCopyToClipboard(text) {
+    const textArea = document.createElement('textarea');
+    textArea.value = text;
+    textArea.style.position = 'fixed';
+    textArea.style.left = '-999999px';
+    document.body.appendChild(textArea);
+    textArea.select();
+    
+    try {
+        document.execCommand('copy');
+        showNotification('Link copied to clipboard!', 'success');
+    } catch (err) {
+        showNotification('Could not copy link', 'error');
+    }
+    
+    document.body.removeChild(textArea);
+}
+
+function showNotification(message, type = 'info') {
+    const notification = document.createElement('div');
+    notification.className = `notification notification-${type}`;
+    notification.textContent = message;
+    notification.style.cssText = `
+        position: fixed;
+        bottom: 2rem;
+        left: 50%;
+        transform: translateX(-50%);
+        background: ${type === 'success' ? '#4caf50' : type === 'error' ? '#f44336' : '#2196f3'};
+        color: white;
+        padding: 1rem 2rem;
+        border-radius: 6px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        z-index: 10000;
+        animation: slideUp 0.3s ease;
+    `;
+    
+    document.body.appendChild(notification);
+    
+    setTimeout(() => {
+        notification.style.animation = 'slideDown 0.3s ease';
+        setTimeout(() => notification.remove(), 300);
+    }, 3000);
+}
+
+// Newsletter signup functionality
+function initializeNewsletter() {
+    const newsletterForms = document.querySelectorAll('.newsletter-form');
+    
+    newsletterForms.forEach(form => {
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const emailInput = form.querySelector('.newsletter-input');
+            const submitButton = form.querySelector('.newsletter-button');
+            const email = emailInput.value.trim();
+            
+            if (!isValidEmail(email)) {
+                showNotification('Please enter a valid email address', 'error');
+                return;
+            }
+            
+            // Disable button during submission
+            submitButton.disabled = true;
+            submitButton.textContent = 'Subscribing...';
+            
+            try {
+                // In production, this would send to your newsletter service
+                // For now, we'll simulate the submission
+                await simulateNewsletterSignup(email);
+                
+                showNotification('Successfully subscribed to newsletter!', 'success');
+                emailInput.value = '';
+                
+                // Track newsletter signup
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'newsletter_signup', {
+                        event_category: 'engagement',
+                        event_label: 'newsletter'
+                    });
+                }
+            } catch (error) {
+                showNotification('Could not subscribe. Please try again later.', 'error');
+            } finally {
+                submitButton.disabled = false;
+                submitButton.textContent = 'Subscribe';
+            }
+        });
+    });
+}
+
+function isValidEmail(email) {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return emailRegex.test(email);
+}
+
+async function simulateNewsletterSignup(email) {
+    // Simulate API call
+    return new Promise((resolve) => {
+        setTimeout(() => {
+            console.log('Newsletter signup:', email);
+            // In production, this would be:
+            // fetch('/api/newsletter/subscribe', {
+            //     method: 'POST',
+            //     headers: { 'Content-Type': 'application/json' },
+            //     body: JSON.stringify({ email })
+            // });
+            resolve();
+        }, 1000);
+    });
+}
+
+// Add CSS animation keyframes dynamically
+const style = document.createElement('style');
+style.textContent = `
+    @keyframes slideUp {
+        from { transform: translateX(-50%) translateY(100px); opacity: 0; }
+        to { transform: translateX(-50%) translateY(0); opacity: 1; }
+    }
+    
+    @keyframes slideDown {
+        from { transform: translateX(-50%) translateY(0); opacity: 1; }
+        to { transform: translateX(-50%) translateY(100px); opacity: 0; }
+    }
+`;
+document.head.appendChild(style);
 
 // Error handling and logging
 window.addEventListener('error', (e) => {
