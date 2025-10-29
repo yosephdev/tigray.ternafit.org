@@ -379,7 +379,7 @@ Questions about these Terms?
   
     ---
     
-    +46 (0)8 123 4567
+    +46 (70 356 6108
     
     Mon-Fri, 9:00-17:00 CET
 
