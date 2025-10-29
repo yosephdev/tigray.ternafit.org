@@ -49,7 +49,7 @@ Support our work with a single contribution of any amount.
 
 ### Monthly Supporter {#monthly}
 
-Join 127 monthly supporters who sustain our mission year-round.
+Join our growing community of monthly supporters who sustain our mission year-round.
 
 <div class="grid cards" markdown>
 
@@ -135,12 +135,12 @@ Organizations can support our mission while gaining recognition for their commit
   
     ---
     
-    **Goal**: $120,000 annually
+    **Annual Operating Goal**: $12,000
     
-    **Current**: $82,000 (68% funded)
+    **Current**: $2,400 (20% funded)
     
     <div class="progress-bar" style="background: #e0e0e0; height: 30px; border-radius: 15px; overflow: hidden; margin-top: 1rem;">
-    <div class="progress-fill" data-width="68%" style="background: linear-gradient(90deg, #4caf50, #8bc34a); height: 100%; width: 68%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; transition: width 2s ease;">68%</div>
+    <div class="progress-fill" data-width="20%" style="background: linear-gradient(90deg, #4caf50, #8bc34a); height: 100%; width: 20%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; transition: width 2s ease;">20%</div>
     </div>
 
 </div>
@@ -153,21 +153,17 @@ We're grateful to acknowledge our supporters:
 
 ### Major Donors (2024-2025)
 
-- **Anonymous Donor** - $25,000
-- **Tigray Diaspora Foundation** - $15,000
-- **Educational Research Alliance** - $10,000
-- **Individual supporters** - Over $30,000
+We are grateful to the following generous individuals who have supported our mission:
+
+- **Individual Supporters** - $2,400 (from kind individuals)
+
+*Note: TernaFit operates as a volunteer-driven initiative with minimal funding. Your support helps cover essential hosting and operational costs.*
 
 ### Current Monthly Supporters
 
-Join 127 dedicated monthly supporters from:
-- 🇺🇸 United States (42)
-- 🇬🇧 United Kingdom (18)
-- 🇸🇪 Sweden (15)
-- 🇨🇦 Canada (12)
-- 🇩🇪 Germany (10)
-- 🇦🇺 Australia (8)
-- 🌍 Other countries (22)
+We're building our community of monthly supporters. Join us today!
+
+*Your recurring support helps us maintain and expand this free educational resource.*
 
 [View Full Supporter List →](supporters.md){ .md-button .md-button--outline }
 
