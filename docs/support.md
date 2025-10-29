@@ -8,24 +8,31 @@
 ## 🎯 How Your Donation Helps
 
 <div class="impact-stats" markdown>
+
 <div class="impact-stats-grid">
+
 <div class="impact-stat">
 <span class="impact-stat-number">$25</span>
 <span class="impact-stat-label">Funds documentation of 5 villages</span>
 </div>
+
 <div class="impact-stat">
 <span class="impact-stat-number">$50</span>
 <span class="impact-stat-label">Supports data verification for 1 month</span>
 </div>
+
 <div class="impact-stat">
 <span class="impact-stat-number">$100</span>
 <span class="impact-stat-label">Enables translation of key documents</span>
 </div>
+
 <div class="impact-stat">
 <span class="impact-stat-number">$500</span>
 <span class="impact-stat-label">Funds research collaboration project</span>
 </div>
+
 </div>
+
 </div>
 
 ---
@@ -47,46 +54,46 @@ Join our growing community of monthly supporters who sustain our mission year-ro
 <div class="grid cards" markdown>
 
 - **📊 $10/month - Bronze Supporter**
-
+  
     ---
-
-  - Recognition on supporter page
-  - Monthly newsletter with exclusive updates
-  - Early access to new content
-
+    
+    - Recognition on supporter page
+    - Monthly newsletter with exclusive updates
+    - Early access to new content
+    
     [Become Bronze Supporter →](https://ternafit.org/donate?monthly=10){ .md-button }
 
 - **🥈 $25/month - Silver Supporter**
-
+  
     ---
-
-  - All Bronze benefits
-  - Quarterly detailed impact reports
-  - Your name in site credits
-  - Priority email support
-
+    
+    - All Bronze benefits
+    - Quarterly detailed impact reports
+    - Your name in site credits
+    - Priority email support
+    
     [Become Silver Supporter →](https://ternafit.org/donate?monthly=25){ .md-button }
 
 - **🥇 $50/month - Gold Supporter**
-
+  
     ---
-
-  - All Silver benefits
-  - Annual video call with team
-  - Exclusive research previews
-  - Logo on supporter page (organizations)
-
+    
+    - All Silver benefits
+    - Annual video call with team
+    - Exclusive research previews
+    - Logo on supporter page (organizations)
+    
     [Become Gold Supporter →](https://ternafit.org/donate?monthly=50){ .md-button }
 
 - **💎 $100+/month - Platinum Supporter**
-
+  
     ---
-
-  - All Gold benefits
-  - Advisory board consideration
-  - Custom research requests
-  - Speaking opportunities at events
-
+    
+    - All Gold benefits
+    - Advisory board consideration
+    - Custom research requests
+    - Speaking opportunities at events
+    
     [Become Platinum Supporter →](https://ternafit.org/donate?monthly=100){ .md-button }
 
 </div>
@@ -97,7 +104,7 @@ Join our growing community of monthly supporters who sustain our mission year-ro
 
 Organizations can support our mission while gaining recognition for their commitment to education and human rights.
 
-### Benefits Include
+### Benefits Include:
 
 - **Prominent logo placement** on homepage and about page
 - **Press release** announcing partnership
@@ -115,26 +122,26 @@ Organizations can support our mission while gaining recognition for their commit
 <div class="grid cards" markdown>
 
 - **💰 2024 Budget Breakdown**
-
+  
     ---
-
-  - **Research & Documentation**: 45%
-  - **Technology & Hosting**: 25%
-  - **Translation & Localization**: 15%
-  - **Community Outreach**: 10%
-  - **Administrative**: 5%
+    
+    - **Research & Documentation**: 45%
+    - **Technology & Hosting**: 25%
+    - **Translation & Localization**: 15%
+    - **Community Outreach**: 10%
+    - **Administrative**: 5%
 
 - **📊 Funding Progress (2025)**
-
+  
     ---
-
-    **Annual Operating Goal**: $12,000
-
+    
+    **Goal**: $12,000 annually
+    
     **Current**: $2,400 (20% funded)
-
-<div class="progress-bar" style="background: #e0e0e0; height: 30px; border-radius: 15px; overflow: hidden; margin-top: 1rem;">
-<div class="progress-fill" data-width="20%" style="background: linear-gradient(90deg, #4caf50, #8bc34a); height: 100%; width: 20%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; transition: width 2s ease;">20%</div>
-</div>
+    
+    <div class="progress-bar" style="background: #e0e0e0; height: 30px; border-radius: 15px; overflow: hidden; margin-top: 1rem;">
+    <div class="progress-fill" data-width="20%" style="background: linear-gradient(90deg, #4caf50, #8bc34a); height: 100%; width: 20%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; transition: width 2s ease;">20%</div>
+    </div>
 
 </div>
 
@@ -148,15 +155,11 @@ We're grateful to acknowledge our supporters:
 
 We are grateful to the following generous individuals who have supported our mission:
 
-- **Individual Supporters** - $2,400 (from kind individuals)
-
-*Note: TernaFit operates as a volunteer-driven initiative with minimal funding. Your support helps cover essential hosting and operational costs.*
+- **Individual supporters** - $2,400 total
 
 ### Current Monthly Supporters
 
-We're building our community of monthly supporters. Join us today!
-
-*Your recurring support helps us maintain and expand this free educational resource.*
+Join our growing community of monthly supporters from around the world.
 
 [View Full Supporter List →](supporters.md){ .md-button .md-button--outline }
 
@@ -173,33 +176,33 @@ You can help without donating money:
 - **📝 Contribute Content**
   
     ---
-
+    
     Share research, verify data, or translate content into other languages.
-
+    
     [Learn How →](contribute.md)
 
 - **📢 Spread the Word**
   
     ---
-
+    
     Share our resources on social media and with your networks.
-
+    
     [Share Tools →](#social-share)
 
 - **⭐ Cite Our Work**
   
     ---
-
+    
     Reference the knowledge base in academic papers and journalism.
-
+    
     [Citation Guide →](resources/citations.md)
 
 - **🤝 Partner With Us**
   
     ---
-
+    
     Collaborate on research projects or educational initiatives.
-
+    
     [Partnership Opportunities →](partnerships.md)
 
 </div>
@@ -209,7 +212,7 @@ You can help without donating money:
 ## 🔒 Secure Donations
 
 !!! info "Your Security is Our Priority"
-
+    
     All donations are processed through secure, encrypted payment gateways. We accept:
     
     - 💳 Credit/Debit Cards (Visa, Mastercard, Amex)
@@ -223,7 +226,7 @@ You can help without donating money:
 
 ## 📞 Questions About Donating?
 
-**Email**: <support@ternafit.org>  
+**Email**: support@ternafit.org  
 **Phone**: +46 (0)8 123 4567 (Sweden office)  
 **Hours**: Monday-Friday, 9:00-17:00 CET
 
