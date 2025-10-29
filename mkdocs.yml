@@ -54,6 +54,8 @@ nav:
     - index.md
     - About Ternafit: about.md
     - Contribute: contribute.md
+    - Support Us: support.md
+    - FAQ: faq.md
   
   # MAIN SECTIONS (Original + Gemini Strategic Framework)
   - Geography: 
@@ -107,6 +109,12 @@ nav:
     - Bibliography: resources/bibliography.md
     - Tags: tags.md
   
+  # SITE INFORMATION
+  - Site Info:
+    - Site Map: sitemap.md
+    - Privacy Policy: privacy-policy.md
+    - Terms of Service: terms-of-service.md
+  
   # DEVELOPMENT
   - Development:
     - Stub Articles: stubs.md
@@ -135,7 +143,11 @@ extra:
 
 copyright: >
   Copyright &copy; 2025 Ternafit NGO –
-  <a href="#__consent">Change cookie settings</a>
+  <a href="#__consent">Change cookie settings</a> •
+  <a href="/sitemap/">Site Map</a> •
+  <a href="/privacy-policy/">Privacy</a> •
+  <a href="/terms-of-service/">Terms</a> •
+  <a href="/support/">Support Us</a>
 
 plugins:
   - search:

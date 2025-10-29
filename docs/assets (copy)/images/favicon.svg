@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="faviconGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="100%" stop-color="#BF360C"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Premium background -->
+  <rect width="32" height="32" rx="6" fill="#FFF3E0"/>
+  
+  <!-- Simplified church -->
+  <rect x="5" y="8" width="9" height="16" rx="1" fill="url(#faviconGrad)"/>
+  
+  <!-- Cross -->
+  <rect x="8" y="5" width="2" height="6" fill="url(#faviconGrad)"/>
+  <rect x="6" y="7" width="6" height="2" fill="url(#faviconGrad)"/>
+  
+  <!-- Side chapel -->
+  <rect x="16" y="12" width="6" height="12" rx="1" fill="url(#faviconGrad)"/>
+  
+  <!-- Details -->
+  <circle cx="8" cy="15" r="1" fill="#FFB74D"/>
+  <circle cx="12" cy="15" r="1" fill="#FFB74D"/>
+  
+  <!-- Base -->
+  <rect x="4" y="24" width="18" height="1" fill="url(#faviconGrad)" opacity="0.6"/>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140">
+  <defs>
+    <!-- Premium gradient -->
+    <linearGradient id="primaryGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="30%" stop-color="#FF5722"/>
+      <stop offset="70%" stop-color="#E64A19"/>
+      <stop offset="100%" stop-color="#BF360C"/>
+    </linearGradient>
+    
+    <!-- Accent gradient for details -->
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFB74D"/>
+      <stop offset="100%" stop-color="#FF8A65"/>
+    </linearGradient>
+    
+    <!-- Professional shadow -->
+    <filter id="logoShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="rgba(191, 54, 12, 0.25)"/>
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="rgba(0, 0, 0, 0.15)"/>
+    </filter>
+    
+    <!-- Text shadow -->
+    <filter id="textShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="rgba(0, 0, 0, 0.1)"/>
+    </filter>
+  </defs>
+  
+  <!-- Enhanced Tigray Monument (Rock-hewn churches with Ethiopian architectural elements) -->
+  <g filter="url(#logoShadow)">
+    <!-- Main church structure with traditional proportions -->
+    <rect x="30" y="35" width="45" height="70" rx="2" fill="url(#primaryGrad)"/>
+    
+    <!-- Iconic cross on top -->
+    <rect x="47" y="20" width="11" height="25" rx="1" fill="url(#primaryGrad)"/>
+    <rect x="40" y="27" width="25" height="11" rx="1" fill="url(#primaryGrad)"/>
+    
+    <!-- Side chapel with distinctive Ethiopian style -->
+    <rect x="80" y="45" width="35" height="60" rx="2" fill="url(#primaryGrad)"/>
+    
+    <!-- Entrance with traditional arch -->
+    <path d="M35 95 Q52.5 80 70 95 Z" fill="url(#accentGrad)"/>
+    
+    <!-- Windows with Ethiopian style -->
+    <circle cx="45" cy="65" r="4" fill="url(#accentGrad)"/>
+    <circle cx="60" cy="65" r="4" fill="url(#accentGrad)"/>
+    <rect x="87" y="70" width="21" height="15" rx="7" fill="url(#accentGrad)"/>
+    
+    <!-- Decorative elements -->
+    <rect x="35" y="50" width="35" height="3" rx="1.5" fill="url(#accentGrad)" opacity="0.8"/>
+    <rect x="85" y="60" width="25" height="3" rx="1.5" fill="url(#accentGrad)" opacity="0.8"/>
+    
+    <!-- Base platform -->
+    <rect x="25" y="105" width="95" height="5" rx="2.5" fill="url(#primaryGrad)" opacity="0.6"/>
+  </g>
+  
+  <!-- Premium Typography -->
+  <text x="140" y="70" font-family="Inter, 'Segoe UI', system-ui, sans-serif" 
+        font-weight="800" font-size="38" fill="#1A1A1A" filter="url(#textShadow)">
+    TIGRAY
+  </text>
+  <text x="140" y="100" font-family="Inter, 'Segoe UI', system-ui, sans-serif" 
+        font-weight="400" font-size="22" fill="#424242" letter-spacing="2px">
+    KNOWLEDGE BASE
+  </text>
+  
+  <!-- Premium tagline -->
+  <text x="140" y="125" font-family="Inter, 'Segoe UI', system-ui, sans-serif" 
+        font-weight="500" font-size="12" fill="#FF5722" letter-spacing="1px">
+    HERITAGE • DATA • RESEARCH
+  </text>
+</svg>
