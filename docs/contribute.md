@@ -231,4 +231,4 @@ Contributors must:
 
 **Ready to contribute?** Start by choosing one of our [stub articles](stubs.md) to expand, or propose a new article by emailing us!
 
-*Last updated: August 2025*
+*Last updated: January 2026*

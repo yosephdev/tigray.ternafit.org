@@ -179,4 +179,4 @@ This page lists articles that need expansion or creation. **Stub articles** are 
 
 ---
 
-*Last updated: August 2025 | Help us grow this knowledge base!*
+*Last updated: January 2026 | Help us grow this knowledge base!*

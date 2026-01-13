@@ -152,7 +152,7 @@ Raising global awareness, informing policy, and partnering with communities and 
 ## Organization Information
 
 **Legal Name**: Ternafit NGO  
-**Founded**: 2020  
+**Founded**: 2024  
 **Legal Status**: Registered Non-Profit Organization  
 **Registration**: Sweden  
 **Focus Area**: Humanitarian Advocacy & Information Sharing
@@ -179,7 +179,7 @@ Sweden
 
 ### Tigray Crisis: The Situation Today
 
-As of August 2025, the humanitarian situation in Tigray remains critical:
+As of January 2026, the humanitarian situation in Tigray remains critical:
 
 - **5.4 Million** people need humanitarian aid
 - **2.1 Million** children are at risk
@@ -252,4 +252,4 @@ For more information about our work, partnership opportunities, or to get involv
 
 *Ternafit is a registered non-profit organization dedicated to serving the Tigrean community worldwide. We operate with full transparency and accountability to our community and supporters.*
 
-**© 2025 Ternafit NGO. All rights reserved.**
+**© 2026 Ternafit NGO. All rights reserved.**

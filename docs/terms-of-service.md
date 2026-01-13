@@ -1,7 +1,7 @@
 # Terms of Service 📋
 
 **Effective Date**: October 29, 2025  
-**Last Updated**: October 29, 2025
+**Last Updated**: January 13, 2026
 
 ---
 
@@ -45,7 +45,7 @@ You may NOT:
 
 ### Our Content
 
-**Copyright**: © 2025 Ternafit NGO. All rights reserved.
+**Copyright**: © 2026 Ternafit NGO. All rights reserved.
 
 The content on this Service is protected by copyright and other intellectual property laws:
 

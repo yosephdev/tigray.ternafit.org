@@ -139,7 +139,7 @@ Get answers to common questions about the Tigray Knowledge Base, its content, an
     - **Monthly**: Major content additions and revisions
     - **Quarterly**: Comprehensive reviews and audits
     
-    Last major update: October 29, 2025
+    Last major update: January 13, 2026
     
     [Subscribe to Updates →](/#newsletter-signup)
 
