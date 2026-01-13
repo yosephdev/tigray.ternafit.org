@@ -1,1 +1,0 @@
-## scrollable photo wall, audio testimonials, search-by-name.
