@@ -5,9 +5,9 @@
 
 <div class="hero-section" markdown>
 
-<a class="glightbox" href="assets/images/hero.svg"
+<a class="glightbox" href="assets/images/hero-image.svg"
    data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom">
-  <img alt="Tigray Banner" class="hero-image" src="assets/images/hero.svg">
+  <img alt="Tigray Banner" class="hero-image" src="assets/images/hero-image.svg">
 </a>
 
 ## A Living Archive of Memory, Heritage, and Resilience
