@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff7e5f"/>
+      <stop offset="100%" stop-color="#feb47b"/>
+    </linearGradient>
+  </defs>
+  <!-- background -->
+  <rect width="1200" height="400" fill="url(#sky)"/>
+  <!-- Tigray silhouette (rock-hewn church) -->
+  <path d="M150 250 L150 100 L200 100 L200 150 L250 150 L250 100 L300 100 L300 250 Z"
+        fill="#fff" opacity="0.9"/>
+  <!-- title -->
+  <text x="350" y="200" font-family="Inter" font-size="48" font-weight="700" fill="#fff">
+    Tigray Knowledge Base
+  </text>
+  <text x="350" y="240" font-family="Inter" font-size="18" fill="#fff">
+    Authoritative data • Maps • Memorial
+  </text>
+</svg>

@@ -1,6 +1,6 @@
 # Privacy Policy 🔒
 
-**Effective Date**: October 29, 2025  
+**Effective Date**: January 29, 2026  
 **Last Updated**: January 13, 2026
 
 ---

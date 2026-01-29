@@ -330,7 +330,7 @@ Help us improve the site:
 
 ---
 
-**Last Updated**: October 29, 2025  
+**Last Updated**: January 29, 2026  
 **Total Links**: 80+  
 **Navigation Depth**: 3 levels
 

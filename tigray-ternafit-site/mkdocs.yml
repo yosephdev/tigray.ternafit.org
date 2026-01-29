@@ -1,0 +1,54 @@
+site_name: Tigray Knowledge Base
+site_description: Documented information on Tigray's history, culture, and the 2020-2022 conflict
+site_url: https://tigray.ternafit.org
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - About:
+    - About Ternafit: about.md
+    - What This Is / Is Not: what-this-is.md
+    - Editorial Policy: editorial-policy.md
+    - Methodology: methodology.md
+    - Disclaimer: disclaimer.md
+    - Versioning: versioning.md
+  - War Documentation:
+    - Overview: war/index.md
+    - Path to War: war/path-to-war.md
+    - Human Rights Documentation: war/human-rights-atrocities.md
+    - Humanitarian Crisis: war/humanitarian-crisis.md
+    - Post-Conflict Situation: war/fragile-peace.md
+  - History:
+    - Ancient Tigray: history/ancient-tigray.md
+  - Geography:
+    - Geography & Topography: land/geography-topography.md
+  - Culture:
+    - The Tigrayan People: culture/tigrayan-people.md
+  - Resources:
+    - Digital Library: resources/digital-library.md
+  - Contribute: contribute.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/infoternafit
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/ternafit
+
+copyright: "&copy; Ternafit. Content subject to editorial policy and disclaimer."

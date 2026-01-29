@@ -434,7 +434,7 @@ Welcome to the **Tigray Knowledge Base Data Center** - your comprehensive source
     **Example**:
     ```
     Ternafit NGO. (2025). Tigray Population by Woreda 2024. 
-    Tigray Knowledge Base. Retrieved October 29, 2025, 
+    Tigray Knowledge Base. Retrieved January 29, 2026, 
     from https://tigray.ternafit.org/downloads/
     ```
 
@@ -549,5 +549,5 @@ For download problems or technical support:
 *Data downloads are provided free of charge for non-commercial use. Commercial licensing available upon request. Please ensure you have adequate storage space and bandwidth before initiating large downloads.*
 
 **Total Repository Size**: ~3.2 TB (as of October 2025)  
-**Last Updated**: October 29, 2025, 16:45 EAT  
+**Last Updated**: January 29, 2026, 16:45 EAT  
 **Next Data Release**: November 15, 2025
