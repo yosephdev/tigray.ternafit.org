@@ -233,6 +233,7 @@ Special thanks to:
 
 ## 🔄 Version History
 
+- **v2.1.0** (January 29, 2026): Fix Vega-Lite rendering, move assets into `docs/` for MkDocs, add missing CSV datasets, update metadata and docs
 - **v2.0.0** (August 2025): Complete redesign with professional branding
 - **v1.5.0** (July 2025): Added interactive charts and data visualization
 - **v1.0.0** (June 2025): Initial launch with core content sections
