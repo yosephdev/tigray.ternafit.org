@@ -127,6 +127,48 @@ We welcome contributions from researchers, developers, designers, and subject ma
 6. Push to your fork (`git push origin feature/description`)
 7. Submit a Pull Request with detailed description
 
+## 💝 Support & Funding
+
+The Tigray Knowledge Base is maintained by volunteers and supported through donations. Your contribution helps us:
+
+- 🌍 Maintain servers and hosting infrastructure
+- 📚 Acquire research materials and data sources
+- 🔍 Conduct fact-checking and verification
+- 🛠️ Develop new features and improvements
+- 🌐 Translate content into multiple languages
+
+### 🤲 How to Support
+
+You can support this project through:
+
+| Platform | Link | Purpose |
+|----------|------|---------|
+| **GitHub Sponsors** | [Sponsor yosephdev](https://github.com/sponsors/yosephdev) | Direct monthly support |
+| **Open Collective** | [tigray-knowledge-base](https://opencollective.com/tigray-knowledge-base) | Transparent collective funding |
+| **Buy Me a Coffee** | [buymeacoffee.com/tigraykb](https://buymeacoffee.com/tigraykb) | One-time donations |
+| **Custom Donation** | [Ternafit NGO](https://ternafit.org/donate) | Organization-wide support |
+
+### Other Ways to Contribute
+
+Not able to donate financially? You can still help:
+
+- **⭐ Star the repository** on GitHub
+- **🔗 Share** the project with researchers and institutions
+- **📝 Contribute** content, code, or documentation
+- **🐛 Report** issues and suggest improvements
+- **🌐 Translate** content into other languages
+
+### Funding Transparency
+
+All funds received through these platforms are used exclusively for:
+1. Hosting and infrastructure costs ($50-100/month)
+2. Domain registration and SSL certificates ($30/year)
+3. Data acquisition and research materials
+4. Development tools and services
+5. Community outreach and promotion
+
+*Note: Ternafit NGO is a registered non-profit organization. Donations may be tax-deductible in some jurisdictions.*
+
 ### Quality Standards
 
 - ✅ **Accuracy**: All claims must be verifiable with cited sources
