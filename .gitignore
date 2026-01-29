@@ -1,6 +1,18 @@
 # MkDocs build output
 site/
 
+# AI Workflow & Implementation tracking (development only)
+docs/ai-workflow.md
+docs/IMPLEMENTATION-STATUS.md
+docs/IMPLEMENTATION-COMPLETE.md
+docs/tags-implementation-example.md
+docs/internal-linking-roadmap.md
+docs/internal-linking-template.md
+docs/chart-test.md
+docs/contribute-test.html
+docs/logo-test.html
+docs/test-chart.html
+
 # Python
 __pycache__/
 *.py[cod]
