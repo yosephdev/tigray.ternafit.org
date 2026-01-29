@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![Tigray Knowledge Base](docs/assets/images/hero-image.svg)
+![Tigray Knowledge Base](/assets/images/hero-image.svg)
 
 **The World's Most Comprehensive Resource on Tigray, Ethiopia**
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftigray.ternafit.org)](https://tigray.ternafit.org)
-[![Build Status](https://api.netlify.com/api/v1/badges/e31e97e2-5a6a-45f7-892a-ad59b8bd4f80/deploy-status)](https://app.netlify.com/projects/ternafit/deploys)
-[![License](https://img.shields.io/github/license/yosephdev/tigray.ternafit.org?style=flat&color=blue)](LICENSE)
+[![Build Status](https://img.shields.io/badge/build-cloudflare-orange?style=flat)](https://dash.cloudflare.com/)
+[![License](https://img.shields.io/github/license/yosephdev/tigray.ternafit.org?style=flat&color=blue)](https://github.com/yosephdev/tigray.ternafit.org/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/yosephdev/tigray.ternafit.org?style=flat&color=green)](https://github.com/yosephdev/tigray.ternafit.org/commits/main)
 
 [🌐 **Visit Live Site**](https://tigray.ternafit.org) • [📚 **Documentation**](docs/) • [🤝 **Contribute**](CONTRIBUTING.md) • [🐛 **Report Issues**](https://github.com/yosephdev/tigray.ternafit.org/issues)

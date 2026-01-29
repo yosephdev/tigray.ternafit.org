@@ -150,7 +150,7 @@ We are grateful to the following generous individuals who have supported our mis
 
 - **Individual Supporters** - $2,400 (from kind individuals)
 
-*Note: TernaFit operates as a volunteer-driven initiative with minimal funding. Your support helps cover essential hosting and operational costs.*
+*Note: Ternafit operates as a volunteer-driven initiative with minimal funding. Your support helps cover essential hosting and operational costs.*
 
 ### Current Monthly Supporters
 
