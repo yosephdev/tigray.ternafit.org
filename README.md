@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Tigray Knowledge Base](docs/assets/images/hero.svg)
+![Tigray Knowledge Base](docs/assets/images/hero-image.svg)
 
 **The World's Most Comprehensive Resource on Tigray, Ethiopia**
 
