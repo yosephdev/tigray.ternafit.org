@@ -10,7 +10,7 @@ docs_dir: docs
 
 theme:
   name: material
-  logo: assets/images/hero-image.svg
+  logo: assets/images/logo-primary.svg
   favicon: assets/images/favicon.svg
   language: en
   palette:
