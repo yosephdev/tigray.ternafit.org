@@ -36,10 +36,14 @@ text
 
 The Interim Regional Administration faces paralysis following the January 5th resignation of key cabinet members in protest of federal interference. The administration's authority has eroded significantly amid renewed conflict.
 Key Leadership (January 2026)
-Position	Official	Status	Background
-Interim President	Lt. Gen. Tadesse Worede	Resigned Jan 5	Submitted resignation citing "impossible working conditions"
-Deputy President	Amanuel Assefa	Acting President	Struggling to maintain administrative functions
-Security Bureau Head	Gen. Fiseha Kidanu	Detained Jan 7	Arrested by federal security forces during border inspection
+Key Leadership (January 2026)
+
+| Position | Official | Status | Background |
+|---|---:|---|---|
+| Interim President | Lt. Gen. Tadesse Worede | Resigned Jan 5 | Submitted resignation citing "impossible working conditions" |
+| Deputy President | Amanuel Assefa | Acting President | Struggling to maintain administrative functions |
+| Security Bureau Head | Gen. Fiseha Kidanu | Detained Jan 7 | Arrested by federal security forces during border inspection |
+
 Leadership Changes and Political Context
 
 !!! danger "Crisis Update: January 2026"
