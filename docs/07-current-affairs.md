@@ -28,13 +28,15 @@ tags:
     **Humanitarian Needs**: 2.8 million people now require urgent assistance, famine conditions emerging  
     **International Presence**: UN operations restricted, several NGOs forced to suspend operations  
     **Political Status**: Interim administration paralyzed, federal relations at breaking point  
-    **Territorial Control**: ~35% of pre-war Tigray territory under occupation; new fighting reported
+---
 
-1. Current Governance Structure
-1.1 Interim Regional Administration
+## 1. Current Governance Structure
+
+### 1.1 Interim Regional Administration
 
 The Interim Regional Administration faces paralysis following the January 5th resignation of key cabinet members in protest of federal interference. The administration's authority has eroded significantly amid renewed conflict.
-Key Leadership (January 2026)
+
+#### Key Leadership (January 2026)
 
 | Position | Official | Status | Background |
 |---|---:|---|---|
@@ -46,25 +48,23 @@ Leadership Changes and Political Context
 
 !!! danger "Crisis Update: January 2026"
 
-    **January 5-7 Crisis**: 
-- Interim President Tadesse Worede resigns
-- Security Bureau Head Gen. Fiseha Kidanu arrested
-- Three additional cabinet members resign in solidarity
-- Federal government imposes travel restrictions on remaining officials
+    - Interim President Tadesse Worede resigns
+    - Security Bureau Head Gen. Fiseha Kidanu arrested
+    - Three additional cabinet members resign in solidarity
+    - Federal government imposes travel restrictions on remaining officials
 
-**January 8 Emergency Meeting**: Remaining cabinet declares "constitutional crisis," requests AU emergency session.
+    **January 8 Emergency Meeting**: Remaining cabinet declares "constitutional crisis," requests AU emergency session.
 
-**Current Status**: Administration operating at 40% capacity, most decisions requiring federal approval.
+    **Current Status**: Administration operating at 40% capacity, most decisions requiring federal approval.
 
-Administrative Challenges
+### Administrative Challenges
 
 !!! warning "Governance Collapse"
 
-    **Authority Breakdown**: 
-- 12 of 23 cabinet positions now vacant or filled by acting officials
-- Federal police now controlling 8 of 12 regional ministry buildings
-- Budget frozen since December 15, 2025
-- Communication with districts reduced to 30% functionality
+    - 12 of 23 cabinet positions now vacant or filled by acting officials
+    - Federal police now controlling 8 of 12 regional ministry buildings
+    - Budget frozen since December 15, 2025
+    - Communication with districts reduced to 30% functionality
 
 ```vegalite
 {
@@ -140,11 +140,10 @@ Casualties: Estimated 240+ killed, 1,200+ displaced in January clashes.
 
 !!! danger "Active Conflict Zones"
 
-    **Red Alert Areas** (as of Jan 10):
-1. Adigrat-Adwa corridor: Heavy fighting reported
-2. Western Tigray border: Amhara militia incursions
-3. Shire area: Eritrean artillery bombardments
-4. Mekelle outskirts: Federal forces establishing perimeter
+    1. Adigrat-Adwa corridor: Heavy fighting reported
+    2. Western Tigray border: Amhara militia incursions
+    3. Shire area: Eritrean artillery bombardments
+    4. Mekelle outskirts: Federal forces establishing perimeter
 
 3. Humanitarian Situation
 3.1 Current Needs Assessment
@@ -189,17 +188,15 @@ Funding Status (Emergency Appeal)
 
 !!! danger "Funding and Access Crisis"
 
-    **January Emergency Appeal**: $650 million (6 months)  
-**Funded**: $78 million (12%)  
-**Access Routes Closed**: 
-- Semera-Abala road (closed Dec 28)
-- Gondar-Shire route (closed Jan 3)
-- Air access restricted to UNHAS only
-
-**Critical Updates**:
-- Fuel reserves: 3 days remaining
-- Food stocks: 7 days at 50% ration
-- 12 NGOs suspended operations Jan 1-10
+    - **January Emergency Appeal**: $650 million (6 months)  
+    - **Funded**: $78 million (12%)  
+    - **Access Routes Closed**: 
+        - Semera-Abala road (closed Dec 28)
+        - Gondar-Shire route (closed Jan 3)
+        - Air access restricted to UNHAS only
+    - **Fuel reserves**: 3 days remaining
+    - **Food stocks**: 7 days at 50% ration
+    - **12 NGOs suspended operations** Jan 1-10
 
 4. Reconstruction Efforts
 4.1 Infrastructure Rehabilitation
@@ -261,15 +258,12 @@ Electoral Crisis
 
 !!! danger "Democratic Process Frozen"
 
-    **January 4 Federal Decree**:
-- All electoral preparations suspended
-- Voter registration materials impounded
-- International observer visas cancelled
-- Political gatherings banned
-
-**Constitutional Challenge**: Tigrayan legal scholars filing complaint with African Court (Jan 9)
-
-**International Reaction**: EU, US, AU expressing "deep concern"
+    - **January 4 Federal Decree**: All electoral preparations suspended
+    - **Voter registration materials** impounded
+    - **International observer visas** cancelled
+    - **Political gatherings** banned
+    - **Constitutional Challenge**: Tigrayan legal scholars filing complaint with African Court (Jan 9)
+    - **International Reaction**: EU, US, AU expressing "deep concern"
 
 5.2 Federal-Regional Relations
 Crisis Points (January 2026)
@@ -420,16 +414,15 @@ Communications Breakdown
 
 !!! danger "Information Warfare"
 
-    **Federal Measures**:
-- Total internet shutdown since January 5
-- SMS blocked, voice calls monitored
-- Satellite signal jamming reported
-- Journalists: 17 detained, 3 missing
+    - **Total internet shutdown** since January 5
+    - **SMS blocked**, voice calls monitored
+    - **Satellite signal jamming** reported
+    - **Journalists**: 17 detained, 3 missing
 
-**Regional Response**:
-- Clandestine radio broadcasts (30-minute daily windows)
-- Messenger networks re-established
-- Diaspora networks providing information bridge
+    **Regional Response**:
+    - Clandestine radio broadcasts (30-minute daily windows)
+    - Messenger networks re-established
+    - Diaspora networks providing information bridge
 
 10. Health System Recovery
 10.1 Healthcare Infrastructure Collapse
@@ -540,22 +533,22 @@ text
 !!! danger "Life-saving Interventions Required"
 
     **Humanitarian Catastrophe Prevention**:
-- Immediate aid corridor opening
-- Medical evacuation routes
-- Food distribution to 2.8M
-- Water purification supplies
+    - Immediate aid corridor opening
+    - Medical evacuation routes
+    - Food distribution to 2.8M
+    - Water purification supplies
 
-**Political Emergency**:
-- High-level international mediation
-- Ceasefire agreement
-- Release of detained officials
-- Restoration of basic administration
+    **Political Emergency**:
+    - High-level international mediation
+    - Ceasefire agreement
+    - Release of detained officials
+    - Restoration of basic administration
 
-**Security Emergency**:
-- Separation of forces
-- Civilian protection
-- De-escalation mechanisms
-- Monitoring deployment
+    **Security Emergency**:
+    - Separation of forces
+    - Civilian protection
+    - De-escalation mechanisms
+    - Monitoring deployment
 
 14.2 Emergency Outlook (January-March 2026)
 
