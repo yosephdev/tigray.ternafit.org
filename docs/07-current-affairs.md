@@ -22,20 +22,18 @@ tags:
 # Current Affairs & Situation Report
 
 !!! info "Last Updated: January 10, 2026"
-text
 
-**Situation Status**: Heightened political crisis, humanitarian emergency worsening as aid blockade tightens  
-**Security Level**: Critical; major clashes reported, Eritrean military buildup confirmed  
-**Humanitarian Needs**: 2.8 million people now require urgent assistance, famine conditions emerging  
-**International Presence**: UN operations restricted, several NGOs forced to suspend operations  
-**Political Status**: Interim administration paralyzed, federal relations at breaking point  
-**Territorial Control**: ~35% of pre-war Tigray territory under occupation; new fighting reported
+    **Situation Status**: Heightened political crisis, humanitarian emergency worsening as aid blockade tightens  
+    **Security Level**: Critical; major clashes reported, Eritrean military buildup confirmed  
+    **Humanitarian Needs**: 2.8 million people now require urgent assistance, famine conditions emerging  
+    **International Presence**: UN operations restricted, several NGOs forced to suspend operations  
+    **Political Status**: Interim administration paralyzed, federal relations at breaking point  
+    **Territorial Control**: ~35% of pre-war Tigray territory under occupation; new fighting reported
 
 1. Current Governance Structure
 1.1 Interim Regional Administration
 
 The Interim Regional Administration faces paralysis following the January 5th resignation of key cabinet members in protest of federal interference. The administration's authority has eroded significantly amid renewed conflict.
-Key Leadership (January 2026)
 Key Leadership (January 2026)
 
 | Position | Official | Status | Background |
@@ -47,9 +45,8 @@ Key Leadership (January 2026)
 Leadership Changes and Political Context
 
 !!! danger "Crisis Update: January 2026"
-text
 
-**January 5-7 Crisis**: 
+    **January 5-7 Crisis**: 
 - Interim President Tadesse Worede resigns
 - Security Bureau Head Gen. Fiseha Kidanu arrested
 - Three additional cabinet members resign in solidarity
@@ -62,9 +59,8 @@ text
 Administrative Challenges
 
 !!! warning "Governance Collapse"
-text
 
-**Authority Breakdown**: 
+    **Authority Breakdown**: 
 - 12 of 23 cabinet positions now vacant or filled by acting officials
 - Federal police now controlling 8 of 12 regional ministry buildings
 - Budget frozen since December 15, 2025
@@ -143,9 +139,8 @@ Casualties: Estimated 240+ killed, 1,200+ displaced in January clashes.
 | Southern | ENDF | Federal police/ENDF | 340,000 | Checkpoints every 20km |
 
 !!! danger "Active Conflict Zones"
-text
 
-**Red Alert Areas** (as of Jan 10):
+    **Red Alert Areas** (as of Jan 10):
 1. Adigrat-Adwa corridor: Heavy fighting reported
 2. Western Tigray border: Amhara militia incursions
 3. Shire area: Eritrean artillery bombardments
@@ -193,9 +188,8 @@ International Assistance (Current Status)
 Funding Status (Emergency Appeal)
 
 !!! danger "Funding and Access Crisis"
-text
 
-**January Emergency Appeal**: $650 million (6 months)  
+    **January Emergency Appeal**: $650 million (6 months)  
 **Funded**: $78 million (12%)  
 **Access Routes Closed**: 
 - Semera-Abala road (closed Dec 28)
@@ -266,9 +260,8 @@ Regional Response: January 6 - "Unconstitutional suspension of democratic rights
 Electoral Crisis
 
 !!! danger "Democratic Process Frozen"
-text
 
-**January 4 Federal Decree**:
+    **January 4 Federal Decree**:
 - All electoral preparations suspended
 - Voter registration materials impounded
 - International observer visas cancelled
@@ -426,9 +419,8 @@ Communications Breakdown
     Information flow: Dependent on ICRC/ICRC satellite messengers
 
 !!! danger "Information Warfare"
-text
 
-**Federal Measures**:
+    **Federal Measures**:
 - Total internet shutdown since January 5
 - SMS blocked, voice calls monitored
 - Satellite signal jamming reported
@@ -546,9 +538,8 @@ text
 14.1 Immediate Priorities (Next 72 hours)
 
 !!! danger "Life-saving Interventions Required"
-text
 
-**Humanitarian Catastrophe Prevention**:
+    **Humanitarian Catastrophe Prevention**:
 - Immediate aid corridor opening
 - Medical evacuation routes
 - Food distribution to 2.8M
