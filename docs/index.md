@@ -45,7 +45,7 @@ We're thrilled to introduce **'Ternafit Guide,'** our new AI assistant! Ever had
 
 Ask about ancient Aksum, traditional foods, current regions, or Ternafit's work. Think of it as a helpful starting point for your curiosity!
 
-Where to find it: You can chat with **'Ternafit Guide'** right here in our Instagram DMs! Just go to our profile (@ternafit) and tap **Message** — or visit: https://aistudio.instagram.com/ai/1392862749512645/
+Where to find it: You can chat with **'Ternafit Guide'** right here in our Instagram DMs! Just go to our profile (https://www.instagram.com/ternafit/) and tap **Message** — or visit: https://aistudio.instagram.com/ai/1392862749512645/
 
 We built this tool to make learning about Tigray more interactive and accessible. Give it a try and let us know what you think! What's the first thing you'll ask?
 
