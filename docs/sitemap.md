@@ -235,7 +235,7 @@ Complete navigation guide to all sections of the Tigray Knowledge Base.
 ### Social Media
 - [Twitter/X](https://x.com/infoternafit) - Follow for updates
 - [Facebook](https://facebook.com/ternafit) - Community page
-- [Instagram](https://instagram.com/ternafit) - Visual content
+- [Instagram](https://www.instagram.com/ternafit/) - Visual content
 
 ---
 
