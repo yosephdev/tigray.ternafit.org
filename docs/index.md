@@ -37,6 +37,25 @@ Your donations help preserve Tigray's history and provide essential documentatio
 
 ---
 
+<div class="instagram-ai-guide" markdown>
+
+## Meet Your Personal Guide to Tigray! 🤖✨
+
+We're thrilled to introduce **'Ternafit Guide,'** our new AI assistant! Ever had a quick question about Tigray's history, geography, or culture? Now you can get instant, friendly answers.
+
+Ask about ancient Aksum, traditional foods, current regions, or Ternafit's work. Think of it as a helpful starting point for your curiosity!
+
+Where to find it: You can chat with **'Ternafit Guide'** right here in our Instagram DMs! Just go to our profile (@ternafit) and tap **Message** — or visit: https://aistudio.instagram.com/ai/1392862749512645/
+
+We built this tool to make learning about Tigray more interactive and accessible. Give it a try and let us know what you think! What's the first thing you'll ask?
+
+👉 Click the link in our bio to go to our profile and start chatting!
+
+#Ternafit #Tigray #TigrayKnowledgeBase #AI #DigitalHeritage #Ethiopia #LearnWithAI #History #Culture #TechForGood
+
+</div>
+
+
 !!! danger "Urgent Documentation"
     **The 2020-2022 Tigray War** was one of the deadliest conflicts of the 21st century. This knowledge base provides comprehensive documentation of the war's origins, conduct, and aftermath, based on international investigations and verified sources.
 

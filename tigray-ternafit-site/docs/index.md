@@ -16,6 +16,21 @@ This knowledge base compiles documented information about the Tigray region of E
 
 ---
 
+## Meet Your Personal Guide to Tigray! 🤖✨
+
+We're excited to introduce **'Ternafit Guide,'** our new AI assistant that can answer quick questions about Tigray's history, geography, and culture.
+
+Ask about ancient Aksum, traditional foods, current regions, or Ternafit's work. It's a friendly starting point for your curiosity.
+
+Where to find it: Chat with **'Ternafit Guide'** in our Instagram DMs — visit our profile (@ternafit) and tap **Message**, or see: https://aistudio.instagram.com/ai/1392862749512645/
+
+We built this tool to make learning about Tigray more interactive and accessible. Give it a try — what's the first thing you'll ask?
+
+👉 Click the link in our bio to go to our profile and start chatting!
+
+#Ternafit #Tigray #TigrayKnowledgeBase #AI #DigitalHeritage #Ethiopia #LearnWithAI #History #Culture #TechForGood
+
+
 ## Content Advisory
 
 This knowledge base includes documentation of the 2020-2022 Tigray War, including references to mass atrocities, sexual violence, displacement, and humanitarian crisis. This content is based on investigations by international human rights organizations and United Nations bodies.
