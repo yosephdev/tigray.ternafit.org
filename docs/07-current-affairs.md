@@ -338,9 +338,13 @@ Organization Presence
 | WHO | Collapsed health support | 5% | Medical evacuation flights denied |
 | WFP | Suspended | 0% | All convoys halted |
 | ICRC | Only medical operations | 25% | Working under military escort |
-8. Economic Indicators
-8.1 Economic Collapse
-Key Metrics (January 2026 Crisis)
+
+## 8. Economic Indicators
+
+### 8.1 Economic Collapse
+
+#### Key Metrics (January 2026 Crisis)
+
 ```vegalite
 {
   "data": {
@@ -378,33 +382,46 @@ Key Metrics (January 2026 Crisis)
 }
 ```
 
-8.2 Investment and Development
-Project Status (All Suspended)
+### 8.2 Investment and Development
 
-    Mekelle Industrial Park: $45M, 0% progress since November
+#### Project Status (All Suspended)
 
-    Shire Agricultural Processing: $23M, vandalized January 4
+- Mekelle Industrial Park: $45M — 0% progress since November
+- Shire Agricultural Processing: $23M — vandalized January 4
+- Adigrat Technology Hub: $12M — cancelled
+- Humera Logistics Center: $34M — occupied by military
 
-    Adigrat Technology Hub: $12M, cancelled
+**Total investment loss since December:** $114 million
 
-    Humera Logistics Center: $34M, occupied by military
+## 9. Media and Information
 
-Total investment loss since December: $114 million
-9. Media and Information
-9.1 Media Landscape
+### 9.1 Media Landscape
+
 Information Blackout (January 2026)
 
 | Media Type | Status | Federal Control |
-|------------|---------|-------|-------------------|
+|---|---|---:|
 | Television | All stations off air Jan 5 | 100% |
 | Radio | 2 state-run stations only | 100% |
 | Print Media | All newspapers banned | 100% |
 | Online | Internet shutdown 95% | 100% |
 | Social Media | Complete blockage | 100% |
-9.2 Information Access
+
+### 9.2 Information Access
+
 Communications Breakdown
 
-    Mobile coverage: 18% of territory (down from 72%)
+- Mobile coverage: 18% of territory (down from 72%)
+- Internet access: 2% of population (down from 45%)
+- Satellite phones: Only option, requires military permit
+- Information flow: Dependent on ICRC/ICRC satellite messengers
+
+!!! danger "Information Warfare"
+
+    - **Total internet shutdown** since January 5
+    - **SMS blocked**, voice calls monitored
+    - **Satellite signal jamming** reported
+    - **Journalists**: 17 detained, 3 missing
 
     Internet access: 2% of population (down from 45%)
 
