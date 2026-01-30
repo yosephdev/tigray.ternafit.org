@@ -132,12 +132,15 @@ Overall Assessment: Critical deterioration since December 20. Major clashes repo
 
 Casualties: Estimated 240+ killed, 1,200+ displaced in January clashes.
 2.2 Territorial Control
-Area	Control Status	Security Forces	Population Affected	Notes
-Central Tigray	Federal Police/ENDF	Federal forces	3.1 million	Martial law declared Jan 8
-Western Tigray	Amhara forces	Amhara SF, Fano	510,000	Reinforcements arriving
-Northern Border	Eritrean forces	EDF brigades	310,000	Full military buildup
-Eastern Border	ENDF	Federal military	210,000	Heavy artillery deployed
-Southern	ENDF	Federal police/ENDF	340,000	Checkpoints every 20km
+2.2 Territorial Control
+
+| Area | Control Status | Security Forces | Population Affected | Notes |
+|---|---|---|---:|---|
+| Central Tigray | Federal Police/ENDF | Federal forces | 3.1 million | Martial law declared Jan 8 |
+| Western Tigray | Amhara forces | Amhara SF, Fano | 510,000 | Reinforcements arriving |
+| Northern Border | Eritrean forces | EDF brigades | 310,000 | Full military buildup |
+| Eastern Border | ENDF | Federal military | 210,000 | Heavy artillery deployed |
+| Southern | ENDF | Federal police/ENDF | 340,000 | Checkpoints every 20km |
 
 !!! danger "Active Conflict Zones"
 text
@@ -178,12 +181,15 @@ Population in Need by Sector
 
 3.2 Humanitarian Response
 International Assistance (Current Status)
-Organization	Status	Access Level	People Reached (Jan)
-WFP	Operations suspended Jan 6	No access	120,000 (pre-suspension)
-UNICEF	Emergency operations only	15% access	85,000
-WHO	Critical medevac only	10% access	42,000
-UNHCR	Protection monitoring only	5% access	18,000
-ICRC	Only operational agency	40% access	210,000
+International Assistance (Current Status)
+
+| Organization | Status | Access Level | People Reached (Jan) |
+|---|---|---:|---:|
+| WFP | Operations suspended Jan 6 | No access | 120,000 (pre-suspension) |
+| UNICEF | Emergency operations only | 15% access | 85,000 |
+| WHO | Critical medevac only | 10% access | 42,000 |
+| UNHCR | Protection monitoring only | 5% access | 18,000 |
+| ICRC | Only operational agency | 40% access | 210,000 |
 Funding Status (Emergency Appeal)
 
 !!! danger "Funding and Access Crisis"
@@ -336,12 +342,15 @@ Jan 9	EU Foreign Ministers call	Josep Borrell, Ethiopian FM	Agreement to "keep t
 Jan 10	China mediation offer	Chinese Ambassador	Accepted by federal govt, rejected by region
 7.2 International Organization Presence
 Emergency Status
-Organization	Status	Access	Critical Constraints
-UN OCHA	Emergency mode	15%	No fuel, communications jammed
-UNICEF	Life-saving only	10%	Supplies blocked at border
-WHO	Collapsed health support	5%	Medical evacuation flights denied
-WFP	Suspended	0%	All convoys halted
-ICRC	Only medical operations	25%	Working under military escort
+Organization Presence
+
+| Organization | Status | Access | Critical Constraints |
+|---|---|---:|---|
+| UN OCHA | Emergency mode | 15% | No fuel, communications jammed |
+| UNICEF | Life-saving only | 10% | Supplies blocked at border |
+| WHO | Collapsed health support | 5% | Medical evacuation flights denied |
+| WFP | Suspended | 0% | All convoys halted |
+| ICRC | Only medical operations | 25% | Working under military escort |
 8. Economic Indicators
 8.1 Economic Collapse
 Key Metrics (January 2026 Crisis)
