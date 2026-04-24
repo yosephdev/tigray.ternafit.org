@@ -201,32 +201,15 @@
     });
   });
 
-  /* ── 9. COLOUR MODE TOGGLE ─────────────────────────────── */
-  const themeToggleBtn = document.getElementById('theme-toggle');
-
-  // On load: apply saved preference (dark is the default)
-  const savedTheme = localStorage.getItem('tkb-theme');
-  if (savedTheme === 'light') {
-    document.documentElement.setAttribute('data-theme', 'light');
-    if (themeToggleBtn) themeToggleBtn.setAttribute('aria-label', 'Switch to dark mode');
-  }
-
-  if (themeToggleBtn) {
-    themeToggleBtn.addEventListener('click', () => {
-      const isLight = document.documentElement.getAttribute('data-theme') === 'light';
-      if (isLight) {
-        // Switch to dark
-        document.documentElement.removeAttribute('data-theme');
-        localStorage.setItem('tkb-theme', 'dark');
-        themeToggleBtn.setAttribute('aria-label', 'Switch to light mode');
-      } else {
-        // Switch to light
-        document.documentElement.setAttribute('data-theme', 'light');
-        localStorage.setItem('tkb-theme', 'light');
-        themeToggleBtn.setAttribute('aria-label', 'Switch to dark mode');
-      }
-    });
-  }
+  /* ── 9. FORCE DARK LANDING PAGE ─────────────────────────────
+     The redesigned homepage is intentionally dark-first. Any
+     previously-saved `tkb-theme=light` preference is cleared here
+     so returning visitors always see the designed look. Colour-mode
+     switching lives on the MkDocs Material pages. */
+  try {
+    document.documentElement.removeAttribute('data-theme');
+    localStorage.removeItem('tkb-theme');
+  } catch (_) { /* localStorage blocked — no-op */ }
 
   /* ── 10. SEARCH REDIRECT ─────────────────────────────────── */
   const searchInput = document.getElementById('hero-search');
