@@ -178,10 +178,13 @@ button { cursor: pointer; font-family: inherit; }
 }
 .nav.scrolled { background: rgba(13,31,60,0.97); backdrop-filter: blur(8px); }
 
+.nav > .container { height: 100%; }
+
 .nav__inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  min-height: var(--nav-h);
   height: 100%;
   gap: var(--sp-3);
 }
