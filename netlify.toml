@@ -1,6 +1,6 @@
 [build]
   publish = "site"
-  command = "python -m pip install --upgrade pip && pip install -r requirements.txt && mkdocs build"
+  command = "python -m pip install --upgrade pip && pip install -r requirements.txt && mkdocs build && cp -r redesign site/redesign"
 
 [build.environment]
   PYTHON_VERSION = "3.12.0"
@@ -12,7 +12,7 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
-    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://unpkg.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://unpkg.com; img-src 'self' data: https:; connect-src 'self' https:; font-src 'self' https://fonts.gstatic.com"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://unpkg.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://unpkg.com https://fonts.googleapis.com; img-src 'self' data: https:; connect-src 'self' https:; font-src 'self' https://fonts.gstatic.com"
 
 [[headers]]
   for = "*.css"
