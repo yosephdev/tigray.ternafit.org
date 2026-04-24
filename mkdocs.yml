@@ -16,15 +16,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue grey
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue grey
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -41,8 +41,6 @@ theme:
     - search.share
     - content.code.copy
     - content.code.annotate
-    - content.action.edit
-    - content.action.view
     - content.tooltips
     - header.autohide
   font:
@@ -96,28 +94,30 @@ nav:
       - The Fragile Peace: war/fragile-peace.md
       - War Timeline: war/timeline.md
       - Memorial: war/memorial.md
-  - Current Affairs: 
+  - Current Affairs:
     - Overview: 07-current-affairs.md
     - Latest News: current/news.md
-  - Downloads: 
+    - Situation Report: current/situation-report.md
+  - Downloads:
     - Standard: 08-downloads.md
     - Enhanced: 08-downloads-enhanced.md
-  
-  # RESOURCES (Gemini Digital Library Recommendation)
+
+  # RESOURCES
   - Resources:
     - Digital Library: resources/digital-library.md
     - Bibliography: resources/bibliography.md
     - Tags: tags.md
-  
-  # SITE INFORMATION
-  - Site Info:
-    - Site Map: sitemap.md
-    - Privacy Policy: privacy-policy.md
-    - Terms of Service: terms-of-service.md
-  
-  # DEVELOPMENT
-  - Development:
-    - Stub Articles: stubs.md
+
+  # SITE INFO — kept in footer links; removed from top nav to reduce clutter
+  # Uncomment to restore as nav tabs:
+  # - Site Info:
+  #   - Site Map: sitemap.md
+  #   - Privacy Policy: privacy-policy.md
+  #   - Terms of Service: terms-of-service.md
+
+  # DEVELOPMENT — commented out for production
+  # - Development:
+  #   - Stub Articles: stubs.md
 
 extra:
   generator: false
@@ -130,20 +130,18 @@ extra:
       link: https://x.com/infoternafit
     - icon: fontawesome/solid/globe
       link: https://ternafit.org
-  analytics:
-    provider: google
-    property: G-XXXXXXXXXX
-  consent:
-    title: Cookie consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+  # analytics:        # Uncomment and set a real GA4 property ID to enable tracking
+  #   provider: google
+  #   property: G-XXXXXXXXXX
+  # consent:           # Only enable cookie consent when analytics is actually running
+  #   title: Cookie consent
+  #   description: >-
+  #     We use cookies to recognize your repeated visits and preferences, as well
+  #     as to measure the effectiveness of our documentation and whether users
+  #     find what they're searching for.
 
 copyright: >
   Copyright &copy; 2026 Ternafit NGO –
-  <a href="#__consent">Change cookie settings</a> •
   <a href="/sitemap/">Site Map</a> •
   <a href="/privacy-policy/">Privacy</a> •
   <a href="/terms-of-service/">Terms</a> •

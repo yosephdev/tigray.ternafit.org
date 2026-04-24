@@ -1,6 +1,9 @@
 # MkDocs build output
 site/
 
+# MkDocs Material social-card plugin cache
+.cache/
+
 # AI Workflow & Implementation tracking (development only)
 docs/ai-workflow.md
 docs/IMPLEMENTATION-STATUS.md

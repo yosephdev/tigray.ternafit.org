@@ -1,5 +1,36 @@
 /* Custom CSS for Tigray Knowledge Base */
 
+/* ──────────────────────────────────────────────────────────────
+   Brand palette — matches the redesign homepage (redesign/styles.css)
+   Navy header + gold accents.
+   ────────────────────────────────────────────────────────────── */
+:root {
+  /* Primary (header, footer, tabs) — deep navy */
+  --md-primary-fg-color:         #0d1f3c;
+  --md-primary-fg-color--light:  #162d55;
+  --md-primary-fg-color--dark:   #0a172d;
+  --md-primary-bg-color:         #ffffff;
+  --md-primary-bg-color--light:  rgba(255, 255, 255, 0.7);
+
+  /* Accent (links, hover, focus) — gold */
+  --md-accent-fg-color:              #c49a2a;
+  --md-accent-fg-color--transparent: rgba(196, 154, 42, 0.10);
+  --md-accent-bg-color:              #0d1f3c;
+  --md-accent-bg-color--light:       rgba(13, 31, 60, 0.70);
+}
+
+/* Dark mode: keep the same navy header but lift the accent gold
+   for better contrast against the dark page background. */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:         #0d1f3c;
+  --md-primary-fg-color--light:  #1e3d70;
+  --md-primary-fg-color--dark:   #0a172d;
+
+  --md-accent-fg-color:              #e8b94f;
+  --md-accent-fg-color--transparent: rgba(232, 185, 79, 0.12);
+  --md-accent-bg-color:              #0d1f3c;
+}
+
 /* Hero section styling */
 .hero-section {
     background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
