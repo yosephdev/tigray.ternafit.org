@@ -149,6 +149,9 @@ copyright: >
   <a href="/terms-of-service/">Terms</a> •
   <a href="/support/">Support Us</a>
 
+hooks:
+  - hooks/redesign_homepage.py
+
 plugins:
   - search:
       lang: en
