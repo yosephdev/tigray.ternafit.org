@@ -1382,15 +1382,12 @@ button { cursor: pointer; font-family: inherit; }
   margin-bottom: var(--sp-4);
 }
 .footer__brand-icon {
-  width: 42px; height: 42px;
-  background: url('/assets/images/logo-primary.svg') no-repeat center center;
-  background-size: contain;
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
   border-radius: var(--r-md);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.3rem;
   flex-shrink: 0;
+  display: block;
 }
 .footer__brand-name {
   font-weight: 700;
