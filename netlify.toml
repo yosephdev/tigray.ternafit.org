@@ -1,6 +1,6 @@
 [build]
   publish = "site"
-  command = "python -m pip install --upgrade pip && pip install -r requirements.txt && mkdocs build && cp -r redesign site/redesign"
+  command = "python -m pip install --upgrade pip && pip install -r requirements.txt && mkdocs build && cp -r redesign site/redesign && cp redesign/index.html redesign/styles.css redesign/script.js site/"
 
 [build.environment]
   PYTHON_VERSION = "3.12.0"
