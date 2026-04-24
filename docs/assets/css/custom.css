@@ -31,6 +31,22 @@
   --md-accent-bg-color:              #0d1f3c;
 }
 
+/* Header brand — mirror the redesign homepage navbar:
+   a larger logo icon next to the site title. */
+.md-header__button.md-logo {
+  margin: 0 .4rem 0 0;
+  padding: 0;
+}
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2.25rem;
+  width: 2.25rem;
+}
+.md-header__title {
+  font-weight: 600;
+  letter-spacing: .01em;
+}
+
 /* Hero section styling */
 .hero-section {
     background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
