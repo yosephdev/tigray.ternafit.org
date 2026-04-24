@@ -64,75 +64,57 @@ Mebrat is a dedicated and experienced leader with a background in humanitarian a
 
 ---
 
-## Recognition & Awards
-
-### 🏆 Best Tigrean Community Support Initiative 2025 – Sweden
-
-We're proud to announce that Ternafit has been recognized by **Acquisition International Magazine** as the **Best Tigrean Community Support Initiative 2025** in Sweden.
-
-This honor belongs to everyone who has supported, contributed to, and believed in our mission to connect, inform, and empower the Tigrayan diaspora around the world.
-
-> *"This recognition underscores the vital role of diaspora-led collaboration in supporting communities in crisis."* - Yoseph Berhane, Executive Director
-
 ---
 
 ## Our Impact So Far
 
+Working alongside our partner **ADS Tigray** (Anenitigray Development Services), Ternafit has contributed to the following verified outcomes:
+
 <div class="stats-grid" markdown>
 
 <div class="stat-card" markdown>
-**500+**
+**45+**
 {: .stat-number}
 
-Information Pieces Shared
+Volunteers Trained
 {: .stat-label}
 
-Reliable updates and resources shared with our community, keeping people informed about developments in Tigray.
+Local community members equipped with trauma recognition and Child and Family Support (CFS) management skills.
 </div>
 
 <div class="stat-card" markdown>
-**5**
+**2,200+**
 {: .stat-number}
 
-Awareness Campaigns
+Children Reached
 {: .stat-label}
 
-Major campaigns launched to raise global awareness about the Tigrayan situation and advocate for community rights.
+Through Child-Friendly Spaces (CFS) creating safe environments for conflict-affected children to heal through play and learning.
 </div>
 
 <div class="stat-card" markdown>
-**5+**
+**20**
 {: .stat-number}
 
-Community Connections
+CSO Leaders Trained
 {: .stat-label}
 
-Partnerships and connections built with organizations working to support Tigray recovery and development.
+Civil society organization leaders trained to strengthen regional organizational structures for crisis response.
 </div>
 
 <div class="stat-card" markdown>
-**200+**
+**2024**
 {: .stat-number}
 
-Newsletter Subscribers
+Year Founded
 {: .stat-label}
 
-Active subscribers staying informed about Tigray through our regular communications.
-</div>
-
-<div class="stat-card" markdown>
-**3,500+**
-{: .stat-number}
-
-People Reached
-{: .stat-label}
-
-Through our comprehensive information campaigns and community outreach efforts.
+Registered non-profit in Sweden, operating with volunteer staff and community-driven governance.
 </div>
 
 </div>
 
-*These numbers represent real impact, but there's still much work to be done. Join us in making an even greater difference.*
+*Ternafit is a small, volunteer-run organization. These numbers reflect what we have actually done — not projections or aspirations.*
 
 ---
 
@@ -179,14 +161,17 @@ Sweden
 
 ### Tigray Crisis: The Situation Today
 
-As of January 2026, the humanitarian situation in Tigray remains critical:
+As of April 2026, the humanitarian situation in Tigray is severe and worsening:
 
-- **5.4 Million** people need humanitarian aid
-- **2.1 Million** children are at risk
-- **89%** of the population lacks access to basic services
-- **Urgent action** is needed for recovery and reconstruction
+- **5.4 million** people need urgent humanitarian assistance — nearly 91% of Tigray's population (UN/OCHA)
+- **350,000+** people are in IPC Phase 5 "Catastrophe" famine conditions — the worst food crisis anywhere in the world right now (UN analysis, April 2026)
+- **Food aid fell by more than 50%** between January and November 2025, with beneficiaries dropping from 1.66 million to 726,000 (Omna Tigray, March 2026)
+- **80% of health posts and 73% of health centers** are damaged or destroyed; two-thirds of facilities remain non-functional
+- Renewed armed clashes between TDF and Ethiopian federal forces in January 2026 represent the most significant ceasefire breach since the Pretoria Agreement
 
-Ternafit works tirelessly to ensure accurate information reaches the global community and that effective aid connections are facilitated.
+Ternafit works to ensure accurate, source-backed information about this crisis reaches the global community and that effective aid connections are facilitated.
+
+Sources: [UN News](https://news.un.org/en/story/2026/02/1166930) · [Omna Tigray March 2026 Quarterly Report](https://omnatigray.org/wp-content/uploads/2026/03/March-2026-Quarterly-Situation-Report.pdf) · [Al Jazeera](https://www.aljazeera.com/features/2026/1/23/hunger-death-devastation-no-respite-in-tigray-a-year-after-us-aid-cuts)
 
 ---
 
@@ -232,11 +217,11 @@ Ternafit is committed to transparency in all our operations:
 ### Partnership Success
 Our collaboration with Anenitigray Development Services (ADS) has resulted in enhanced fundraising capabilities and expanded reach for development programs in Tigray.
 
-### Award Recognition  
-Being recognized as the "Best Tigrean Community Support Initiative 2025" by Acquisition International Magazine validates our approach and commitment.
+### Digital Literacy Training (September 2025)
+Ternafit and ADS co-hosted a digital literacy and AI tools training session in September 2025, directly equipping Tigrayan youth with practical skills for the global economy — filling a gap left by the destruction of educational infrastructure.
 
-### Growing Network
-Our subscriber base and community connections continue to grow, enabling us to reach more people with vital information and aid opportunities.
+### Growing Subscriber Base
+Our newsletter connects diaspora members, researchers, and advocates with verified updates on the situation in Tigray.
 
 ---
 

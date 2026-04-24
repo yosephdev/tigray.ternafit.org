@@ -30,6 +30,9 @@
 
 ---
 
+!!! note "Before You Donate"
+    Ternafit is a small, volunteer-run NGO registered in Sweden. Your donation goes directly to hosting, documentation, translation, and community outreach costs. We do not have paid staff. If you have questions about how funds are used, email [support@ternafit.org](mailto:support@ternafit.org) — we respond to every inquiry.
+
 ## 💳 Ways to Donate
 
 ### One-Time Donation
@@ -50,9 +53,9 @@ Join our growing community of monthly supporters who sustain our mission year-ro
 
     ---
 
-  - Recognition on supporter page
-  - Monthly newsletter with exclusive updates
-  - Early access to new content
+  - Named recognition on our supporters page
+  - Updates on new content and developments
+  - Our genuine gratitude
 
     [Become Bronze Supporter →](https://ternafit.org/donate?monthly=10){ .md-button }
 
@@ -61,9 +64,8 @@ Join our growing community of monthly supporters who sustain our mission year-ro
     ---
 
   - All Bronze benefits
-  - Quarterly detailed impact reports
   - Your name in site credits
-  - Priority email support
+  - Priority email responses from the team
 
     [Become Silver Supporter →](https://ternafit.org/donate?monthly=25){ .md-button }
 
@@ -72,9 +74,9 @@ Join our growing community of monthly supporters who sustain our mission year-ro
     ---
 
   - All Silver benefits
-  - Annual video call with team
-  - Exclusive research previews
-  - Logo on supporter page (organizations)
+  - Early access to new research and documentation
+  - Logo or name featured on supporter page (organizations and individuals)
+  - Direct acknowledgment in annual transparency report
 
     [Become Gold Supporter →](https://ternafit.org/donate?monthly=50){ .md-button }
 
@@ -83,9 +85,9 @@ Join our growing community of monthly supporters who sustain our mission year-ro
     ---
 
   - All Gold benefits
-  - Advisory board consideration
-  - Custom research requests
-  - Speaking opportunities at events
+  - Named acknowledgment in all major publications and reports
+  - Direct contact with the research team
+  - Input on content priorities and documentation focus areas
 
     [Become Platinum Supporter →](https://ternafit.org/donate?monthly=100){ .md-button }
 
@@ -215,17 +217,15 @@ You can help without donating money:
     - 💳 Credit/Debit Cards (Visa, Mastercard, Amex)
     - 🏦 Bank Transfers (SEPA, Wire Transfer)
     - 💰 PayPal
-    - ₿ Cryptocurrency (Bitcoin, Ethereum)
     
-    **Tax Receipts**: Available for all donations over $25 (US donors) or equivalent.
+    **Tax Receipts**: Available for all donations over $25 (US donors) or equivalent. For questions about receipts or payment methods, contact [support@ternafit.org](mailto:support@ternafit.org).
 
 ---
 
 ## 📞 Questions About Donating?
 
 **Email**: <support@ternafit.org>  
-**Phone**: +46 (0)8 123 4567 (Sweden office)  
-**Hours**: Monday-Friday, 9:00-17:00 CET
+*We are a volunteer-run organization. Email response time is typically 2–5 business days.*
 
 [Frequently Asked Questions →](faq.md){ .md-button .md-button--outline }
 

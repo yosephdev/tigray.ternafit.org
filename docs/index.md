@@ -39,19 +39,11 @@ Your donations help preserve Tigray's history and provide essential documentatio
 
 <div class="instagram-ai-guide" markdown>
 
-## Meet Your Personal Guide to Tigray! 🤖✨
+## Ask Ternafit Guide
 
-We're thrilled to introduce **'Ternafit Guide,'** our new AI assistant! Ever had a quick question about Tigray's history, geography, or culture? Now you can get instant, friendly answers.
+Have a question about Tigray's history, geography, or culture? **Ternafit Guide** is an AI assistant available on Instagram that can provide immediate answers and point you toward deeper resources in this knowledge base.
 
-Ask about ancient Aksum, traditional foods, current regions, or Ternafit's work. Think of it as a helpful starting point for your curiosity!
-
-Where to find it: You can chat with **'Ternafit Guide'** right here in our Instagram DMs! Just go to our profile (https://www.instagram.com/ternafit/) and tap **Message** — or visit: https://aistudio.instagram.com/ai/1392862749512645/
-
-We built this tool to make learning about Tigray more interactive and accessible. Give it a try and let us know what you think! What's the first thing you'll ask?
-
-👉 Click the link in our bio to go to our profile and start chatting!
-
-#Ternafit #Tigray #TigrayKnowledgeBase #AI #DigitalHeritage #Ethiopia #LearnWithAI #History #Culture #TechForGood
+[Chat with Ternafit Guide on Instagram →](https://aistudio.instagram.com/ai/1392862749512645/){ .md-button }
 
 </div>
 
@@ -170,28 +162,28 @@ Understanding contemporary Tigray requires deep historical context:
 
 <div class="impact-stats" markdown>
 
-## 🌟 Our Impact
+## About This Project
 
 <div class="impact-stats-grid">
 
 <div class="impact-stat">
-<span class="impact-stat-number">500K+</span>
-<span class="impact-stat-label">Visitors Annually</span>
+<span class="impact-stat-number">2024</span>
+<span class="impact-stat-label">Founded by Ternafit NGO</span>
 </div>
 
 <div class="impact-stat">
-<span class="impact-stat-number">1,200+</span>
-<span class="impact-stat-label">Cited by Researchers</span>
+<span class="impact-stat-number">3,000+</span>
+<span class="impact-stat-label">Years of history documented</span>
 </div>
 
 <div class="impact-stat">
-<span class="impact-stat-number">50+</span>
-<span class="impact-stat-label">Countries Reached</span>
+<span class="impact-stat-number">Free</span>
+<span class="impact-stat-label">Open access, no paywall, always</span>
 </div>
 
 <div class="impact-stat">
-<span class="impact-stat-number">200+</span>
-<span class="impact-stat-label">Community Contributors</span>
+<span class="impact-stat-number">5.4M</span>
+<span class="impact-stat-label">People in need — why this work matters</span>
 </div>
 
 </div>
@@ -200,45 +192,9 @@ Understanding contemporary Tigray requires deep historical context:
 
 ---
 
-<div class="testimonials-section" markdown>
+## 💬 In the Press
 
-## 💬 What Researchers Say
-
-<div class="testimonials-grid">
-
-<div class="testimonial-card">
-<p class="testimonial-quote">"This resource was invaluable for my dissertation on Horn of Africa conflicts. The comprehensive documentation and verified sources made it an essential reference."</p>
-<div class="testimonial-author">
-<div>
-<div class="testimonial-author-name">Dr. Maria Rodriguez</div>
-<div class="testimonial-author-title">PhD Candidate, International Relations, Columbia University</div>
-</div>
-</div>
-</div>
-
-<div class="testimonial-card">
-<p class="testimonial-quote">"As a journalist covering the Tigray conflict, this knowledge base provided crucial context and verified data that informed my reporting for international media."</p>
-<div class="testimonial-author">
-<div>
-<div class="testimonial-author-name">James Omondi</div>
-<div class="testimonial-author-title">Investigative Journalist, BBC Africa</div>
-</div>
-</div>
-</div>
-
-<div class="testimonial-card">
-<p class="testimonial-quote">"An extraordinary repository of Tigrayan culture and history. Essential for anyone in the diaspora wanting to connect with their heritage."</p>
-<div class="testimonial-author">
-<div>
-<div class="testimonial-author-name">Sara Gebreyesus</div>
-<div class="testimonial-author-title">Community Leader, Tigray Diaspora Network</div>
-</div>
-</div>
-</div>
-
-</div>
-
-</div>
+This knowledge base has been shared by researchers, journalists, and advocates working on Tigray documentation. If you have cited or referenced this resource in published work, [let us know](mailto:contact@ternafit.org) and we will acknowledge it here.
 
 ---
 
@@ -252,12 +208,12 @@ Understanding contemporary Tigray requires deep historical context:
 <span>Verified Sources</span>
 </div>
 <div class="trust-badge">
-<span class="trust-badge-icon">🏆</span>
-<span>AI Magazine 2025 Recognition</span>
+<span class="trust-badge-icon">📚</span>
+<span>Evidence-Based Content</span>
 </div>
 <div class="trust-badge">
 <span class="trust-badge-icon">🌍</span>
-<span>International Partnerships</span>
+<span>Free & Open Access</span>
 </div>
 </div>
 
@@ -340,13 +296,13 @@ This knowledge base grows through community collaboration:
 
 ## :material-information: Key Statistics
 
-!!! info "Latest Data (August 2025)"
+!!! info "Latest Data (April 2026)"
 
     === "Population"
         - **Total Population**: 7.1 million (2024 est.)
         - **Population Density**: 89 people/km²
         - **Urban Population**: 22.4%
-        - **IDPs**: 1.2 million (post-war)
+        - **IDPs**: Hundreds of thousands remain in camps in Mekelle, Shire, and Adigrat
 
     === "Geography"
         - **Area**: 80,000 km² (31,000 sq mi)
@@ -357,8 +313,8 @@ This knowledge base grows through community collaboration:
     === "Economy"
         - **GDP**: $3.2 billion (2024 est.)
         - **Main Exports**: Sesame, livestock, gold
-        - **Agriculture**: 45% of economy
-        - **Unemployment**: 23% (post-war)
+        - **Agriculture**: 45% of economy (severely disrupted post-war)
+        - **Unemployment**: Estimated 23%+ post-war
 
 ---
 
@@ -396,10 +352,10 @@ Tigray stands as the **cradle of Ethiopian civilization**, home to:
 
 ### Recent Developments
 
-- **August 2025**: Tekeze Bridge reconstruction completed, restoring vital transport link
-- **July 2025**: UN reports 2.1 million people still need humanitarian assistance
-- **June 2025**: Mekelle University reopens with limited capacity
-- **May 2025**: New IDP return statistics show 400,000 people returned home
+- **April 2026**: TPLF Central Committee meets in Axum, votes to reinstate pre-war 2020 council — raising risk of renewed conflict ([Addis Standard](https://addisstandard.com/tigray-interim-president-says-tplf-move-to-reinstate-pre-war-council-nullifies-pretoria-agreement/))
+- **April 2026**: UN analysis confirms 350,000+ people in Tigray in IPC Phase 5 "Catastrophe" — the worst food crisis in a decade ([Euractiv](https://www.euractiv.com/news/more-than-350000-people-in-ethiopias-tigray-in-famine-un-analysis/))
+- **January 2026**: TDF operations in Tselemt and federal drone strikes in Central Tigray — most significant ceasefire breach since 2022 ([Al Jazeera](https://www.aljazeera.com/news/2026/1/29/clashes-between-government-troops-and-tigrayan-forces-erupt-in-ethiopia))
+- **January 2026**: Al Jazeera reports 80% of Tigray's population in urgent need of emergency assistance; food aid cut by more than 50% since 2025
 
 [:material-newspaper: View All News](current/news.md){ .md-button .md-button--outline }
 
@@ -411,12 +367,9 @@ Tigray stands as the **cradle of Ethiopian civilization**, home to:
 
 ### 📧 Stay Informed About Tigray
 
-Join 200+ subscribers receiving weekly updates on new content, research, and developments.
+Receive updates on new content, research, and developments in Tigray.
 
-<form class="newsletter-form">
-<input type="email" class="newsletter-input" placeholder="Enter your email address" required>
-<button type="submit" class="newsletter-button">Subscribe</button>
-</form>
+[Subscribe to Updates →](https://dev.us9.list-manage.com/subscribe/post?u=17d8ed2a68846353b5803e6f6&id=43d363d756&f_id=001c52e1f0){ .md-button }
 
 </div>
 
@@ -452,6 +405,6 @@ All statistics are cross-referenced and uncertainties clearly indicated.
 
 !!! info "Project Status"
 
-    **Last updated:** January 29, 2026  
-    **Next update:** Real-time data feeds updated daily  
-    **Version:** 2025.10 (Current)
+    **Last updated:** April 24, 2026  
+    **Next update:** Ongoing — updated as verified reports are published  
+    **Version:** 2026.04 (Current)
